@@ -10,8 +10,8 @@ test('amp', function (t) {
 });
 
 test('html', function (t) {
-    var a = '<html> © π " \'';
-    var b = '&lt;html&gt; &copy; &pi; &quot; &apos;';
+    var a = '<html> © π " \' ∴ Β β';
+    var b = '&lt;html&gt; &copy; &pi; &quot; &apos; &there4; &Beta; &beta;';
     t.equal(ent.encode(a), b);
     t.equal(ent.decode(b), a);
     t.end();
@@ -22,7 +22,7 @@ test('num', function (t) {
     var b = '&#1337;';
     t.equal(ent.encode(a), b);
     t.equal(ent.decode(b), a);
-    
+
     t.equal(ent.encode(a + a), b + b);
     t.equal(ent.decode(b + b), a + a);
     t.end();
@@ -40,15 +40,15 @@ test('hex', function (t) {
             t.equal(ent.encode(a), '&#' + i + ';');
         }
     }
-    
+
     for (var i = 127; i < 2000; i++) {
         var a = String.fromCharCode(i);
         var b = '&#x' + i.toString(16) + ';';
         var c = '&#X' + i.toString(16) + ';';
-        
+
         t.equal(ent.decode(b), a);
         t.equal(ent.decode(c), a);
-        
+
         var encoded = ent.encode(a);
         var encoded2 = ent.encode(a + a);
         if (!encoded.match(/^&\w+;/)) {
