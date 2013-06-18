@@ -1,10 +1,12 @@
 var entities = require('./entities.json');
 
-var revEntities = {};
+var revEntities = {},
+    stringEntities = {};
 for (var key in entities) {
     var e = entities[key];
     var s = typeof e === 'number' ? String.fromCharCode(e) : e;
     revEntities[s] = key;
+    if (typeof e === 'string') stringEntities[e] = key;
 }
 
 exports.encode = function (str, options) {
@@ -16,7 +18,7 @@ exports.encode = function (str, options) {
         decimalOnly = opts.decimalOnly || false;
 
     return str.split('').map(function (c) {
-        var e = !decimalOnly ? revEntities[c] : undefined;
+        var e = !decimalOnly ? revEntities[c] : stringEntities[c];
         var cc = c.charCodeAt(0);
         if (e) {
             return '&' + e + ';';

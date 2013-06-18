@@ -78,11 +78,20 @@ test('decimal encoding', function (t) {
             t.equal(encodedDec, '&#' + e + ';');
         }
         else {
-            t.equal(encodedDec, e);
+            t.equal(encodedDec, a);
         }
 
         t.equal(decoded, ent.decode(encodedDec));
     }
+
+    t.end();
+});
+
+test('double encoding', function(t) {
+    var a = '&3509;&3510;';
+
+    t.equal(ent.encode(a), '&amp;3509;&amp;3510;');
+    t.equal(ent.encode(a, { decimalOnly: true }), '&amp;3509;&amp;3510;');
 
     t.end();
 });
