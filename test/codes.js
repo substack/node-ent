@@ -1,5 +1,6 @@
 var test = require('tape');
 var ent = require('../');
+var entities = require('../entities.json');
 
 test('amp', function (t) {
     var a = 'a & b & c';
@@ -56,5 +57,32 @@ test('hex', function (t) {
             t.equal(encoded2, '&#' + i + ';&#' + i + ';');
         }
     }
+    t.end();
+});
+
+
+test('decimal encoding', function (t) {
+    for (var key in entities) {
+        var e = entities[key],
+            a = '&' + key + ';';
+
+        // Decode into the Unicode character
+        var decoded = ent.decode(a);
+        t.equal(decoded, (typeof e == 'number') ? String.fromCharCode(e) : e);
+
+        // Encode it as a decimal entity
+        var encodedDec = ent.encode(decoded, { decimalOnly: true });
+
+        // Make sure the decimal entity is properly encoded
+        if (typeof e == 'number') {
+            t.equal(encodedDec, '&#' + e + ';');
+        }
+        else {
+            t.equal(encodedDec, e);
+        }
+
+        t.equal(decoded, ent.decode(encodedDec));
+    }
+
     t.end();
 });

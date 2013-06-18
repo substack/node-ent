@@ -11,6 +11,7 @@ Encode and decode HTML entities
 ``` js
 var ent = require('ent');
 console.log(ent.encode('<span>©moo</span>'))
+console.log(ent.encode('<span>©moö</span>', { decimalOnly: true }));
 console.log(ent.decode('&pi; &amp; &rho;'));
 ```
 
@@ -23,9 +24,10 @@ console.log(ent.decode('&pi; &amp; &rho;'));
 
 # methods
 
-## encode(str)
+## encode(str, options)
 
-Escape unsafe characters in `str` with html entities.
+Escape unsafe characters in `str` with html entities. The `options` object can contain the following properties:
+* `decimalOnly: true` to force encoding to use decimal entities instead of named ones.
 
 ## decode(str)
 
