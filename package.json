@@ -15,7 +15,8 @@
     ],
     "license" : "MIT",
     "scripts" : {
-        "test" : "tap test/*.js"
+        "test" : "tap test/*.js",
+        "prepublish" : "node build/index.js"
     },
     "testling" : {
         "files" : "test/*.js",

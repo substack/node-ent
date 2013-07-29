@@ -18,6 +18,14 @@ test('html', function (t) {
     t.end();
 });
 
+test('entities', function (t) {
+    var a = '\u2124';
+    var b = '&Zopf;';
+    t.equal(ent.encode(a), b);
+    t.equal(ent.decode(b), a);
+    t.end();
+});
+
 test('num', function (t) {
     var a = String.fromCharCode(1337);
     var b = '&#1337;';

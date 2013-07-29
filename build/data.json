@@ -1,0 +1,8926 @@
+[
+	{
+		"reference": "&Aacute;",
+		"glyph": "\u00c1"
+	},
+	{
+		"reference": "&Aacute",
+		"glyph": "\u00c1"
+	},
+	{
+		"reference": "&aacute;",
+		"glyph": "\u00e1"
+	},
+	{
+		"reference": "&aacute",
+		"glyph": "\u00e1"
+	},
+	{
+		"reference": "&Abreve;",
+		"glyph": "\u0102"
+	},
+	{
+		"reference": "&abreve;",
+		"glyph": "\u0103"
+	},
+	{
+		"reference": "&ac;",
+		"glyph": "\u223e"
+	},
+	{
+		"reference": "&acd;",
+		"glyph": "\u223f"
+	},
+	{
+		"reference": "&acE;",
+		"glyph": "\u223e\u0333"
+	},
+	{
+		"reference": "&Acirc;",
+		"glyph": "\u00c2"
+	},
+	{
+		"reference": "&Acirc",
+		"glyph": "\u00c2"
+	},
+	{
+		"reference": "&acirc;",
+		"glyph": "\u00e2"
+	},
+	{
+		"reference": "&acirc",
+		"glyph": "\u00e2"
+	},
+	{
+		"reference": "&acute;",
+		"glyph": "\u00b4"
+	},
+	{
+		"reference": "&acute",
+		"glyph": "\u00b4"
+	},
+	{
+		"reference": "&Acy;",
+		"glyph": "\u0410"
+	},
+	{
+		"reference": "&acy;",
+		"glyph": "\u0430"
+	},
+	{
+		"reference": "&AElig;",
+		"glyph": "\u00c6"
+	},
+	{
+		"reference": "&AElig",
+		"glyph": "\u00c6"
+	},
+	{
+		"reference": "&aelig;",
+		"glyph": "\u00e6"
+	},
+	{
+		"reference": "&aelig",
+		"glyph": "\u00e6"
+	},
+	{
+		"reference": "&af;",
+		"glyph": "\u2061"
+	},
+	{
+		"reference": "&Afr;",
+		"glyph": "\ud835\udd04"
+	},
+	{
+		"reference": "&afr;",
+		"glyph": "\ud835\udd1e"
+	},
+	{
+		"reference": "&Agrave;",
+		"glyph": "\u00c0"
+	},
+	{
+		"reference": "&Agrave",
+		"glyph": "\u00c0"
+	},
+	{
+		"reference": "&agrave;",
+		"glyph": "\u00e0"
+	},
+	{
+		"reference": "&agrave",
+		"glyph": "\u00e0"
+	},
+	{
+		"reference": "&alefsym;",
+		"glyph": "\u2135"
+	},
+	{
+		"reference": "&aleph;",
+		"glyph": "\u2135"
+	},
+	{
+		"reference": "&Alpha;",
+		"glyph": "\u0391"
+	},
+	{
+		"reference": "&alpha;",
+		"glyph": "\u03b1"
+	},
+	{
+		"reference": "&Amacr;",
+		"glyph": "\u0100"
+	},
+	{
+		"reference": "&amacr;",
+		"glyph": "\u0101"
+	},
+	{
+		"reference": "&amalg;",
+		"glyph": "\u2a3f"
+	},
+	{
+		"reference": "&AMP;",
+		"glyph": "&"
+	},
+	{
+		"reference": "&AMP",
+		"glyph": "&"
+	},
+	{
+		"reference": "&amp;",
+		"glyph": "&"
+	},
+	{
+		"reference": "&amp",
+		"glyph": "&"
+	},
+	{
+		"reference": "&And;",
+		"glyph": "\u2a53"
+	},
+	{
+		"reference": "&and;",
+		"glyph": "\u2227"
+	},
+	{
+		"reference": "&andand;",
+		"glyph": "\u2a55"
+	},
+	{
+		"reference": "&andd;",
+		"glyph": "\u2a5c"
+	},
+	{
+		"reference": "&andslope;",
+		"glyph": "\u2a58"
+	},
+	{
+		"reference": "&andv;",
+		"glyph": "\u2a5a"
+	},
+	{
+		"reference": "&ang;",
+		"glyph": "\u2220"
+	},
+	{
+		"reference": "&ange;",
+		"glyph": "\u29a4"
+	},
+	{
+		"reference": "&angle;",
+		"glyph": "\u2220"
+	},
+	{
+		"reference": "&angmsd;",
+		"glyph": "\u2221"
+	},
+	{
+		"reference": "&angmsdaa;",
+		"glyph": "\u29a8"
+	},
+	{
+		"reference": "&angmsdab;",
+		"glyph": "\u29a9"
+	},
+	{
+		"reference": "&angmsdac;",
+		"glyph": "\u29aa"
+	},
+	{
+		"reference": "&angmsdad;",
+		"glyph": "\u29ab"
+	},
+	{
+		"reference": "&angmsdae;",
+		"glyph": "\u29ac"
+	},
+	{
+		"reference": "&angmsdaf;",
+		"glyph": "\u29ad"
+	},
+	{
+		"reference": "&angmsdag;",
+		"glyph": "\u29ae"
+	},
+	{
+		"reference": "&angmsdah;",
+		"glyph": "\u29af"
+	},
+	{
+		"reference": "&angrt;",
+		"glyph": "\u221f"
+	},
+	{
+		"reference": "&angrtvb;",
+		"glyph": "\u22be"
+	},
+	{
+		"reference": "&angrtvbd;",
+		"glyph": "\u299d"
+	},
+	{
+		"reference": "&angsph;",
+		"glyph": "\u2222"
+	},
+	{
+		"reference": "&angst;",
+		"glyph": "\u00c5"
+	},
+	{
+		"reference": "&angzarr;",
+		"glyph": "\u237c"
+	},
+	{
+		"reference": "&Aogon;",
+		"glyph": "\u0104"
+	},
+	{
+		"reference": "&aogon;",
+		"glyph": "\u0105"
+	},
+	{
+		"reference": "&Aopf;",
+		"glyph": "\ud835\udd38"
+	},
+	{
+		"reference": "&aopf;",
+		"glyph": "\ud835\udd52"
+	},
+	{
+		"reference": "&ap;",
+		"glyph": "\u2248"
+	},
+	{
+		"reference": "&apacir;",
+		"glyph": "\u2a6f"
+	},
+	{
+		"reference": "&apE;",
+		"glyph": "\u2a70"
+	},
+	{
+		"reference": "&ape;",
+		"glyph": "\u224a"
+	},
+	{
+		"reference": "&apid;",
+		"glyph": "\u224b"
+	},
+	{
+		"reference": "&apos;",
+		"glyph": "'"
+	},
+	{
+		"reference": "&ApplyFunction;",
+		"glyph": "\u2061"
+	},
+	{
+		"reference": "&approx;",
+		"glyph": "\u2248"
+	},
+	{
+		"reference": "&approxeq;",
+		"glyph": "\u224a"
+	},
+	{
+		"reference": "&Aring;",
+		"glyph": "\u00c5"
+	},
+	{
+		"reference": "&Aring",
+		"glyph": "\u00c5"
+	},
+	{
+		"reference": "&aring;",
+		"glyph": "\u00e5"
+	},
+	{
+		"reference": "&aring",
+		"glyph": "\u00e5"
+	},
+	{
+		"reference": "&Ascr;",
+		"glyph": "\ud835\udc9c"
+	},
+	{
+		"reference": "&ascr;",
+		"glyph": "\ud835\udcb6"
+	},
+	{
+		"reference": "&Assign;",
+		"glyph": "\u2254"
+	},
+	{
+		"reference": "&ast;",
+		"glyph": "*"
+	},
+	{
+		"reference": "&asymp;",
+		"glyph": "\u2248"
+	},
+	{
+		"reference": "&asympeq;",
+		"glyph": "\u224d"
+	},
+	{
+		"reference": "&Atilde;",
+		"glyph": "\u00c3"
+	},
+	{
+		"reference": "&Atilde",
+		"glyph": "\u00c3"
+	},
+	{
+		"reference": "&atilde;",
+		"glyph": "\u00e3"
+	},
+	{
+		"reference": "&atilde",
+		"glyph": "\u00e3"
+	},
+	{
+		"reference": "&Auml;",
+		"glyph": "\u00c4"
+	},
+	{
+		"reference": "&Auml",
+		"glyph": "\u00c4"
+	},
+	{
+		"reference": "&auml;",
+		"glyph": "\u00e4"
+	},
+	{
+		"reference": "&auml",
+		"glyph": "\u00e4"
+	},
+	{
+		"reference": "&awconint;",
+		"glyph": "\u2233"
+	},
+	{
+		"reference": "&awint;",
+		"glyph": "\u2a11"
+	},
+	{
+		"reference": "&backcong;",
+		"glyph": "\u224c"
+	},
+	{
+		"reference": "&backepsilon;",
+		"glyph": "\u03f6"
+	},
+	{
+		"reference": "&backprime;",
+		"glyph": "\u2035"
+	},
+	{
+		"reference": "&backsim;",
+		"glyph": "\u223d"
+	},
+	{
+		"reference": "&backsimeq;",
+		"glyph": "\u22cd"
+	},
+	{
+		"reference": "&Backslash;",
+		"glyph": "\u2216"
+	},
+	{
+		"reference": "&Barv;",
+		"glyph": "\u2ae7"
+	},
+	{
+		"reference": "&barvee;",
+		"glyph": "\u22bd"
+	},
+	{
+		"reference": "&Barwed;",
+		"glyph": "\u2306"
+	},
+	{
+		"reference": "&barwed;",
+		"glyph": "\u2305"
+	},
+	{
+		"reference": "&barwedge;",
+		"glyph": "\u2305"
+	},
+	{
+		"reference": "&bbrk;",
+		"glyph": "\u23b5"
+	},
+	{
+		"reference": "&bbrktbrk;",
+		"glyph": "\u23b6"
+	},
+	{
+		"reference": "&bcong;",
+		"glyph": "\u224c"
+	},
+	{
+		"reference": "&Bcy;",
+		"glyph": "\u0411"
+	},
+	{
+		"reference": "&bcy;",
+		"glyph": "\u0431"
+	},
+	{
+		"reference": "&bdquo;",
+		"glyph": "\u201e"
+	},
+	{
+		"reference": "&becaus;",
+		"glyph": "\u2235"
+	},
+	{
+		"reference": "&Because;",
+		"glyph": "\u2235"
+	},
+	{
+		"reference": "&because;",
+		"glyph": "\u2235"
+	},
+	{
+		"reference": "&bemptyv;",
+		"glyph": "\u29b0"
+	},
+	{
+		"reference": "&bepsi;",
+		"glyph": "\u03f6"
+	},
+	{
+		"reference": "&bernou;",
+		"glyph": "\u212c"
+	},
+	{
+		"reference": "&Bernoullis;",
+		"glyph": "\u212c"
+	},
+	{
+		"reference": "&Beta;",
+		"glyph": "\u0392"
+	},
+	{
+		"reference": "&beta;",
+		"glyph": "\u03b2"
+	},
+	{
+		"reference": "&beth;",
+		"glyph": "\u2136"
+	},
+	{
+		"reference": "&between;",
+		"glyph": "\u226c"
+	},
+	{
+		"reference": "&Bfr;",
+		"glyph": "\ud835\udd05"
+	},
+	{
+		"reference": "&bfr;",
+		"glyph": "\ud835\udd1f"
+	},
+	{
+		"reference": "&bigcap;",
+		"glyph": "\u22c2"
+	},
+	{
+		"reference": "&bigcirc;",
+		"glyph": "\u25ef"
+	},
+	{
+		"reference": "&bigcup;",
+		"glyph": "\u22c3"
+	},
+	{
+		"reference": "&bigodot;",
+		"glyph": "\u2a00"
+	},
+	{
+		"reference": "&bigoplus;",
+		"glyph": "\u2a01"
+	},
+	{
+		"reference": "&bigotimes;",
+		"glyph": "\u2a02"
+	},
+	{
+		"reference": "&bigsqcup;",
+		"glyph": "\u2a06"
+	},
+	{
+		"reference": "&bigstar;",
+		"glyph": "\u2605"
+	},
+	{
+		"reference": "&bigtriangledown;",
+		"glyph": "\u25bd"
+	},
+	{
+		"reference": "&bigtriangleup;",
+		"glyph": "\u25b3"
+	},
+	{
+		"reference": "&biguplus;",
+		"glyph": "\u2a04"
+	},
+	{
+		"reference": "&bigvee;",
+		"glyph": "\u22c1"
+	},
+	{
+		"reference": "&bigwedge;",
+		"glyph": "\u22c0"
+	},
+	{
+		"reference": "&bkarow;",
+		"glyph": "\u290d"
+	},
+	{
+		"reference": "&blacklozenge;",
+		"glyph": "\u29eb"
+	},
+	{
+		"reference": "&blacksquare;",
+		"glyph": "\u25aa"
+	},
+	{
+		"reference": "&blacktriangle;",
+		"glyph": "\u25b4"
+	},
+	{
+		"reference": "&blacktriangledown;",
+		"glyph": "\u25be"
+	},
+	{
+		"reference": "&blacktriangleleft;",
+		"glyph": "\u25c2"
+	},
+	{
+		"reference": "&blacktriangleright;",
+		"glyph": "\u25b8"
+	},
+	{
+		"reference": "&blank;",
+		"glyph": "\u2423"
+	},
+	{
+		"reference": "&blk12;",
+		"glyph": "\u2592"
+	},
+	{
+		"reference": "&blk14;",
+		"glyph": "\u2591"
+	},
+	{
+		"reference": "&blk34;",
+		"glyph": "\u2593"
+	},
+	{
+		"reference": "&block;",
+		"glyph": "\u2588"
+	},
+	{
+		"reference": "&bne;",
+		"glyph": "=\u20e5"
+	},
+	{
+		"reference": "&bnequiv;",
+		"glyph": "\u2261\u20e5"
+	},
+	{
+		"reference": "&bNot;",
+		"glyph": "\u2aed"
+	},
+	{
+		"reference": "&bnot;",
+		"glyph": "\u2310"
+	},
+	{
+		"reference": "&Bopf;",
+		"glyph": "\ud835\udd39"
+	},
+	{
+		"reference": "&bopf;",
+		"glyph": "\ud835\udd53"
+	},
+	{
+		"reference": "&bot;",
+		"glyph": "\u22a5"
+	},
+	{
+		"reference": "&bottom;",
+		"glyph": "\u22a5"
+	},
+	{
+		"reference": "&bowtie;",
+		"glyph": "\u22c8"
+	},
+	{
+		"reference": "&boxbox;",
+		"glyph": "\u29c9"
+	},
+	{
+		"reference": "&boxDL;",
+		"glyph": "\u2557"
+	},
+	{
+		"reference": "&boxDl;",
+		"glyph": "\u2556"
+	},
+	{
+		"reference": "&boxdL;",
+		"glyph": "\u2555"
+	},
+	{
+		"reference": "&boxdl;",
+		"glyph": "\u2510"
+	},
+	{
+		"reference": "&boxDR;",
+		"glyph": "\u2554"
+	},
+	{
+		"reference": "&boxDr;",
+		"glyph": "\u2553"
+	},
+	{
+		"reference": "&boxdR;",
+		"glyph": "\u2552"
+	},
+	{
+		"reference": "&boxdr;",
+		"glyph": "\u250c"
+	},
+	{
+		"reference": "&boxH;",
+		"glyph": "\u2550"
+	},
+	{
+		"reference": "&boxh;",
+		"glyph": "\u2500"
+	},
+	{
+		"reference": "&boxHD;",
+		"glyph": "\u2566"
+	},
+	{
+		"reference": "&boxHd;",
+		"glyph": "\u2564"
+	},
+	{
+		"reference": "&boxhD;",
+		"glyph": "\u2565"
+	},
+	{
+		"reference": "&boxhd;",
+		"glyph": "\u252c"
+	},
+	{
+		"reference": "&boxHU;",
+		"glyph": "\u2569"
+	},
+	{
+		"reference": "&boxHu;",
+		"glyph": "\u2567"
+	},
+	{
+		"reference": "&boxhU;",
+		"glyph": "\u2568"
+	},
+	{
+		"reference": "&boxhu;",
+		"glyph": "\u2534"
+	},
+	{
+		"reference": "&boxminus;",
+		"glyph": "\u229f"
+	},
+	{
+		"reference": "&boxplus;",
+		"glyph": "\u229e"
+	},
+	{
+		"reference": "&boxtimes;",
+		"glyph": "\u22a0"
+	},
+	{
+		"reference": "&boxUL;",
+		"glyph": "\u255d"
+	},
+	{
+		"reference": "&boxUl;",
+		"glyph": "\u255c"
+	},
+	{
+		"reference": "&boxuL;",
+		"glyph": "\u255b"
+	},
+	{
+		"reference": "&boxul;",
+		"glyph": "\u2518"
+	},
+	{
+		"reference": "&boxUR;",
+		"glyph": "\u255a"
+	},
+	{
+		"reference": "&boxUr;",
+		"glyph": "\u2559"
+	},
+	{
+		"reference": "&boxuR;",
+		"glyph": "\u2558"
+	},
+	{
+		"reference": "&boxur;",
+		"glyph": "\u2514"
+	},
+	{
+		"reference": "&boxV;",
+		"glyph": "\u2551"
+	},
+	{
+		"reference": "&boxv;",
+		"glyph": "\u2502"
+	},
+	{
+		"reference": "&boxVH;",
+		"glyph": "\u256c"
+	},
+	{
+		"reference": "&boxVh;",
+		"glyph": "\u256b"
+	},
+	{
+		"reference": "&boxvH;",
+		"glyph": "\u256a"
+	},
+	{
+		"reference": "&boxvh;",
+		"glyph": "\u253c"
+	},
+	{
+		"reference": "&boxVL;",
+		"glyph": "\u2563"
+	},
+	{
+		"reference": "&boxVl;",
+		"glyph": "\u2562"
+	},
+	{
+		"reference": "&boxvL;",
+		"glyph": "\u2561"
+	},
+	{
+		"reference": "&boxvl;",
+		"glyph": "\u2524"
+	},
+	{
+		"reference": "&boxVR;",
+		"glyph": "\u2560"
+	},
+	{
+		"reference": "&boxVr;",
+		"glyph": "\u255f"
+	},
+	{
+		"reference": "&boxvR;",
+		"glyph": "\u255e"
+	},
+	{
+		"reference": "&boxvr;",
+		"glyph": "\u251c"
+	},
+	{
+		"reference": "&bprime;",
+		"glyph": "\u2035"
+	},
+	{
+		"reference": "&Breve;",
+		"glyph": "\u02d8"
+	},
+	{
+		"reference": "&breve;",
+		"glyph": "\u02d8"
+	},
+	{
+		"reference": "&brvbar;",
+		"glyph": "\u00a6"
+	},
+	{
+		"reference": "&brvbar",
+		"glyph": "\u00a6"
+	},
+	{
+		"reference": "&Bscr;",
+		"glyph": "\u212c"
+	},
+	{
+		"reference": "&bscr;",
+		"glyph": "\ud835\udcb7"
+	},
+	{
+		"reference": "&bsemi;",
+		"glyph": "\u204f"
+	},
+	{
+		"reference": "&bsim;",
+		"glyph": "\u223d"
+	},
+	{
+		"reference": "&bsime;",
+		"glyph": "\u22cd"
+	},
+	{
+		"reference": "&bsol;",
+		"glyph": "\u005c"
+	},
+	{
+		"reference": "&bsolb;",
+		"glyph": "\u29c5"
+	},
+	{
+		"reference": "&bsolhsub;",
+		"glyph": "\u27c8"
+	},
+	{
+		"reference": "&bull;",
+		"glyph": "\u2022"
+	},
+	{
+		"reference": "&bullet;",
+		"glyph": "\u2022"
+	},
+	{
+		"reference": "&bump;",
+		"glyph": "\u224e"
+	},
+	{
+		"reference": "&bumpE;",
+		"glyph": "\u2aae"
+	},
+	{
+		"reference": "&bumpe;",
+		"glyph": "\u224f"
+	},
+	{
+		"reference": "&Bumpeq;",
+		"glyph": "\u224e"
+	},
+	{
+		"reference": "&bumpeq;",
+		"glyph": "\u224f"
+	},
+	{
+		"reference": "&Cacute;",
+		"glyph": "\u0106"
+	},
+	{
+		"reference": "&cacute;",
+		"glyph": "\u0107"
+	},
+	{
+		"reference": "&Cap;",
+		"glyph": "\u22d2"
+	},
+	{
+		"reference": "&cap;",
+		"glyph": "\u2229"
+	},
+	{
+		"reference": "&capand;",
+		"glyph": "\u2a44"
+	},
+	{
+		"reference": "&capbrcup;",
+		"glyph": "\u2a49"
+	},
+	{
+		"reference": "&capcap;",
+		"glyph": "\u2a4b"
+	},
+	{
+		"reference": "&capcup;",
+		"glyph": "\u2a47"
+	},
+	{
+		"reference": "&capdot;",
+		"glyph": "\u2a40"
+	},
+	{
+		"reference": "&CapitalDifferentialD;",
+		"glyph": "\u2145"
+	},
+	{
+		"reference": "&caps;",
+		"glyph": "\u2229\ufe00"
+	},
+	{
+		"reference": "&caret;",
+		"glyph": "\u2041"
+	},
+	{
+		"reference": "&caron;",
+		"glyph": "\u02c7"
+	},
+	{
+		"reference": "&Cayleys;",
+		"glyph": "\u212d"
+	},
+	{
+		"reference": "&ccaps;",
+		"glyph": "\u2a4d"
+	},
+	{
+		"reference": "&Ccaron;",
+		"glyph": "\u010c"
+	},
+	{
+		"reference": "&ccaron;",
+		"glyph": "\u010d"
+	},
+	{
+		"reference": "&Ccedil;",
+		"glyph": "\u00c7"
+	},
+	{
+		"reference": "&Ccedil",
+		"glyph": "\u00c7"
+	},
+	{
+		"reference": "&ccedil;",
+		"glyph": "\u00e7"
+	},
+	{
+		"reference": "&ccedil",
+		"glyph": "\u00e7"
+	},
+	{
+		"reference": "&Ccirc;",
+		"glyph": "\u0108"
+	},
+	{
+		"reference": "&ccirc;",
+		"glyph": "\u0109"
+	},
+	{
+		"reference": "&Cconint;",
+		"glyph": "\u2230"
+	},
+	{
+		"reference": "&ccups;",
+		"glyph": "\u2a4c"
+	},
+	{
+		"reference": "&ccupssm;",
+		"glyph": "\u2a50"
+	},
+	{
+		"reference": "&Cdot;",
+		"glyph": "\u010a"
+	},
+	{
+		"reference": "&cdot;",
+		"glyph": "\u010b"
+	},
+	{
+		"reference": "&cedil;",
+		"glyph": "\u00b8"
+	},
+	{
+		"reference": "&cedil",
+		"glyph": "\u00b8"
+	},
+	{
+		"reference": "&Cedilla;",
+		"glyph": "\u00b8"
+	},
+	{
+		"reference": "&cemptyv;",
+		"glyph": "\u29b2"
+	},
+	{
+		"reference": "&cent;",
+		"glyph": "\u00a2"
+	},
+	{
+		"reference": "&cent",
+		"glyph": "\u00a2"
+	},
+	{
+		"reference": "&CenterDot;",
+		"glyph": "\u00b7"
+	},
+	{
+		"reference": "&centerdot;",
+		"glyph": "\u00b7"
+	},
+	{
+		"reference": "&Cfr;",
+		"glyph": "\u212d"
+	},
+	{
+		"reference": "&cfr;",
+		"glyph": "\ud835\udd20"
+	},
+	{
+		"reference": "&CHcy;",
+		"glyph": "\u0427"
+	},
+	{
+		"reference": "&chcy;",
+		"glyph": "\u0447"
+	},
+	{
+		"reference": "&check;",
+		"glyph": "\u2713"
+	},
+	{
+		"reference": "&checkmark;",
+		"glyph": "\u2713"
+	},
+	{
+		"reference": "&Chi;",
+		"glyph": "\u03a7"
+	},
+	{
+		"reference": "&chi;",
+		"glyph": "\u03c7"
+	},
+	{
+		"reference": "&cir;",
+		"glyph": "\u25cb"
+	},
+	{
+		"reference": "&circ;",
+		"glyph": "\u02c6"
+	},
+	{
+		"reference": "&circeq;",
+		"glyph": "\u2257"
+	},
+	{
+		"reference": "&circlearrowleft;",
+		"glyph": "\u21ba"
+	},
+	{
+		"reference": "&circlearrowright;",
+		"glyph": "\u21bb"
+	},
+	{
+		"reference": "&circledast;",
+		"glyph": "\u229b"
+	},
+	{
+		"reference": "&circledcirc;",
+		"glyph": "\u229a"
+	},
+	{
+		"reference": "&circleddash;",
+		"glyph": "\u229d"
+	},
+	{
+		"reference": "&CircleDot;",
+		"glyph": "\u2299"
+	},
+	{
+		"reference": "&circledR;",
+		"glyph": "\u00ae"
+	},
+	{
+		"reference": "&circledS;",
+		"glyph": "\u24c8"
+	},
+	{
+		"reference": "&CircleMinus;",
+		"glyph": "\u2296"
+	},
+	{
+		"reference": "&CirclePlus;",
+		"glyph": "\u2295"
+	},
+	{
+		"reference": "&CircleTimes;",
+		"glyph": "\u2297"
+	},
+	{
+		"reference": "&cirE;",
+		"glyph": "\u29c3"
+	},
+	{
+		"reference": "&cire;",
+		"glyph": "\u2257"
+	},
+	{
+		"reference": "&cirfnint;",
+		"glyph": "\u2a10"
+	},
+	{
+		"reference": "&cirmid;",
+		"glyph": "\u2aef"
+	},
+	{
+		"reference": "&cirscir;",
+		"glyph": "\u29c2"
+	},
+	{
+		"reference": "&ClockwiseContourIntegral;",
+		"glyph": "\u2232"
+	},
+	{
+		"reference": "&CloseCurlyDoubleQuote;",
+		"glyph": "\u201d"
+	},
+	{
+		"reference": "&CloseCurlyQuote;",
+		"glyph": "\u2019"
+	},
+	{
+		"reference": "&clubs;",
+		"glyph": "\u2663"
+	},
+	{
+		"reference": "&clubsuit;",
+		"glyph": "\u2663"
+	},
+	{
+		"reference": "&Colon;",
+		"glyph": "\u2237"
+	},
+	{
+		"reference": "&colon;",
+		"glyph": ":"
+	},
+	{
+		"reference": "&Colone;",
+		"glyph": "\u2a74"
+	},
+	{
+		"reference": "&colone;",
+		"glyph": "\u2254"
+	},
+	{
+		"reference": "&coloneq;",
+		"glyph": "\u2254"
+	},
+	{
+		"reference": "&comma;",
+		"glyph": ","
+	},
+	{
+		"reference": "&commat;",
+		"glyph": "@"
+	},
+	{
+		"reference": "&comp;",
+		"glyph": "\u2201"
+	},
+	{
+		"reference": "&compfn;",
+		"glyph": "\u2218"
+	},
+	{
+		"reference": "&complement;",
+		"glyph": "\u2201"
+	},
+	{
+		"reference": "&complexes;",
+		"glyph": "\u2102"
+	},
+	{
+		"reference": "&cong;",
+		"glyph": "\u2245"
+	},
+	{
+		"reference": "&congdot;",
+		"glyph": "\u2a6d"
+	},
+	{
+		"reference": "&Congruent;",
+		"glyph": "\u2261"
+	},
+	{
+		"reference": "&Conint;",
+		"glyph": "\u222f"
+	},
+	{
+		"reference": "&conint;",
+		"glyph": "\u222e"
+	},
+	{
+		"reference": "&ContourIntegral;",
+		"glyph": "\u222e"
+	},
+	{
+		"reference": "&Copf;",
+		"glyph": "\u2102"
+	},
+	{
+		"reference": "&copf;",
+		"glyph": "\ud835\udd54"
+	},
+	{
+		"reference": "&coprod;",
+		"glyph": "\u2210"
+	},
+	{
+		"reference": "&Coproduct;",
+		"glyph": "\u2210"
+	},
+	{
+		"reference": "&COPY;",
+		"glyph": "\u00a9"
+	},
+	{
+		"reference": "&COPY",
+		"glyph": "\u00a9"
+	},
+	{
+		"reference": "&copy;",
+		"glyph": "\u00a9"
+	},
+	{
+		"reference": "&copy",
+		"glyph": "\u00a9"
+	},
+	{
+		"reference": "&copysr;",
+		"glyph": "\u2117"
+	},
+	{
+		"reference": "&CounterClockwiseContourIntegral;",
+		"glyph": "\u2233"
+	},
+	{
+		"reference": "&crarr;",
+		"glyph": "\u21b5"
+	},
+	{
+		"reference": "&Cross;",
+		"glyph": "\u2a2f"
+	},
+	{
+		"reference": "&cross;",
+		"glyph": "\u2717"
+	},
+	{
+		"reference": "&Cscr;",
+		"glyph": "\ud835\udc9e"
+	},
+	{
+		"reference": "&cscr;",
+		"glyph": "\ud835\udcb8"
+	},
+	{
+		"reference": "&csub;",
+		"glyph": "\u2acf"
+	},
+	{
+		"reference": "&csube;",
+		"glyph": "\u2ad1"
+	},
+	{
+		"reference": "&csup;",
+		"glyph": "\u2ad0"
+	},
+	{
+		"reference": "&csupe;",
+		"glyph": "\u2ad2"
+	},
+	{
+		"reference": "&ctdot;",
+		"glyph": "\u22ef"
+	},
+	{
+		"reference": "&cudarrl;",
+		"glyph": "\u2938"
+	},
+	{
+		"reference": "&cudarrr;",
+		"glyph": "\u2935"
+	},
+	{
+		"reference": "&cuepr;",
+		"glyph": "\u22de"
+	},
+	{
+		"reference": "&cuesc;",
+		"glyph": "\u22df"
+	},
+	{
+		"reference": "&cularr;",
+		"glyph": "\u21b6"
+	},
+	{
+		"reference": "&cularrp;",
+		"glyph": "\u293d"
+	},
+	{
+		"reference": "&Cup;",
+		"glyph": "\u22d3"
+	},
+	{
+		"reference": "&cup;",
+		"glyph": "\u222a"
+	},
+	{
+		"reference": "&cupbrcap;",
+		"glyph": "\u2a48"
+	},
+	{
+		"reference": "&CupCap;",
+		"glyph": "\u224d"
+	},
+	{
+		"reference": "&cupcap;",
+		"glyph": "\u2a46"
+	},
+	{
+		"reference": "&cupcup;",
+		"glyph": "\u2a4a"
+	},
+	{
+		"reference": "&cupdot;",
+		"glyph": "\u228d"
+	},
+	{
+		"reference": "&cupor;",
+		"glyph": "\u2a45"
+	},
+	{
+		"reference": "&cups;",
+		"glyph": "\u222a\ufe00"
+	},
+	{
+		"reference": "&curarr;",
+		"glyph": "\u21b7"
+	},
+	{
+		"reference": "&curarrm;",
+		"glyph": "\u293c"
+	},
+	{
+		"reference": "&curlyeqprec;",
+		"glyph": "\u22de"
+	},
+	{
+		"reference": "&curlyeqsucc;",
+		"glyph": "\u22df"
+	},
+	{
+		"reference": "&curlyvee;",
+		"glyph": "\u22ce"
+	},
+	{
+		"reference": "&curlywedge;",
+		"glyph": "\u22cf"
+	},
+	{
+		"reference": "&curren;",
+		"glyph": "\u00a4"
+	},
+	{
+		"reference": "&curren",
+		"glyph": "\u00a4"
+	},
+	{
+		"reference": "&curvearrowleft;",
+		"glyph": "\u21b6"
+	},
+	{
+		"reference": "&curvearrowright;",
+		"glyph": "\u21b7"
+	},
+	{
+		"reference": "&cuvee;",
+		"glyph": "\u22ce"
+	},
+	{
+		"reference": "&cuwed;",
+		"glyph": "\u22cf"
+	},
+	{
+		"reference": "&cwconint;",
+		"glyph": "\u2232"
+	},
+	{
+		"reference": "&cwint;",
+		"glyph": "\u2231"
+	},
+	{
+		"reference": "&cylcty;",
+		"glyph": "\u232d"
+	},
+	{
+		"reference": "&Dagger;",
+		"glyph": "\u2021"
+	},
+	{
+		"reference": "&dagger;",
+		"glyph": "\u2020"
+	},
+	{
+		"reference": "&daleth;",
+		"glyph": "\u2138"
+	},
+	{
+		"reference": "&Darr;",
+		"glyph": "\u21a1"
+	},
+	{
+		"reference": "&dArr;",
+		"glyph": "\u21d3"
+	},
+	{
+		"reference": "&darr;",
+		"glyph": "\u2193"
+	},
+	{
+		"reference": "&dash;",
+		"glyph": "\u2010"
+	},
+	{
+		"reference": "&Dashv;",
+		"glyph": "\u2ae4"
+	},
+	{
+		"reference": "&dashv;",
+		"glyph": "\u22a3"
+	},
+	{
+		"reference": "&dbkarow;",
+		"glyph": "\u290f"
+	},
+	{
+		"reference": "&dblac;",
+		"glyph": "\u02dd"
+	},
+	{
+		"reference": "&Dcaron;",
+		"glyph": "\u010e"
+	},
+	{
+		"reference": "&dcaron;",
+		"glyph": "\u010f"
+	},
+	{
+		"reference": "&Dcy;",
+		"glyph": "\u0414"
+	},
+	{
+		"reference": "&dcy;",
+		"glyph": "\u0434"
+	},
+	{
+		"reference": "&DD;",
+		"glyph": "\u2145"
+	},
+	{
+		"reference": "&dd;",
+		"glyph": "\u2146"
+	},
+	{
+		"reference": "&ddagger;",
+		"glyph": "\u2021"
+	},
+	{
+		"reference": "&ddarr;",
+		"glyph": "\u21ca"
+	},
+	{
+		"reference": "&DDotrahd;",
+		"glyph": "\u2911"
+	},
+	{
+		"reference": "&ddotseq;",
+		"glyph": "\u2a77"
+	},
+	{
+		"reference": "&deg;",
+		"glyph": "\u00b0"
+	},
+	{
+		"reference": "&deg",
+		"glyph": "\u00b0"
+	},
+	{
+		"reference": "&Del;",
+		"glyph": "\u2207"
+	},
+	{
+		"reference": "&Delta;",
+		"glyph": "\u0394"
+	},
+	{
+		"reference": "&delta;",
+		"glyph": "\u03b4"
+	},
+	{
+		"reference": "&demptyv;",
+		"glyph": "\u29b1"
+	},
+	{
+		"reference": "&dfisht;",
+		"glyph": "\u297f"
+	},
+	{
+		"reference": "&Dfr;",
+		"glyph": "\ud835\udd07"
+	},
+	{
+		"reference": "&dfr;",
+		"glyph": "\ud835\udd21"
+	},
+	{
+		"reference": "&dHar;",
+		"glyph": "\u2965"
+	},
+	{
+		"reference": "&dharl;",
+		"glyph": "\u21c3"
+	},
+	{
+		"reference": "&dharr;",
+		"glyph": "\u21c2"
+	},
+	{
+		"reference": "&DiacriticalAcute;",
+		"glyph": "\u00b4"
+	},
+	{
+		"reference": "&DiacriticalDot;",
+		"glyph": "\u02d9"
+	},
+	{
+		"reference": "&DiacriticalDoubleAcute;",
+		"glyph": "\u02dd"
+	},
+	{
+		"reference": "&DiacriticalGrave;",
+		"glyph": "`"
+	},
+	{
+		"reference": "&DiacriticalTilde;",
+		"glyph": "\u02dc"
+	},
+	{
+		"reference": "&diam;",
+		"glyph": "\u22c4"
+	},
+	{
+		"reference": "&Diamond;",
+		"glyph": "\u22c4"
+	},
+	{
+		"reference": "&diamond;",
+		"glyph": "\u22c4"
+	},
+	{
+		"reference": "&diamondsuit;",
+		"glyph": "\u2666"
+	},
+	{
+		"reference": "&diams;",
+		"glyph": "\u2666"
+	},
+	{
+		"reference": "&die;",
+		"glyph": "\u00a8"
+	},
+	{
+		"reference": "&DifferentialD;",
+		"glyph": "\u2146"
+	},
+	{
+		"reference": "&digamma;",
+		"glyph": "\u03dd"
+	},
+	{
+		"reference": "&disin;",
+		"glyph": "\u22f2"
+	},
+	{
+		"reference": "&div;",
+		"glyph": "\u00f7"
+	},
+	{
+		"reference": "&divide;",
+		"glyph": "\u00f7"
+	},
+	{
+		"reference": "&divide",
+		"glyph": "\u00f7"
+	},
+	{
+		"reference": "&divideontimes;",
+		"glyph": "\u22c7"
+	},
+	{
+		"reference": "&divonx;",
+		"glyph": "\u22c7"
+	},
+	{
+		"reference": "&DJcy;",
+		"glyph": "\u0402"
+	},
+	{
+		"reference": "&djcy;",
+		"glyph": "\u0452"
+	},
+	{
+		"reference": "&dlcorn;",
+		"glyph": "\u231e"
+	},
+	{
+		"reference": "&dlcrop;",
+		"glyph": "\u230d"
+	},
+	{
+		"reference": "&dollar;",
+		"glyph": "$"
+	},
+	{
+		"reference": "&Dopf;",
+		"glyph": "\ud835\udd3b"
+	},
+	{
+		"reference": "&dopf;",
+		"glyph": "\ud835\udd55"
+	},
+	{
+		"reference": "&Dot;",
+		"glyph": "\u00a8"
+	},
+	{
+		"reference": "&dot;",
+		"glyph": "\u02d9"
+	},
+	{
+		"reference": "&DotDot;",
+		"glyph": "\u20dc"
+	},
+	{
+		"reference": "&doteq;",
+		"glyph": "\u2250"
+	},
+	{
+		"reference": "&doteqdot;",
+		"glyph": "\u2251"
+	},
+	{
+		"reference": "&DotEqual;",
+		"glyph": "\u2250"
+	},
+	{
+		"reference": "&dotminus;",
+		"glyph": "\u2238"
+	},
+	{
+		"reference": "&dotplus;",
+		"glyph": "\u2214"
+	},
+	{
+		"reference": "&dotsquare;",
+		"glyph": "\u22a1"
+	},
+	{
+		"reference": "&doublebarwedge;",
+		"glyph": "\u2306"
+	},
+	{
+		"reference": "&DoubleContourIntegral;",
+		"glyph": "\u222f"
+	},
+	{
+		"reference": "&DoubleDot;",
+		"glyph": "\u00a8"
+	},
+	{
+		"reference": "&DoubleDownArrow;",
+		"glyph": "\u21d3"
+	},
+	{
+		"reference": "&DoubleLeftArrow;",
+		"glyph": "\u21d0"
+	},
+	{
+		"reference": "&DoubleLeftRightArrow;",
+		"glyph": "\u21d4"
+	},
+	{
+		"reference": "&DoubleLeftTee;",
+		"glyph": "\u2ae4"
+	},
+	{
+		"reference": "&DoubleLongLeftArrow;",
+		"glyph": "\u27f8"
+	},
+	{
+		"reference": "&DoubleLongLeftRightArrow;",
+		"glyph": "\u27fa"
+	},
+	{
+		"reference": "&DoubleLongRightArrow;",
+		"glyph": "\u27f9"
+	},
+	{
+		"reference": "&DoubleRightArrow;",
+		"glyph": "\u21d2"
+	},
+	{
+		"reference": "&DoubleRightTee;",
+		"glyph": "\u22a8"
+	},
+	{
+		"reference": "&DoubleUpArrow;",
+		"glyph": "\u21d1"
+	},
+	{
+		"reference": "&DoubleUpDownArrow;",
+		"glyph": "\u21d5"
+	},
+	{
+		"reference": "&DoubleVerticalBar;",
+		"glyph": "\u2225"
+	},
+	{
+		"reference": "&DownArrow;",
+		"glyph": "\u2193"
+	},
+	{
+		"reference": "&Downarrow;",
+		"glyph": "\u21d3"
+	},
+	{
+		"reference": "&downarrow;",
+		"glyph": "\u2193"
+	},
+	{
+		"reference": "&DownArrowBar;",
+		"glyph": "\u2913"
+	},
+	{
+		"reference": "&DownArrowUpArrow;",
+		"glyph": "\u21f5"
+	},
+	{
+		"reference": "&DownBreve;",
+		"glyph": "\u0311"
+	},
+	{
+		"reference": "&downdownarrows;",
+		"glyph": "\u21ca"
+	},
+	{
+		"reference": "&downharpoonleft;",
+		"glyph": "\u21c3"
+	},
+	{
+		"reference": "&downharpoonright;",
+		"glyph": "\u21c2"
+	},
+	{
+		"reference": "&DownLeftRightVector;",
+		"glyph": "\u2950"
+	},
+	{
+		"reference": "&DownLeftTeeVector;",
+		"glyph": "\u295e"
+	},
+	{
+		"reference": "&DownLeftVector;",
+		"glyph": "\u21bd"
+	},
+	{
+		"reference": "&DownLeftVectorBar;",
+		"glyph": "\u2956"
+	},
+	{
+		"reference": "&DownRightTeeVector;",
+		"glyph": "\u295f"
+	},
+	{
+		"reference": "&DownRightVector;",
+		"glyph": "\u21c1"
+	},
+	{
+		"reference": "&DownRightVectorBar;",
+		"glyph": "\u2957"
+	},
+	{
+		"reference": "&DownTee;",
+		"glyph": "\u22a4"
+	},
+	{
+		"reference": "&DownTeeArrow;",
+		"glyph": "\u21a7"
+	},
+	{
+		"reference": "&drbkarow;",
+		"glyph": "\u2910"
+	},
+	{
+		"reference": "&drcorn;",
+		"glyph": "\u231f"
+	},
+	{
+		"reference": "&drcrop;",
+		"glyph": "\u230c"
+	},
+	{
+		"reference": "&Dscr;",
+		"glyph": "\ud835\udc9f"
+	},
+	{
+		"reference": "&dscr;",
+		"glyph": "\ud835\udcb9"
+	},
+	{
+		"reference": "&DScy;",
+		"glyph": "\u0405"
+	},
+	{
+		"reference": "&dscy;",
+		"glyph": "\u0455"
+	},
+	{
+		"reference": "&dsol;",
+		"glyph": "\u29f6"
+	},
+	{
+		"reference": "&Dstrok;",
+		"glyph": "\u0110"
+	},
+	{
+		"reference": "&dstrok;",
+		"glyph": "\u0111"
+	},
+	{
+		"reference": "&dtdot;",
+		"glyph": "\u22f1"
+	},
+	{
+		"reference": "&dtri;",
+		"glyph": "\u25bf"
+	},
+	{
+		"reference": "&dtrif;",
+		"glyph": "\u25be"
+	},
+	{
+		"reference": "&duarr;",
+		"glyph": "\u21f5"
+	},
+	{
+		"reference": "&duhar;",
+		"glyph": "\u296f"
+	},
+	{
+		"reference": "&dwangle;",
+		"glyph": "\u29a6"
+	},
+	{
+		"reference": "&DZcy;",
+		"glyph": "\u040f"
+	},
+	{
+		"reference": "&dzcy;",
+		"glyph": "\u045f"
+	},
+	{
+		"reference": "&dzigrarr;",
+		"glyph": "\u27ff"
+	},
+	{
+		"reference": "&Eacute;",
+		"glyph": "\u00c9"
+	},
+	{
+		"reference": "&Eacute",
+		"glyph": "\u00c9"
+	},
+	{
+		"reference": "&eacute;",
+		"glyph": "\u00e9"
+	},
+	{
+		"reference": "&eacute",
+		"glyph": "\u00e9"
+	},
+	{
+		"reference": "&easter;",
+		"glyph": "\u2a6e"
+	},
+	{
+		"reference": "&Ecaron;",
+		"glyph": "\u011a"
+	},
+	{
+		"reference": "&ecaron;",
+		"glyph": "\u011b"
+	},
+	{
+		"reference": "&ecir;",
+		"glyph": "\u2256"
+	},
+	{
+		"reference": "&Ecirc;",
+		"glyph": "\u00ca"
+	},
+	{
+		"reference": "&Ecirc",
+		"glyph": "\u00ca"
+	},
+	{
+		"reference": "&ecirc;",
+		"glyph": "\u00ea"
+	},
+	{
+		"reference": "&ecirc",
+		"glyph": "\u00ea"
+	},
+	{
+		"reference": "&ecolon;",
+		"glyph": "\u2255"
+	},
+	{
+		"reference": "&Ecy;",
+		"glyph": "\u042d"
+	},
+	{
+		"reference": "&ecy;",
+		"glyph": "\u044d"
+	},
+	{
+		"reference": "&eDDot;",
+		"glyph": "\u2a77"
+	},
+	{
+		"reference": "&Edot;",
+		"glyph": "\u0116"
+	},
+	{
+		"reference": "&eDot;",
+		"glyph": "\u2251"
+	},
+	{
+		"reference": "&edot;",
+		"glyph": "\u0117"
+	},
+	{
+		"reference": "&ee;",
+		"glyph": "\u2147"
+	},
+	{
+		"reference": "&efDot;",
+		"glyph": "\u2252"
+	},
+	{
+		"reference": "&Efr;",
+		"glyph": "\ud835\udd08"
+	},
+	{
+		"reference": "&efr;",
+		"glyph": "\ud835\udd22"
+	},
+	{
+		"reference": "&eg;",
+		"glyph": "\u2a9a"
+	},
+	{
+		"reference": "&Egrave;",
+		"glyph": "\u00c8"
+	},
+	{
+		"reference": "&Egrave",
+		"glyph": "\u00c8"
+	},
+	{
+		"reference": "&egrave;",
+		"glyph": "\u00e8"
+	},
+	{
+		"reference": "&egrave",
+		"glyph": "\u00e8"
+	},
+	{
+		"reference": "&egs;",
+		"glyph": "\u2a96"
+	},
+	{
+		"reference": "&egsdot;",
+		"glyph": "\u2a98"
+	},
+	{
+		"reference": "&el;",
+		"glyph": "\u2a99"
+	},
+	{
+		"reference": "&Element;",
+		"glyph": "\u2208"
+	},
+	{
+		"reference": "&elinters;",
+		"glyph": "\u23e7"
+	},
+	{
+		"reference": "&ell;",
+		"glyph": "\u2113"
+	},
+	{
+		"reference": "&els;",
+		"glyph": "\u2a95"
+	},
+	{
+		"reference": "&elsdot;",
+		"glyph": "\u2a97"
+	},
+	{
+		"reference": "&Emacr;",
+		"glyph": "\u0112"
+	},
+	{
+		"reference": "&emacr;",
+		"glyph": "\u0113"
+	},
+	{
+		"reference": "&empty;",
+		"glyph": "\u2205"
+	},
+	{
+		"reference": "&emptyset;",
+		"glyph": "\u2205"
+	},
+	{
+		"reference": "&EmptySmallSquare;",
+		"glyph": "\u25fb"
+	},
+	{
+		"reference": "&emptyv;",
+		"glyph": "\u2205"
+	},
+	{
+		"reference": "&EmptyVerySmallSquare;",
+		"glyph": "\u25ab"
+	},
+	{
+		"reference": "&emsp;",
+		"glyph": "\u2003"
+	},
+	{
+		"reference": "&emsp13;",
+		"glyph": "\u2004"
+	},
+	{
+		"reference": "&emsp14;",
+		"glyph": "\u2005"
+	},
+	{
+		"reference": "&ENG;",
+		"glyph": "\u014a"
+	},
+	{
+		"reference": "&eng;",
+		"glyph": "\u014b"
+	},
+	{
+		"reference": "&ensp;",
+		"glyph": "\u2002"
+	},
+	{
+		"reference": "&Eogon;",
+		"glyph": "\u0118"
+	},
+	{
+		"reference": "&eogon;",
+		"glyph": "\u0119"
+	},
+	{
+		"reference": "&Eopf;",
+		"glyph": "\ud835\udd3c"
+	},
+	{
+		"reference": "&eopf;",
+		"glyph": "\ud835\udd56"
+	},
+	{
+		"reference": "&epar;",
+		"glyph": "\u22d5"
+	},
+	{
+		"reference": "&eparsl;",
+		"glyph": "\u29e3"
+	},
+	{
+		"reference": "&eplus;",
+		"glyph": "\u2a71"
+	},
+	{
+		"reference": "&epsi;",
+		"glyph": "\u03b5"
+	},
+	{
+		"reference": "&Epsilon;",
+		"glyph": "\u0395"
+	},
+	{
+		"reference": "&epsilon;",
+		"glyph": "\u03b5"
+	},
+	{
+		"reference": "&epsiv;",
+		"glyph": "\u03f5"
+	},
+	{
+		"reference": "&eqcirc;",
+		"glyph": "\u2256"
+	},
+	{
+		"reference": "&eqcolon;",
+		"glyph": "\u2255"
+	},
+	{
+		"reference": "&eqsim;",
+		"glyph": "\u2242"
+	},
+	{
+		"reference": "&eqslantgtr;",
+		"glyph": "\u2a96"
+	},
+	{
+		"reference": "&eqslantless;",
+		"glyph": "\u2a95"
+	},
+	{
+		"reference": "&Equal;",
+		"glyph": "\u2a75"
+	},
+	{
+		"reference": "&equals;",
+		"glyph": "="
+	},
+	{
+		"reference": "&EqualTilde;",
+		"glyph": "\u2242"
+	},
+	{
+		"reference": "&equest;",
+		"glyph": "\u225f"
+	},
+	{
+		"reference": "&Equilibrium;",
+		"glyph": "\u21cc"
+	},
+	{
+		"reference": "&equiv;",
+		"glyph": "\u2261"
+	},
+	{
+		"reference": "&equivDD;",
+		"glyph": "\u2a78"
+	},
+	{
+		"reference": "&eqvparsl;",
+		"glyph": "\u29e5"
+	},
+	{
+		"reference": "&erarr;",
+		"glyph": "\u2971"
+	},
+	{
+		"reference": "&erDot;",
+		"glyph": "\u2253"
+	},
+	{
+		"reference": "&Escr;",
+		"glyph": "\u2130"
+	},
+	{
+		"reference": "&escr;",
+		"glyph": "\u212f"
+	},
+	{
+		"reference": "&esdot;",
+		"glyph": "\u2250"
+	},
+	{
+		"reference": "&Esim;",
+		"glyph": "\u2a73"
+	},
+	{
+		"reference": "&esim;",
+		"glyph": "\u2242"
+	},
+	{
+		"reference": "&Eta;",
+		"glyph": "\u0397"
+	},
+	{
+		"reference": "&eta;",
+		"glyph": "\u03b7"
+	},
+	{
+		"reference": "&ETH;",
+		"glyph": "\u00d0"
+	},
+	{
+		"reference": "&ETH",
+		"glyph": "\u00d0"
+	},
+	{
+		"reference": "&eth;",
+		"glyph": "\u00f0"
+	},
+	{
+		"reference": "&eth",
+		"glyph": "\u00f0"
+	},
+	{
+		"reference": "&Euml;",
+		"glyph": "\u00cb"
+	},
+	{
+		"reference": "&Euml",
+		"glyph": "\u00cb"
+	},
+	{
+		"reference": "&euml;",
+		"glyph": "\u00eb"
+	},
+	{
+		"reference": "&euml",
+		"glyph": "\u00eb"
+	},
+	{
+		"reference": "&euro;",
+		"glyph": "\u20ac"
+	},
+	{
+		"reference": "&excl;",
+		"glyph": "!"
+	},
+	{
+		"reference": "&exist;",
+		"glyph": "\u2203"
+	},
+	{
+		"reference": "&Exists;",
+		"glyph": "\u2203"
+	},
+	{
+		"reference": "&expectation;",
+		"glyph": "\u2130"
+	},
+	{
+		"reference": "&ExponentialE;",
+		"glyph": "\u2147"
+	},
+	{
+		"reference": "&exponentiale;",
+		"glyph": "\u2147"
+	},
+	{
+		"reference": "&fallingdotseq;",
+		"glyph": "\u2252"
+	},
+	{
+		"reference": "&Fcy;",
+		"glyph": "\u0424"
+	},
+	{
+		"reference": "&fcy;",
+		"glyph": "\u0444"
+	},
+	{
+		"reference": "&female;",
+		"glyph": "\u2640"
+	},
+	{
+		"reference": "&ffilig;",
+		"glyph": "\ufb03"
+	},
+	{
+		"reference": "&fflig;",
+		"glyph": "\ufb00"
+	},
+	{
+		"reference": "&ffllig;",
+		"glyph": "\ufb04"
+	},
+	{
+		"reference": "&Ffr;",
+		"glyph": "\ud835\udd09"
+	},
+	{
+		"reference": "&ffr;",
+		"glyph": "\ud835\udd23"
+	},
+	{
+		"reference": "&filig;",
+		"glyph": "\ufb01"
+	},
+	{
+		"reference": "&FilledSmallSquare;",
+		"glyph": "\u25fc"
+	},
+	{
+		"reference": "&FilledVerySmallSquare;",
+		"glyph": "\u25aa"
+	},
+	{
+		"reference": "&fjlig;",
+		"glyph": "fj"
+	},
+	{
+		"reference": "&flat;",
+		"glyph": "\u266d"
+	},
+	{
+		"reference": "&fllig;",
+		"glyph": "\ufb02"
+	},
+	{
+		"reference": "&fltns;",
+		"glyph": "\u25b1"
+	},
+	{
+		"reference": "&fnof;",
+		"glyph": "\u0192"
+	},
+	{
+		"reference": "&Fopf;",
+		"glyph": "\ud835\udd3d"
+	},
+	{
+		"reference": "&fopf;",
+		"glyph": "\ud835\udd57"
+	},
+	{
+		"reference": "&ForAll;",
+		"glyph": "\u2200"
+	},
+	{
+		"reference": "&forall;",
+		"glyph": "\u2200"
+	},
+	{
+		"reference": "&fork;",
+		"glyph": "\u22d4"
+	},
+	{
+		"reference": "&forkv;",
+		"glyph": "\u2ad9"
+	},
+	{
+		"reference": "&Fouriertrf;",
+		"glyph": "\u2131"
+	},
+	{
+		"reference": "&fpartint;",
+		"glyph": "\u2a0d"
+	},
+	{
+		"reference": "&frac12;",
+		"glyph": "\u00bd"
+	},
+	{
+		"reference": "&frac12",
+		"glyph": "\u00bd"
+	},
+	{
+		"reference": "&frac13;",
+		"glyph": "\u2153"
+	},
+	{
+		"reference": "&frac14;",
+		"glyph": "\u00bc"
+	},
+	{
+		"reference": "&frac14",
+		"glyph": "\u00bc"
+	},
+	{
+		"reference": "&frac15;",
+		"glyph": "\u2155"
+	},
+	{
+		"reference": "&frac16;",
+		"glyph": "\u2159"
+	},
+	{
+		"reference": "&frac18;",
+		"glyph": "\u215b"
+	},
+	{
+		"reference": "&frac23;",
+		"glyph": "\u2154"
+	},
+	{
+		"reference": "&frac25;",
+		"glyph": "\u2156"
+	},
+	{
+		"reference": "&frac34;",
+		"glyph": "\u00be"
+	},
+	{
+		"reference": "&frac34",
+		"glyph": "\u00be"
+	},
+	{
+		"reference": "&frac35;",
+		"glyph": "\u2157"
+	},
+	{
+		"reference": "&frac38;",
+		"glyph": "\u215c"
+	},
+	{
+		"reference": "&frac45;",
+		"glyph": "\u2158"
+	},
+	{
+		"reference": "&frac56;",
+		"glyph": "\u215a"
+	},
+	{
+		"reference": "&frac58;",
+		"glyph": "\u215d"
+	},
+	{
+		"reference": "&frac78;",
+		"glyph": "\u215e"
+	},
+	{
+		"reference": "&frasl;",
+		"glyph": "\u2044"
+	},
+	{
+		"reference": "&frown;",
+		"glyph": "\u2322"
+	},
+	{
+		"reference": "&Fscr;",
+		"glyph": "\u2131"
+	},
+	{
+		"reference": "&fscr;",
+		"glyph": "\ud835\udcbb"
+	},
+	{
+		"reference": "&gacute;",
+		"glyph": "\u01f5"
+	},
+	{
+		"reference": "&Gamma;",
+		"glyph": "\u0393"
+	},
+	{
+		"reference": "&gamma;",
+		"glyph": "\u03b3"
+	},
+	{
+		"reference": "&Gammad;",
+		"glyph": "\u03dc"
+	},
+	{
+		"reference": "&gammad;",
+		"glyph": "\u03dd"
+	},
+	{
+		"reference": "&gap;",
+		"glyph": "\u2a86"
+	},
+	{
+		"reference": "&Gbreve;",
+		"glyph": "\u011e"
+	},
+	{
+		"reference": "&gbreve;",
+		"glyph": "\u011f"
+	},
+	{
+		"reference": "&Gcedil;",
+		"glyph": "\u0122"
+	},
+	{
+		"reference": "&Gcirc;",
+		"glyph": "\u011c"
+	},
+	{
+		"reference": "&gcirc;",
+		"glyph": "\u011d"
+	},
+	{
+		"reference": "&Gcy;",
+		"glyph": "\u0413"
+	},
+	{
+		"reference": "&gcy;",
+		"glyph": "\u0433"
+	},
+	{
+		"reference": "&Gdot;",
+		"glyph": "\u0120"
+	},
+	{
+		"reference": "&gdot;",
+		"glyph": "\u0121"
+	},
+	{
+		"reference": "&gE;",
+		"glyph": "\u2267"
+	},
+	{
+		"reference": "&ge;",
+		"glyph": "\u2265"
+	},
+	{
+		"reference": "&gEl;",
+		"glyph": "\u2a8c"
+	},
+	{
+		"reference": "&gel;",
+		"glyph": "\u22db"
+	},
+	{
+		"reference": "&geq;",
+		"glyph": "\u2265"
+	},
+	{
+		"reference": "&geqq;",
+		"glyph": "\u2267"
+	},
+	{
+		"reference": "&geqslant;",
+		"glyph": "\u2a7e"
+	},
+	{
+		"reference": "&ges;",
+		"glyph": "\u2a7e"
+	},
+	{
+		"reference": "&gescc;",
+		"glyph": "\u2aa9"
+	},
+	{
+		"reference": "&gesdot;",
+		"glyph": "\u2a80"
+	},
+	{
+		"reference": "&gesdoto;",
+		"glyph": "\u2a82"
+	},
+	{
+		"reference": "&gesdotol;",
+		"glyph": "\u2a84"
+	},
+	{
+		"reference": "&gesl;",
+		"glyph": "\u22db\ufe00"
+	},
+	{
+		"reference": "&gesles;",
+		"glyph": "\u2a94"
+	},
+	{
+		"reference": "&Gfr;",
+		"glyph": "\ud835\udd0a"
+	},
+	{
+		"reference": "&gfr;",
+		"glyph": "\ud835\udd24"
+	},
+	{
+		"reference": "&Gg;",
+		"glyph": "\u22d9"
+	},
+	{
+		"reference": "&gg;",
+		"glyph": "\u226b"
+	},
+	{
+		"reference": "&ggg;",
+		"glyph": "\u22d9"
+	},
+	{
+		"reference": "&gimel;",
+		"glyph": "\u2137"
+	},
+	{
+		"reference": "&GJcy;",
+		"glyph": "\u0403"
+	},
+	{
+		"reference": "&gjcy;",
+		"glyph": "\u0453"
+	},
+	{
+		"reference": "&gl;",
+		"glyph": "\u2277"
+	},
+	{
+		"reference": "&gla;",
+		"glyph": "\u2aa5"
+	},
+	{
+		"reference": "&glE;",
+		"glyph": "\u2a92"
+	},
+	{
+		"reference": "&glj;",
+		"glyph": "\u2aa4"
+	},
+	{
+		"reference": "&gnap;",
+		"glyph": "\u2a8a"
+	},
+	{
+		"reference": "&gnapprox;",
+		"glyph": "\u2a8a"
+	},
+	{
+		"reference": "&gnE;",
+		"glyph": "\u2269"
+	},
+	{
+		"reference": "&gne;",
+		"glyph": "\u2a88"
+	},
+	{
+		"reference": "&gneq;",
+		"glyph": "\u2a88"
+	},
+	{
+		"reference": "&gneqq;",
+		"glyph": "\u2269"
+	},
+	{
+		"reference": "&gnsim;",
+		"glyph": "\u22e7"
+	},
+	{
+		"reference": "&Gopf;",
+		"glyph": "\ud835\udd3e"
+	},
+	{
+		"reference": "&gopf;",
+		"glyph": "\ud835\udd58"
+	},
+	{
+		"reference": "&grave;",
+		"glyph": "`"
+	},
+	{
+		"reference": "&GreaterEqual;",
+		"glyph": "\u2265"
+	},
+	{
+		"reference": "&GreaterEqualLess;",
+		"glyph": "\u22db"
+	},
+	{
+		"reference": "&GreaterFullEqual;",
+		"glyph": "\u2267"
+	},
+	{
+		"reference": "&GreaterGreater;",
+		"glyph": "\u2aa2"
+	},
+	{
+		"reference": "&GreaterLess;",
+		"glyph": "\u2277"
+	},
+	{
+		"reference": "&GreaterSlantEqual;",
+		"glyph": "\u2a7e"
+	},
+	{
+		"reference": "&GreaterTilde;",
+		"glyph": "\u2273"
+	},
+	{
+		"reference": "&Gscr;",
+		"glyph": "\ud835\udca2"
+	},
+	{
+		"reference": "&gscr;",
+		"glyph": "\u210a"
+	},
+	{
+		"reference": "&gsim;",
+		"glyph": "\u2273"
+	},
+	{
+		"reference": "&gsime;",
+		"glyph": "\u2a8e"
+	},
+	{
+		"reference": "&gsiml;",
+		"glyph": "\u2a90"
+	},
+	{
+		"reference": "&GT;",
+		"glyph": ">"
+	},
+	{
+		"reference": "&GT",
+		"glyph": ">"
+	},
+	{
+		"reference": "&Gt;",
+		"glyph": "\u226b"
+	},
+	{
+		"reference": "&gt;",
+		"glyph": ">"
+	},
+	{
+		"reference": "&gt",
+		"glyph": ">"
+	},
+	{
+		"reference": "&gtcc;",
+		"glyph": "\u2aa7"
+	},
+	{
+		"reference": "&gtcir;",
+		"glyph": "\u2a7a"
+	},
+	{
+		"reference": "&gtdot;",
+		"glyph": "\u22d7"
+	},
+	{
+		"reference": "&gtlPar;",
+		"glyph": "\u2995"
+	},
+	{
+		"reference": "&gtquest;",
+		"glyph": "\u2a7c"
+	},
+	{
+		"reference": "&gtrapprox;",
+		"glyph": "\u2a86"
+	},
+	{
+		"reference": "&gtrarr;",
+		"glyph": "\u2978"
+	},
+	{
+		"reference": "&gtrdot;",
+		"glyph": "\u22d7"
+	},
+	{
+		"reference": "&gtreqless;",
+		"glyph": "\u22db"
+	},
+	{
+		"reference": "&gtreqqless;",
+		"glyph": "\u2a8c"
+	},
+	{
+		"reference": "&gtrless;",
+		"glyph": "\u2277"
+	},
+	{
+		"reference": "&gtrsim;",
+		"glyph": "\u2273"
+	},
+	{
+		"reference": "&gvertneqq;",
+		"glyph": "\u2269\ufe00"
+	},
+	{
+		"reference": "&gvnE;",
+		"glyph": "\u2269\ufe00"
+	},
+	{
+		"reference": "&Hacek;",
+		"glyph": "\u02c7"
+	},
+	{
+		"reference": "&hairsp;",
+		"glyph": "\u200a"
+	},
+	{
+		"reference": "&half;",
+		"glyph": "\u00bd"
+	},
+	{
+		"reference": "&hamilt;",
+		"glyph": "\u210b"
+	},
+	{
+		"reference": "&HARDcy;",
+		"glyph": "\u042a"
+	},
+	{
+		"reference": "&hardcy;",
+		"glyph": "\u044a"
+	},
+	{
+		"reference": "&hArr;",
+		"glyph": "\u21d4"
+	},
+	{
+		"reference": "&harr;",
+		"glyph": "\u2194"
+	},
+	{
+		"reference": "&harrcir;",
+		"glyph": "\u2948"
+	},
+	{
+		"reference": "&harrw;",
+		"glyph": "\u21ad"
+	},
+	{
+		"reference": "&Hat;",
+		"glyph": "^"
+	},
+	{
+		"reference": "&hbar;",
+		"glyph": "\u210f"
+	},
+	{
+		"reference": "&Hcirc;",
+		"glyph": "\u0124"
+	},
+	{
+		"reference": "&hcirc;",
+		"glyph": "\u0125"
+	},
+	{
+		"reference": "&hearts;",
+		"glyph": "\u2665"
+	},
+	{
+		"reference": "&heartsuit;",
+		"glyph": "\u2665"
+	},
+	{
+		"reference": "&hellip;",
+		"glyph": "\u2026"
+	},
+	{
+		"reference": "&hercon;",
+		"glyph": "\u22b9"
+	},
+	{
+		"reference": "&Hfr;",
+		"glyph": "\u210c"
+	},
+	{
+		"reference": "&hfr;",
+		"glyph": "\ud835\udd25"
+	},
+	{
+		"reference": "&HilbertSpace;",
+		"glyph": "\u210b"
+	},
+	{
+		"reference": "&hksearow;",
+		"glyph": "\u2925"
+	},
+	{
+		"reference": "&hkswarow;",
+		"glyph": "\u2926"
+	},
+	{
+		"reference": "&hoarr;",
+		"glyph": "\u21ff"
+	},
+	{
+		"reference": "&homtht;",
+		"glyph": "\u223b"
+	},
+	{
+		"reference": "&hookleftarrow;",
+		"glyph": "\u21a9"
+	},
+	{
+		"reference": "&hookrightarrow;",
+		"glyph": "\u21aa"
+	},
+	{
+		"reference": "&Hopf;",
+		"glyph": "\u210d"
+	},
+	{
+		"reference": "&hopf;",
+		"glyph": "\ud835\udd59"
+	},
+	{
+		"reference": "&horbar;",
+		"glyph": "\u2015"
+	},
+	{
+		"reference": "&HorizontalLine;",
+		"glyph": "\u2500"
+	},
+	{
+		"reference": "&Hscr;",
+		"glyph": "\u210b"
+	},
+	{
+		"reference": "&hscr;",
+		"glyph": "\ud835\udcbd"
+	},
+	{
+		"reference": "&hslash;",
+		"glyph": "\u210f"
+	},
+	{
+		"reference": "&Hstrok;",
+		"glyph": "\u0126"
+	},
+	{
+		"reference": "&hstrok;",
+		"glyph": "\u0127"
+	},
+	{
+		"reference": "&HumpDownHump;",
+		"glyph": "\u224e"
+	},
+	{
+		"reference": "&HumpEqual;",
+		"glyph": "\u224f"
+	},
+	{
+		"reference": "&hybull;",
+		"glyph": "\u2043"
+	},
+	{
+		"reference": "&hyphen;",
+		"glyph": "\u2010"
+	},
+	{
+		"reference": "&Iacute;",
+		"glyph": "\u00cd"
+	},
+	{
+		"reference": "&Iacute",
+		"glyph": "\u00cd"
+	},
+	{
+		"reference": "&iacute;",
+		"glyph": "\u00ed"
+	},
+	{
+		"reference": "&iacute",
+		"glyph": "\u00ed"
+	},
+	{
+		"reference": "&ic;",
+		"glyph": "\u2063"
+	},
+	{
+		"reference": "&Icirc;",
+		"glyph": "\u00ce"
+	},
+	{
+		"reference": "&Icirc",
+		"glyph": "\u00ce"
+	},
+	{
+		"reference": "&icirc;",
+		"glyph": "\u00ee"
+	},
+	{
+		"reference": "&icirc",
+		"glyph": "\u00ee"
+	},
+	{
+		"reference": "&Icy;",
+		"glyph": "\u0418"
+	},
+	{
+		"reference": "&icy;",
+		"glyph": "\u0438"
+	},
+	{
+		"reference": "&Idot;",
+		"glyph": "\u0130"
+	},
+	{
+		"reference": "&IEcy;",
+		"glyph": "\u0415"
+	},
+	{
+		"reference": "&iecy;",
+		"glyph": "\u0435"
+	},
+	{
+		"reference": "&iexcl;",
+		"glyph": "\u00a1"
+	},
+	{
+		"reference": "&iexcl",
+		"glyph": "\u00a1"
+	},
+	{
+		"reference": "&iff;",
+		"glyph": "\u21d4"
+	},
+	{
+		"reference": "&Ifr;",
+		"glyph": "\u2111"
+	},
+	{
+		"reference": "&ifr;",
+		"glyph": "\ud835\udd26"
+	},
+	{
+		"reference": "&Igrave;",
+		"glyph": "\u00cc"
+	},
+	{
+		"reference": "&Igrave",
+		"glyph": "\u00cc"
+	},
+	{
+		"reference": "&igrave;",
+		"glyph": "\u00ec"
+	},
+	{
+		"reference": "&igrave",
+		"glyph": "\u00ec"
+	},
+	{
+		"reference": "&ii;",
+		"glyph": "\u2148"
+	},
+	{
+		"reference": "&iiiint;",
+		"glyph": "\u2a0c"
+	},
+	{
+		"reference": "&iiint;",
+		"glyph": "\u222d"
+	},
+	{
+		"reference": "&iinfin;",
+		"glyph": "\u29dc"
+	},
+	{
+		"reference": "&iiota;",
+		"glyph": "\u2129"
+	},
+	{
+		"reference": "&IJlig;",
+		"glyph": "\u0132"
+	},
+	{
+		"reference": "&ijlig;",
+		"glyph": "\u0133"
+	},
+	{
+		"reference": "&Im;",
+		"glyph": "\u2111"
+	},
+	{
+		"reference": "&Imacr;",
+		"glyph": "\u012a"
+	},
+	{
+		"reference": "&imacr;",
+		"glyph": "\u012b"
+	},
+	{
+		"reference": "&image;",
+		"glyph": "\u2111"
+	},
+	{
+		"reference": "&ImaginaryI;",
+		"glyph": "\u2148"
+	},
+	{
+		"reference": "&imagline;",
+		"glyph": "\u2110"
+	},
+	{
+		"reference": "&imagpart;",
+		"glyph": "\u2111"
+	},
+	{
+		"reference": "&imath;",
+		"glyph": "\u0131"
+	},
+	{
+		"reference": "&imof;",
+		"glyph": "\u22b7"
+	},
+	{
+		"reference": "&imped;",
+		"glyph": "\u01b5"
+	},
+	{
+		"reference": "&Implies;",
+		"glyph": "\u21d2"
+	},
+	{
+		"reference": "&in;",
+		"glyph": "\u2208"
+	},
+	{
+		"reference": "&incare;",
+		"glyph": "\u2105"
+	},
+	{
+		"reference": "&infin;",
+		"glyph": "\u221e"
+	},
+	{
+		"reference": "&infintie;",
+		"glyph": "\u29dd"
+	},
+	{
+		"reference": "&inodot;",
+		"glyph": "\u0131"
+	},
+	{
+		"reference": "&Int;",
+		"glyph": "\u222c"
+	},
+	{
+		"reference": "&int;",
+		"glyph": "\u222b"
+	},
+	{
+		"reference": "&intcal;",
+		"glyph": "\u22ba"
+	},
+	{
+		"reference": "&integers;",
+		"glyph": "\u2124"
+	},
+	{
+		"reference": "&Integral;",
+		"glyph": "\u222b"
+	},
+	{
+		"reference": "&intercal;",
+		"glyph": "\u22ba"
+	},
+	{
+		"reference": "&Intersection;",
+		"glyph": "\u22c2"
+	},
+	{
+		"reference": "&intlarhk;",
+		"glyph": "\u2a17"
+	},
+	{
+		"reference": "&intprod;",
+		"glyph": "\u2a3c"
+	},
+	{
+		"reference": "&InvisibleComma;",
+		"glyph": "\u2063"
+	},
+	{
+		"reference": "&InvisibleTimes;",
+		"glyph": "\u2062"
+	},
+	{
+		"reference": "&IOcy;",
+		"glyph": "\u0401"
+	},
+	{
+		"reference": "&iocy;",
+		"glyph": "\u0451"
+	},
+	{
+		"reference": "&Iogon;",
+		"glyph": "\u012e"
+	},
+	{
+		"reference": "&iogon;",
+		"glyph": "\u012f"
+	},
+	{
+		"reference": "&Iopf;",
+		"glyph": "\ud835\udd40"
+	},
+	{
+		"reference": "&iopf;",
+		"glyph": "\ud835\udd5a"
+	},
+	{
+		"reference": "&Iota;",
+		"glyph": "\u0399"
+	},
+	{
+		"reference": "&iota;",
+		"glyph": "\u03b9"
+	},
+	{
+		"reference": "&iprod;",
+		"glyph": "\u2a3c"
+	},
+	{
+		"reference": "&iquest;",
+		"glyph": "\u00bf"
+	},
+	{
+		"reference": "&iquest",
+		"glyph": "\u00bf"
+	},
+	{
+		"reference": "&Iscr;",
+		"glyph": "\u2110"
+	},
+	{
+		"reference": "&iscr;",
+		"glyph": "\ud835\udcbe"
+	},
+	{
+		"reference": "&isin;",
+		"glyph": "\u2208"
+	},
+	{
+		"reference": "&isindot;",
+		"glyph": "\u22f5"
+	},
+	{
+		"reference": "&isinE;",
+		"glyph": "\u22f9"
+	},
+	{
+		"reference": "&isins;",
+		"glyph": "\u22f4"
+	},
+	{
+		"reference": "&isinsv;",
+		"glyph": "\u22f3"
+	},
+	{
+		"reference": "&isinv;",
+		"glyph": "\u2208"
+	},
+	{
+		"reference": "&it;",
+		"glyph": "\u2062"
+	},
+	{
+		"reference": "&Itilde;",
+		"glyph": "\u0128"
+	},
+	{
+		"reference": "&itilde;",
+		"glyph": "\u0129"
+	},
+	{
+		"reference": "&Iukcy;",
+		"glyph": "\u0406"
+	},
+	{
+		"reference": "&iukcy;",
+		"glyph": "\u0456"
+	},
+	{
+		"reference": "&Iuml;",
+		"glyph": "\u00cf"
+	},
+	{
+		"reference": "&Iuml",
+		"glyph": "\u00cf"
+	},
+	{
+		"reference": "&iuml;",
+		"glyph": "\u00ef"
+	},
+	{
+		"reference": "&iuml",
+		"glyph": "\u00ef"
+	},
+	{
+		"reference": "&Jcirc;",
+		"glyph": "\u0134"
+	},
+	{
+		"reference": "&jcirc;",
+		"glyph": "\u0135"
+	},
+	{
+		"reference": "&Jcy;",
+		"glyph": "\u0419"
+	},
+	{
+		"reference": "&jcy;",
+		"glyph": "\u0439"
+	},
+	{
+		"reference": "&Jfr;",
+		"glyph": "\ud835\udd0d"
+	},
+	{
+		"reference": "&jfr;",
+		"glyph": "\ud835\udd27"
+	},
+	{
+		"reference": "&jmath;",
+		"glyph": "\u0237"
+	},
+	{
+		"reference": "&Jopf;",
+		"glyph": "\ud835\udd41"
+	},
+	{
+		"reference": "&jopf;",
+		"glyph": "\ud835\udd5b"
+	},
+	{
+		"reference": "&Jscr;",
+		"glyph": "\ud835\udca5"
+	},
+	{
+		"reference": "&jscr;",
+		"glyph": "\ud835\udcbf"
+	},
+	{
+		"reference": "&Jsercy;",
+		"glyph": "\u0408"
+	},
+	{
+		"reference": "&jsercy;",
+		"glyph": "\u0458"
+	},
+	{
+		"reference": "&Jukcy;",
+		"glyph": "\u0404"
+	},
+	{
+		"reference": "&jukcy;",
+		"glyph": "\u0454"
+	},
+	{
+		"reference": "&Kappa;",
+		"glyph": "\u039a"
+	},
+	{
+		"reference": "&kappa;",
+		"glyph": "\u03ba"
+	},
+	{
+		"reference": "&kappav;",
+		"glyph": "\u03f0"
+	},
+	{
+		"reference": "&Kcedil;",
+		"glyph": "\u0136"
+	},
+	{
+		"reference": "&kcedil;",
+		"glyph": "\u0137"
+	},
+	{
+		"reference": "&Kcy;",
+		"glyph": "\u041a"
+	},
+	{
+		"reference": "&kcy;",
+		"glyph": "\u043a"
+	},
+	{
+		"reference": "&Kfr;",
+		"glyph": "\ud835\udd0e"
+	},
+	{
+		"reference": "&kfr;",
+		"glyph": "\ud835\udd28"
+	},
+	{
+		"reference": "&kgreen;",
+		"glyph": "\u0138"
+	},
+	{
+		"reference": "&KHcy;",
+		"glyph": "\u0425"
+	},
+	{
+		"reference": "&khcy;",
+		"glyph": "\u0445"
+	},
+	{
+		"reference": "&KJcy;",
+		"glyph": "\u040c"
+	},
+	{
+		"reference": "&kjcy;",
+		"glyph": "\u045c"
+	},
+	{
+		"reference": "&Kopf;",
+		"glyph": "\ud835\udd42"
+	},
+	{
+		"reference": "&kopf;",
+		"glyph": "\ud835\udd5c"
+	},
+	{
+		"reference": "&Kscr;",
+		"glyph": "\ud835\udca6"
+	},
+	{
+		"reference": "&kscr;",
+		"glyph": "\ud835\udcc0"
+	},
+	{
+		"reference": "&lAarr;",
+		"glyph": "\u21da"
+	},
+	{
+		"reference": "&Lacute;",
+		"glyph": "\u0139"
+	},
+	{
+		"reference": "&lacute;",
+		"glyph": "\u013a"
+	},
+	{
+		"reference": "&laemptyv;",
+		"glyph": "\u29b4"
+	},
+	{
+		"reference": "&lagran;",
+		"glyph": "\u2112"
+	},
+	{
+		"reference": "&Lambda;",
+		"glyph": "\u039b"
+	},
+	{
+		"reference": "&lambda;",
+		"glyph": "\u03bb"
+	},
+	{
+		"reference": "&Lang;",
+		"glyph": "\u27ea"
+	},
+	{
+		"reference": "&lang;",
+		"glyph": "\u27e8"
+	},
+	{
+		"reference": "&langd;",
+		"glyph": "\u2991"
+	},
+	{
+		"reference": "&langle;",
+		"glyph": "\u27e8"
+	},
+	{
+		"reference": "&lap;",
+		"glyph": "\u2a85"
+	},
+	{
+		"reference": "&Laplacetrf;",
+		"glyph": "\u2112"
+	},
+	{
+		"reference": "&laquo;",
+		"glyph": "\u00ab"
+	},
+	{
+		"reference": "&laquo",
+		"glyph": "\u00ab"
+	},
+	{
+		"reference": "&Larr;",
+		"glyph": "\u219e"
+	},
+	{
+		"reference": "&lArr;",
+		"glyph": "\u21d0"
+	},
+	{
+		"reference": "&larr;",
+		"glyph": "\u2190"
+	},
+	{
+		"reference": "&larrb;",
+		"glyph": "\u21e4"
+	},
+	{
+		"reference": "&larrbfs;",
+		"glyph": "\u291f"
+	},
+	{
+		"reference": "&larrfs;",
+		"glyph": "\u291d"
+	},
+	{
+		"reference": "&larrhk;",
+		"glyph": "\u21a9"
+	},
+	{
+		"reference": "&larrlp;",
+		"glyph": "\u21ab"
+	},
+	{
+		"reference": "&larrpl;",
+		"glyph": "\u2939"
+	},
+	{
+		"reference": "&larrsim;",
+		"glyph": "\u2973"
+	},
+	{
+		"reference": "&larrtl;",
+		"glyph": "\u21a2"
+	},
+	{
+		"reference": "&lat;",
+		"glyph": "\u2aab"
+	},
+	{
+		"reference": "&lAtail;",
+		"glyph": "\u291b"
+	},
+	{
+		"reference": "&latail;",
+		"glyph": "\u2919"
+	},
+	{
+		"reference": "&late;",
+		"glyph": "\u2aad"
+	},
+	{
+		"reference": "&lates;",
+		"glyph": "\u2aad\ufe00"
+	},
+	{
+		"reference": "&lBarr;",
+		"glyph": "\u290e"
+	},
+	{
+		"reference": "&lbarr;",
+		"glyph": "\u290c"
+	},
+	{
+		"reference": "&lbbrk;",
+		"glyph": "\u2772"
+	},
+	{
+		"reference": "&lbrace;",
+		"glyph": "{"
+	},
+	{
+		"reference": "&lbrack;",
+		"glyph": "["
+	},
+	{
+		"reference": "&lbrke;",
+		"glyph": "\u298b"
+	},
+	{
+		"reference": "&lbrksld;",
+		"glyph": "\u298f"
+	},
+	{
+		"reference": "&lbrkslu;",
+		"glyph": "\u298d"
+	},
+	{
+		"reference": "&Lcaron;",
+		"glyph": "\u013d"
+	},
+	{
+		"reference": "&lcaron;",
+		"glyph": "\u013e"
+	},
+	{
+		"reference": "&Lcedil;",
+		"glyph": "\u013b"
+	},
+	{
+		"reference": "&lcedil;",
+		"glyph": "\u013c"
+	},
+	{
+		"reference": "&lceil;",
+		"glyph": "\u2308"
+	},
+	{
+		"reference": "&lcub;",
+		"glyph": "{"
+	},
+	{
+		"reference": "&Lcy;",
+		"glyph": "\u041b"
+	},
+	{
+		"reference": "&lcy;",
+		"glyph": "\u043b"
+	},
+	{
+		"reference": "&ldca;",
+		"glyph": "\u2936"
+	},
+	{
+		"reference": "&ldquo;",
+		"glyph": "\u201c"
+	},
+	{
+		"reference": "&ldquor;",
+		"glyph": "\u201e"
+	},
+	{
+		"reference": "&ldrdhar;",
+		"glyph": "\u2967"
+	},
+	{
+		"reference": "&ldrushar;",
+		"glyph": "\u294b"
+	},
+	{
+		"reference": "&ldsh;",
+		"glyph": "\u21b2"
+	},
+	{
+		"reference": "&lE;",
+		"glyph": "\u2266"
+	},
+	{
+		"reference": "&le;",
+		"glyph": "\u2264"
+	},
+	{
+		"reference": "&LeftAngleBracket;",
+		"glyph": "\u27e8"
+	},
+	{
+		"reference": "&LeftArrow;",
+		"glyph": "\u2190"
+	},
+	{
+		"reference": "&Leftarrow;",
+		"glyph": "\u21d0"
+	},
+	{
+		"reference": "&leftarrow;",
+		"glyph": "\u2190"
+	},
+	{
+		"reference": "&LeftArrowBar;",
+		"glyph": "\u21e4"
+	},
+	{
+		"reference": "&LeftArrowRightArrow;",
+		"glyph": "\u21c6"
+	},
+	{
+		"reference": "&leftarrowtail;",
+		"glyph": "\u21a2"
+	},
+	{
+		"reference": "&LeftCeiling;",
+		"glyph": "\u2308"
+	},
+	{
+		"reference": "&LeftDoubleBracket;",
+		"glyph": "\u27e6"
+	},
+	{
+		"reference": "&LeftDownTeeVector;",
+		"glyph": "\u2961"
+	},
+	{
+		"reference": "&LeftDownVector;",
+		"glyph": "\u21c3"
+	},
+	{
+		"reference": "&LeftDownVectorBar;",
+		"glyph": "\u2959"
+	},
+	{
+		"reference": "&LeftFloor;",
+		"glyph": "\u230a"
+	},
+	{
+		"reference": "&leftharpoondown;",
+		"glyph": "\u21bd"
+	},
+	{
+		"reference": "&leftharpoonup;",
+		"glyph": "\u21bc"
+	},
+	{
+		"reference": "&leftleftarrows;",
+		"glyph": "\u21c7"
+	},
+	{
+		"reference": "&LeftRightArrow;",
+		"glyph": "\u2194"
+	},
+	{
+		"reference": "&Leftrightarrow;",
+		"glyph": "\u21d4"
+	},
+	{
+		"reference": "&leftrightarrow;",
+		"glyph": "\u2194"
+	},
+	{
+		"reference": "&leftrightarrows;",
+		"glyph": "\u21c6"
+	},
+	{
+		"reference": "&leftrightharpoons;",
+		"glyph": "\u21cb"
+	},
+	{
+		"reference": "&leftrightsquigarrow;",
+		"glyph": "\u21ad"
+	},
+	{
+		"reference": "&LeftRightVector;",
+		"glyph": "\u294e"
+	},
+	{
+		"reference": "&LeftTee;",
+		"glyph": "\u22a3"
+	},
+	{
+		"reference": "&LeftTeeArrow;",
+		"glyph": "\u21a4"
+	},
+	{
+		"reference": "&LeftTeeVector;",
+		"glyph": "\u295a"
+	},
+	{
+		"reference": "&leftthreetimes;",
+		"glyph": "\u22cb"
+	},
+	{
+		"reference": "&LeftTriangle;",
+		"glyph": "\u22b2"
+	},
+	{
+		"reference": "&LeftTriangleBar;",
+		"glyph": "\u29cf"
+	},
+	{
+		"reference": "&LeftTriangleEqual;",
+		"glyph": "\u22b4"
+	},
+	{
+		"reference": "&LeftUpDownVector;",
+		"glyph": "\u2951"
+	},
+	{
+		"reference": "&LeftUpTeeVector;",
+		"glyph": "\u2960"
+	},
+	{
+		"reference": "&LeftUpVector;",
+		"glyph": "\u21bf"
+	},
+	{
+		"reference": "&LeftUpVectorBar;",
+		"glyph": "\u2958"
+	},
+	{
+		"reference": "&LeftVector;",
+		"glyph": "\u21bc"
+	},
+	{
+		"reference": "&LeftVectorBar;",
+		"glyph": "\u2952"
+	},
+	{
+		"reference": "&lEg;",
+		"glyph": "\u2a8b"
+	},
+	{
+		"reference": "&leg;",
+		"glyph": "\u22da"
+	},
+	{
+		"reference": "&leq;",
+		"glyph": "\u2264"
+	},
+	{
+		"reference": "&leqq;",
+		"glyph": "\u2266"
+	},
+	{
+		"reference": "&leqslant;",
+		"glyph": "\u2a7d"
+	},
+	{
+		"reference": "&les;",
+		"glyph": "\u2a7d"
+	},
+	{
+		"reference": "&lescc;",
+		"glyph": "\u2aa8"
+	},
+	{
+		"reference": "&lesdot;",
+		"glyph": "\u2a7f"
+	},
+	{
+		"reference": "&lesdoto;",
+		"glyph": "\u2a81"
+	},
+	{
+		"reference": "&lesdotor;",
+		"glyph": "\u2a83"
+	},
+	{
+		"reference": "&lesg;",
+		"glyph": "\u22da\ufe00"
+	},
+	{
+		"reference": "&lesges;",
+		"glyph": "\u2a93"
+	},
+	{
+		"reference": "&lessapprox;",
+		"glyph": "\u2a85"
+	},
+	{
+		"reference": "&lessdot;",
+		"glyph": "\u22d6"
+	},
+	{
+		"reference": "&lesseqgtr;",
+		"glyph": "\u22da"
+	},
+	{
+		"reference": "&lesseqqgtr;",
+		"glyph": "\u2a8b"
+	},
+	{
+		"reference": "&LessEqualGreater;",
+		"glyph": "\u22da"
+	},
+	{
+		"reference": "&LessFullEqual;",
+		"glyph": "\u2266"
+	},
+	{
+		"reference": "&LessGreater;",
+		"glyph": "\u2276"
+	},
+	{
+		"reference": "&lessgtr;",
+		"glyph": "\u2276"
+	},
+	{
+		"reference": "&LessLess;",
+		"glyph": "\u2aa1"
+	},
+	{
+		"reference": "&lesssim;",
+		"glyph": "\u2272"
+	},
+	{
+		"reference": "&LessSlantEqual;",
+		"glyph": "\u2a7d"
+	},
+	{
+		"reference": "&LessTilde;",
+		"glyph": "\u2272"
+	},
+	{
+		"reference": "&lfisht;",
+		"glyph": "\u297c"
+	},
+	{
+		"reference": "&lfloor;",
+		"glyph": "\u230a"
+	},
+	{
+		"reference": "&Lfr;",
+		"glyph": "\ud835\udd0f"
+	},
+	{
+		"reference": "&lfr;",
+		"glyph": "\ud835\udd29"
+	},
+	{
+		"reference": "&lg;",
+		"glyph": "\u2276"
+	},
+	{
+		"reference": "&lgE;",
+		"glyph": "\u2a91"
+	},
+	{
+		"reference": "&lHar;",
+		"glyph": "\u2962"
+	},
+	{
+		"reference": "&lhard;",
+		"glyph": "\u21bd"
+	},
+	{
+		"reference": "&lharu;",
+		"glyph": "\u21bc"
+	},
+	{
+		"reference": "&lharul;",
+		"glyph": "\u296a"
+	},
+	{
+		"reference": "&lhblk;",
+		"glyph": "\u2584"
+	},
+	{
+		"reference": "&LJcy;",
+		"glyph": "\u0409"
+	},
+	{
+		"reference": "&ljcy;",
+		"glyph": "\u0459"
+	},
+	{
+		"reference": "&Ll;",
+		"glyph": "\u22d8"
+	},
+	{
+		"reference": "&ll;",
+		"glyph": "\u226a"
+	},
+	{
+		"reference": "&llarr;",
+		"glyph": "\u21c7"
+	},
+	{
+		"reference": "&llcorner;",
+		"glyph": "\u231e"
+	},
+	{
+		"reference": "&Lleftarrow;",
+		"glyph": "\u21da"
+	},
+	{
+		"reference": "&llhard;",
+		"glyph": "\u296b"
+	},
+	{
+		"reference": "&lltri;",
+		"glyph": "\u25fa"
+	},
+	{
+		"reference": "&Lmidot;",
+		"glyph": "\u013f"
+	},
+	{
+		"reference": "&lmidot;",
+		"glyph": "\u0140"
+	},
+	{
+		"reference": "&lmoust;",
+		"glyph": "\u23b0"
+	},
+	{
+		"reference": "&lmoustache;",
+		"glyph": "\u23b0"
+	},
+	{
+		"reference": "&lnap;",
+		"glyph": "\u2a89"
+	},
+	{
+		"reference": "&lnapprox;",
+		"glyph": "\u2a89"
+	},
+	{
+		"reference": "&lnE;",
+		"glyph": "\u2268"
+	},
+	{
+		"reference": "&lne;",
+		"glyph": "\u2a87"
+	},
+	{
+		"reference": "&lneq;",
+		"glyph": "\u2a87"
+	},
+	{
+		"reference": "&lneqq;",
+		"glyph": "\u2268"
+	},
+	{
+		"reference": "&lnsim;",
+		"glyph": "\u22e6"
+	},
+	{
+		"reference": "&loang;",
+		"glyph": "\u27ec"
+	},
+	{
+		"reference": "&loarr;",
+		"glyph": "\u21fd"
+	},
+	{
+		"reference": "&lobrk;",
+		"glyph": "\u27e6"
+	},
+	{
+		"reference": "&LongLeftArrow;",
+		"glyph": "\u27f5"
+	},
+	{
+		"reference": "&Longleftarrow;",
+		"glyph": "\u27f8"
+	},
+	{
+		"reference": "&longleftarrow;",
+		"glyph": "\u27f5"
+	},
+	{
+		"reference": "&LongLeftRightArrow;",
+		"glyph": "\u27f7"
+	},
+	{
+		"reference": "&Longleftrightarrow;",
+		"glyph": "\u27fa"
+	},
+	{
+		"reference": "&longleftrightarrow;",
+		"glyph": "\u27f7"
+	},
+	{
+		"reference": "&longmapsto;",
+		"glyph": "\u27fc"
+	},
+	{
+		"reference": "&LongRightArrow;",
+		"glyph": "\u27f6"
+	},
+	{
+		"reference": "&Longrightarrow;",
+		"glyph": "\u27f9"
+	},
+	{
+		"reference": "&longrightarrow;",
+		"glyph": "\u27f6"
+	},
+	{
+		"reference": "&looparrowleft;",
+		"glyph": "\u21ab"
+	},
+	{
+		"reference": "&looparrowright;",
+		"glyph": "\u21ac"
+	},
+	{
+		"reference": "&lopar;",
+		"glyph": "\u2985"
+	},
+	{
+		"reference": "&Lopf;",
+		"glyph": "\ud835\udd43"
+	},
+	{
+		"reference": "&lopf;",
+		"glyph": "\ud835\udd5d"
+	},
+	{
+		"reference": "&loplus;",
+		"glyph": "\u2a2d"
+	},
+	{
+		"reference": "&lotimes;",
+		"glyph": "\u2a34"
+	},
+	{
+		"reference": "&lowast;",
+		"glyph": "\u2217"
+	},
+	{
+		"reference": "&lowbar;",
+		"glyph": "_"
+	},
+	{
+		"reference": "&LowerLeftArrow;",
+		"glyph": "\u2199"
+	},
+	{
+		"reference": "&LowerRightArrow;",
+		"glyph": "\u2198"
+	},
+	{
+		"reference": "&loz;",
+		"glyph": "\u25ca"
+	},
+	{
+		"reference": "&lozenge;",
+		"glyph": "\u25ca"
+	},
+	{
+		"reference": "&lozf;",
+		"glyph": "\u29eb"
+	},
+	{
+		"reference": "&lpar;",
+		"glyph": "("
+	},
+	{
+		"reference": "&lparlt;",
+		"glyph": "\u2993"
+	},
+	{
+		"reference": "&lrarr;",
+		"glyph": "\u21c6"
+	},
+	{
+		"reference": "&lrcorner;",
+		"glyph": "\u231f"
+	},
+	{
+		"reference": "&lrhar;",
+		"glyph": "\u21cb"
+	},
+	{
+		"reference": "&lrhard;",
+		"glyph": "\u296d"
+	},
+	{
+		"reference": "&lrm;",
+		"glyph": "\u200e"
+	},
+	{
+		"reference": "&lrtri;",
+		"glyph": "\u22bf"
+	},
+	{
+		"reference": "&lsaquo;",
+		"glyph": "\u2039"
+	},
+	{
+		"reference": "&Lscr;",
+		"glyph": "\u2112"
+	},
+	{
+		"reference": "&lscr;",
+		"glyph": "\ud835\udcc1"
+	},
+	{
+		"reference": "&Lsh;",
+		"glyph": "\u21b0"
+	},
+	{
+		"reference": "&lsh;",
+		"glyph": "\u21b0"
+	},
+	{
+		"reference": "&lsim;",
+		"glyph": "\u2272"
+	},
+	{
+		"reference": "&lsime;",
+		"glyph": "\u2a8d"
+	},
+	{
+		"reference": "&lsimg;",
+		"glyph": "\u2a8f"
+	},
+	{
+		"reference": "&lsqb;",
+		"glyph": "["
+	},
+	{
+		"reference": "&lsquo;",
+		"glyph": "\u2018"
+	},
+	{
+		"reference": "&lsquor;",
+		"glyph": "\u201a"
+	},
+	{
+		"reference": "&Lstrok;",
+		"glyph": "\u0141"
+	},
+	{
+		"reference": "&lstrok;",
+		"glyph": "\u0142"
+	},
+	{
+		"reference": "&LT;",
+		"glyph": "<"
+	},
+	{
+		"reference": "&LT",
+		"glyph": "<"
+	},
+	{
+		"reference": "&Lt;",
+		"glyph": "\u226a"
+	},
+	{
+		"reference": "&lt;",
+		"glyph": "<"
+	},
+	{
+		"reference": "&lt",
+		"glyph": "<"
+	},
+	{
+		"reference": "&ltcc;",
+		"glyph": "\u2aa6"
+	},
+	{
+		"reference": "&ltcir;",
+		"glyph": "\u2a79"
+	},
+	{
+		"reference": "&ltdot;",
+		"glyph": "\u22d6"
+	},
+	{
+		"reference": "&lthree;",
+		"glyph": "\u22cb"
+	},
+	{
+		"reference": "&ltimes;",
+		"glyph": "\u22c9"
+	},
+	{
+		"reference": "&ltlarr;",
+		"glyph": "\u2976"
+	},
+	{
+		"reference": "&ltquest;",
+		"glyph": "\u2a7b"
+	},
+	{
+		"reference": "&ltri;",
+		"glyph": "\u25c3"
+	},
+	{
+		"reference": "&ltrie;",
+		"glyph": "\u22b4"
+	},
+	{
+		"reference": "&ltrif;",
+		"glyph": "\u25c2"
+	},
+	{
+		"reference": "&ltrPar;",
+		"glyph": "\u2996"
+	},
+	{
+		"reference": "&lurdshar;",
+		"glyph": "\u294a"
+	},
+	{
+		"reference": "&luruhar;",
+		"glyph": "\u2966"
+	},
+	{
+		"reference": "&lvertneqq;",
+		"glyph": "\u2268\ufe00"
+	},
+	{
+		"reference": "&lvnE;",
+		"glyph": "\u2268\ufe00"
+	},
+	{
+		"reference": "&macr;",
+		"glyph": "\u00af"
+	},
+	{
+		"reference": "&macr",
+		"glyph": "\u00af"
+	},
+	{
+		"reference": "&male;",
+		"glyph": "\u2642"
+	},
+	{
+		"reference": "&malt;",
+		"glyph": "\u2720"
+	},
+	{
+		"reference": "&maltese;",
+		"glyph": "\u2720"
+	},
+	{
+		"reference": "&Map;",
+		"glyph": "\u2905"
+	},
+	{
+		"reference": "&map;",
+		"glyph": "\u21a6"
+	},
+	{
+		"reference": "&mapsto;",
+		"glyph": "\u21a6"
+	},
+	{
+		"reference": "&mapstodown;",
+		"glyph": "\u21a7"
+	},
+	{
+		"reference": "&mapstoleft;",
+		"glyph": "\u21a4"
+	},
+	{
+		"reference": "&mapstoup;",
+		"glyph": "\u21a5"
+	},
+	{
+		"reference": "&marker;",
+		"glyph": "\u25ae"
+	},
+	{
+		"reference": "&mcomma;",
+		"glyph": "\u2a29"
+	},
+	{
+		"reference": "&Mcy;",
+		"glyph": "\u041c"
+	},
+	{
+		"reference": "&mcy;",
+		"glyph": "\u043c"
+	},
+	{
+		"reference": "&mdash;",
+		"glyph": "\u2014"
+	},
+	{
+		"reference": "&mDDot;",
+		"glyph": "\u223a"
+	},
+	{
+		"reference": "&measuredangle;",
+		"glyph": "\u2221"
+	},
+	{
+		"reference": "&MediumSpace;",
+		"glyph": "\u205f"
+	},
+	{
+		"reference": "&Mellintrf;",
+		"glyph": "\u2133"
+	},
+	{
+		"reference": "&Mfr;",
+		"glyph": "\ud835\udd10"
+	},
+	{
+		"reference": "&mfr;",
+		"glyph": "\ud835\udd2a"
+	},
+	{
+		"reference": "&mho;",
+		"glyph": "\u2127"
+	},
+	{
+		"reference": "&micro;",
+		"glyph": "\u00b5"
+	},
+	{
+		"reference": "&micro",
+		"glyph": "\u00b5"
+	},
+	{
+		"reference": "&mid;",
+		"glyph": "\u2223"
+	},
+	{
+		"reference": "&midast;",
+		"glyph": "*"
+	},
+	{
+		"reference": "&midcir;",
+		"glyph": "\u2af0"
+	},
+	{
+		"reference": "&middot;",
+		"glyph": "\u00b7"
+	},
+	{
+		"reference": "&middot",
+		"glyph": "\u00b7"
+	},
+	{
+		"reference": "&minus;",
+		"glyph": "\u2212"
+	},
+	{
+		"reference": "&minusb;",
+		"glyph": "\u229f"
+	},
+	{
+		"reference": "&minusd;",
+		"glyph": "\u2238"
+	},
+	{
+		"reference": "&minusdu;",
+		"glyph": "\u2a2a"
+	},
+	{
+		"reference": "&MinusPlus;",
+		"glyph": "\u2213"
+	},
+	{
+		"reference": "&mlcp;",
+		"glyph": "\u2adb"
+	},
+	{
+		"reference": "&mldr;",
+		"glyph": "\u2026"
+	},
+	{
+		"reference": "&mnplus;",
+		"glyph": "\u2213"
+	},
+	{
+		"reference": "&models;",
+		"glyph": "\u22a7"
+	},
+	{
+		"reference": "&Mopf;",
+		"glyph": "\ud835\udd44"
+	},
+	{
+		"reference": "&mopf;",
+		"glyph": "\ud835\udd5e"
+	},
+	{
+		"reference": "&mp;",
+		"glyph": "\u2213"
+	},
+	{
+		"reference": "&Mscr;",
+		"glyph": "\u2133"
+	},
+	{
+		"reference": "&mscr;",
+		"glyph": "\ud835\udcc2"
+	},
+	{
+		"reference": "&mstpos;",
+		"glyph": "\u223e"
+	},
+	{
+		"reference": "&Mu;",
+		"glyph": "\u039c"
+	},
+	{
+		"reference": "&mu;",
+		"glyph": "\u03bc"
+	},
+	{
+		"reference": "&multimap;",
+		"glyph": "\u22b8"
+	},
+	{
+		"reference": "&mumap;",
+		"glyph": "\u22b8"
+	},
+	{
+		"reference": "&nabla;",
+		"glyph": "\u2207"
+	},
+	{
+		"reference": "&Nacute;",
+		"glyph": "\u0143"
+	},
+	{
+		"reference": "&nacute;",
+		"glyph": "\u0144"
+	},
+	{
+		"reference": "&nang;",
+		"glyph": "\u2220\u20d2"
+	},
+	{
+		"reference": "&nap;",
+		"glyph": "\u2249"
+	},
+	{
+		"reference": "&napE;",
+		"glyph": "\u2a70\u0338"
+	},
+	{
+		"reference": "&napid;",
+		"glyph": "\u224b\u0338"
+	},
+	{
+		"reference": "&napos;",
+		"glyph": "\u0149"
+	},
+	{
+		"reference": "&napprox;",
+		"glyph": "\u2249"
+	},
+	{
+		"reference": "&natur;",
+		"glyph": "\u266e"
+	},
+	{
+		"reference": "&natural;",
+		"glyph": "\u266e"
+	},
+	{
+		"reference": "&naturals;",
+		"glyph": "\u2115"
+	},
+	{
+		"reference": "&nbsp;",
+		"glyph": "\u00a0"
+	},
+	{
+		"reference": "&nbsp",
+		"glyph": "\u00a0"
+	},
+	{
+		"reference": "&nbump;",
+		"glyph": "\u224e\u0338"
+	},
+	{
+		"reference": "&nbumpe;",
+		"glyph": "\u224f\u0338"
+	},
+	{
+		"reference": "&ncap;",
+		"glyph": "\u2a43"
+	},
+	{
+		"reference": "&Ncaron;",
+		"glyph": "\u0147"
+	},
+	{
+		"reference": "&ncaron;",
+		"glyph": "\u0148"
+	},
+	{
+		"reference": "&Ncedil;",
+		"glyph": "\u0145"
+	},
+	{
+		"reference": "&ncedil;",
+		"glyph": "\u0146"
+	},
+	{
+		"reference": "&ncong;",
+		"glyph": "\u2247"
+	},
+	{
+		"reference": "&ncongdot;",
+		"glyph": "\u2a6d\u0338"
+	},
+	{
+		"reference": "&ncup;",
+		"glyph": "\u2a42"
+	},
+	{
+		"reference": "&Ncy;",
+		"glyph": "\u041d"
+	},
+	{
+		"reference": "&ncy;",
+		"glyph": "\u043d"
+	},
+	{
+		"reference": "&ndash;",
+		"glyph": "\u2013"
+	},
+	{
+		"reference": "&ne;",
+		"glyph": "\u2260"
+	},
+	{
+		"reference": "&nearhk;",
+		"glyph": "\u2924"
+	},
+	{
+		"reference": "&neArr;",
+		"glyph": "\u21d7"
+	},
+	{
+		"reference": "&nearr;",
+		"glyph": "\u2197"
+	},
+	{
+		"reference": "&nearrow;",
+		"glyph": "\u2197"
+	},
+	{
+		"reference": "&nedot;",
+		"glyph": "\u2250\u0338"
+	},
+	{
+		"reference": "&NegativeMediumSpace;",
+		"glyph": "\u200b"
+	},
+	{
+		"reference": "&NegativeThickSpace;",
+		"glyph": "\u200b"
+	},
+	{
+		"reference": "&NegativeThinSpace;",
+		"glyph": "\u200b"
+	},
+	{
+		"reference": "&NegativeVeryThinSpace;",
+		"glyph": "\u200b"
+	},
+	{
+		"reference": "&nequiv;",
+		"glyph": "\u2262"
+	},
+	{
+		"reference": "&nesear;",
+		"glyph": "\u2928"
+	},
+	{
+		"reference": "&nesim;",
+		"glyph": "\u2242\u0338"
+	},
+	{
+		"reference": "&NestedGreaterGreater;",
+		"glyph": "\u226b"
+	},
+	{
+		"reference": "&NestedLessLess;",
+		"glyph": "\u226a"
+	},
+	{
+		"reference": "&NewLine;",
+		"glyph": "\u000a"
+	},
+	{
+		"reference": "&nexist;",
+		"glyph": "\u2204"
+	},
+	{
+		"reference": "&nexists;",
+		"glyph": "\u2204"
+	},
+	{
+		"reference": "&Nfr;",
+		"glyph": "\ud835\udd11"
+	},
+	{
+		"reference": "&nfr;",
+		"glyph": "\ud835\udd2b"
+	},
+	{
+		"reference": "&ngE;",
+		"glyph": "\u2267\u0338"
+	},
+	{
+		"reference": "&nge;",
+		"glyph": "\u2271"
+	},
+	{
+		"reference": "&ngeq;",
+		"glyph": "\u2271"
+	},
+	{
+		"reference": "&ngeqq;",
+		"glyph": "\u2267\u0338"
+	},
+	{
+		"reference": "&ngeqslant;",
+		"glyph": "\u2a7e\u0338"
+	},
+	{
+		"reference": "&nges;",
+		"glyph": "\u2a7e\u0338"
+	},
+	{
+		"reference": "&nGg;",
+		"glyph": "\u22d9\u0338"
+	},
+	{
+		"reference": "&ngsim;",
+		"glyph": "\u2275"
+	},
+	{
+		"reference": "&nGt;",
+		"glyph": "\u226b\u20d2"
+	},
+	{
+		"reference": "&ngt;",
+		"glyph": "\u226f"
+	},
+	{
+		"reference": "&ngtr;",
+		"glyph": "\u226f"
+	},
+	{
+		"reference": "&nGtv;",
+		"glyph": "\u226b\u0338"
+	},
+	{
+		"reference": "&nhArr;",
+		"glyph": "\u21ce"
+	},
+	{
+		"reference": "&nharr;",
+		"glyph": "\u21ae"
+	},
+	{
+		"reference": "&nhpar;",
+		"glyph": "\u2af2"
+	},
+	{
+		"reference": "&ni;",
+		"glyph": "\u220b"
+	},
+	{
+		"reference": "&nis;",
+		"glyph": "\u22fc"
+	},
+	{
+		"reference": "&nisd;",
+		"glyph": "\u22fa"
+	},
+	{
+		"reference": "&niv;",
+		"glyph": "\u220b"
+	},
+	{
+		"reference": "&NJcy;",
+		"glyph": "\u040a"
+	},
+	{
+		"reference": "&njcy;",
+		"glyph": "\u045a"
+	},
+	{
+		"reference": "&nlArr;",
+		"glyph": "\u21cd"
+	},
+	{
+		"reference": "&nlarr;",
+		"glyph": "\u219a"
+	},
+	{
+		"reference": "&nldr;",
+		"glyph": "\u2025"
+	},
+	{
+		"reference": "&nlE;",
+		"glyph": "\u2266\u0338"
+	},
+	{
+		"reference": "&nle;",
+		"glyph": "\u2270"
+	},
+	{
+		"reference": "&nLeftarrow;",
+		"glyph": "\u21cd"
+	},
+	{
+		"reference": "&nleftarrow;",
+		"glyph": "\u219a"
+	},
+	{
+		"reference": "&nLeftrightarrow;",
+		"glyph": "\u21ce"
+	},
+	{
+		"reference": "&nleftrightarrow;",
+		"glyph": "\u21ae"
+	},
+	{
+		"reference": "&nleq;",
+		"glyph": "\u2270"
+	},
+	{
+		"reference": "&nleqq;",
+		"glyph": "\u2266\u0338"
+	},
+	{
+		"reference": "&nleqslant;",
+		"glyph": "\u2a7d\u0338"
+	},
+	{
+		"reference": "&nles;",
+		"glyph": "\u2a7d\u0338"
+	},
+	{
+		"reference": "&nless;",
+		"glyph": "\u226e"
+	},
+	{
+		"reference": "&nLl;",
+		"glyph": "\u22d8\u0338"
+	},
+	{
+		"reference": "&nlsim;",
+		"glyph": "\u2274"
+	},
+	{
+		"reference": "&nLt;",
+		"glyph": "\u226a\u20d2"
+	},
+	{
+		"reference": "&nlt;",
+		"glyph": "\u226e"
+	},
+	{
+		"reference": "&nltri;",
+		"glyph": "\u22ea"
+	},
+	{
+		"reference": "&nltrie;",
+		"glyph": "\u22ec"
+	},
+	{
+		"reference": "&nLtv;",
+		"glyph": "\u226a\u0338"
+	},
+	{
+		"reference": "&nmid;",
+		"glyph": "\u2224"
+	},
+	{
+		"reference": "&NoBreak;",
+		"glyph": "\u2060"
+	},
+	{
+		"reference": "&NonBreakingSpace;",
+		"glyph": "\u00a0"
+	},
+	{
+		"reference": "&Nopf;",
+		"glyph": "\u2115"
+	},
+	{
+		"reference": "&nopf;",
+		"glyph": "\ud835\udd5f"
+	},
+	{
+		"reference": "&Not;",
+		"glyph": "\u2aec"
+	},
+	{
+		"reference": "&not;",
+		"glyph": "\u00ac"
+	},
+	{
+		"reference": "&not",
+		"glyph": "\u00ac"
+	},
+	{
+		"reference": "&NotCongruent;",
+		"glyph": "\u2262"
+	},
+	{
+		"reference": "&NotCupCap;",
+		"glyph": "\u226d"
+	},
+	{
+		"reference": "&NotDoubleVerticalBar;",
+		"glyph": "\u2226"
+	},
+	{
+		"reference": "&NotElement;",
+		"glyph": "\u2209"
+	},
+	{
+		"reference": "&NotEqual;",
+		"glyph": "\u2260"
+	},
+	{
+		"reference": "&NotEqualTilde;",
+		"glyph": "\u2242\u0338"
+	},
+	{
+		"reference": "&NotExists;",
+		"glyph": "\u2204"
+	},
+	{
+		"reference": "&NotGreater;",
+		"glyph": "\u226f"
+	},
+	{
+		"reference": "&NotGreaterEqual;",
+		"glyph": "\u2271"
+	},
+	{
+		"reference": "&NotGreaterFullEqual;",
+		"glyph": "\u2267\u0338"
+	},
+	{
+		"reference": "&NotGreaterGreater;",
+		"glyph": "\u226b\u0338"
+	},
+	{
+		"reference": "&NotGreaterLess;",
+		"glyph": "\u2279"
+	},
+	{
+		"reference": "&NotGreaterSlantEqual;",
+		"glyph": "\u2a7e\u0338"
+	},
+	{
+		"reference": "&NotGreaterTilde;",
+		"glyph": "\u2275"
+	},
+	{
+		"reference": "&NotHumpDownHump;",
+		"glyph": "\u224e\u0338"
+	},
+	{
+		"reference": "&NotHumpEqual;",
+		"glyph": "\u224f\u0338"
+	},
+	{
+		"reference": "&notin;",
+		"glyph": "\u2209"
+	},
+	{
+		"reference": "&notindot;",
+		"glyph": "\u22f5\u0338"
+	},
+	{
+		"reference": "&notinE;",
+		"glyph": "\u22f9\u0338"
+	},
+	{
+		"reference": "&notinva;",
+		"glyph": "\u2209"
+	},
+	{
+		"reference": "&notinvb;",
+		"glyph": "\u22f7"
+	},
+	{
+		"reference": "&notinvc;",
+		"glyph": "\u22f6"
+	},
+	{
+		"reference": "&NotLeftTriangle;",
+		"glyph": "\u22ea"
+	},
+	{
+		"reference": "&NotLeftTriangleBar;",
+		"glyph": "\u29cf\u0338"
+	},
+	{
+		"reference": "&NotLeftTriangleEqual;",
+		"glyph": "\u22ec"
+	},
+	{
+		"reference": "&NotLess;",
+		"glyph": "\u226e"
+	},
+	{
+		"reference": "&NotLessEqual;",
+		"glyph": "\u2270"
+	},
+	{
+		"reference": "&NotLessGreater;",
+		"glyph": "\u2278"
+	},
+	{
+		"reference": "&NotLessLess;",
+		"glyph": "\u226a\u0338"
+	},
+	{
+		"reference": "&NotLessSlantEqual;",
+		"glyph": "\u2a7d\u0338"
+	},
+	{
+		"reference": "&NotLessTilde;",
+		"glyph": "\u2274"
+	},
+	{
+		"reference": "&NotNestedGreaterGreater;",
+		"glyph": "\u2aa2\u0338"
+	},
+	{
+		"reference": "&NotNestedLessLess;",
+		"glyph": "\u2aa1\u0338"
+	},
+	{
+		"reference": "&notni;",
+		"glyph": "\u220c"
+	},
+	{
+		"reference": "&notniva;",
+		"glyph": "\u220c"
+	},
+	{
+		"reference": "&notnivb;",
+		"glyph": "\u22fe"
+	},
+	{
+		"reference": "&notnivc;",
+		"glyph": "\u22fd"
+	},
+	{
+		"reference": "&NotPrecedes;",
+		"glyph": "\u2280"
+	},
+	{
+		"reference": "&NotPrecedesEqual;",
+		"glyph": "\u2aaf\u0338"
+	},
+	{
+		"reference": "&NotPrecedesSlantEqual;",
+		"glyph": "\u22e0"
+	},
+	{
+		"reference": "&NotReverseElement;",
+		"glyph": "\u220c"
+	},
+	{
+		"reference": "&NotRightTriangle;",
+		"glyph": "\u22eb"
+	},
+	{
+		"reference": "&NotRightTriangleBar;",
+		"glyph": "\u29d0\u0338"
+	},
+	{
+		"reference": "&NotRightTriangleEqual;",
+		"glyph": "\u22ed"
+	},
+	{
+		"reference": "&NotSquareSubset;",
+		"glyph": "\u228f\u0338"
+	},
+	{
+		"reference": "&NotSquareSubsetEqual;",
+		"glyph": "\u22e2"
+	},
+	{
+		"reference": "&NotSquareSuperset;",
+		"glyph": "\u2290\u0338"
+	},
+	{
+		"reference": "&NotSquareSupersetEqual;",
+		"glyph": "\u22e3"
+	},
+	{
+		"reference": "&NotSubset;",
+		"glyph": "\u2282\u20d2"
+	},
+	{
+		"reference": "&NotSubsetEqual;",
+		"glyph": "\u2288"
+	},
+	{
+		"reference": "&NotSucceeds;",
+		"glyph": "\u2281"
+	},
+	{
+		"reference": "&NotSucceedsEqual;",
+		"glyph": "\u2ab0\u0338"
+	},
+	{
+		"reference": "&NotSucceedsSlantEqual;",
+		"glyph": "\u22e1"
+	},
+	{
+		"reference": "&NotSucceedsTilde;",
+		"glyph": "\u227f\u0338"
+	},
+	{
+		"reference": "&NotSuperset;",
+		"glyph": "\u2283\u20d2"
+	},
+	{
+		"reference": "&NotSupersetEqual;",
+		"glyph": "\u2289"
+	},
+	{
+		"reference": "&NotTilde;",
+		"glyph": "\u2241"
+	},
+	{
+		"reference": "&NotTildeEqual;",
+		"glyph": "\u2244"
+	},
+	{
+		"reference": "&NotTildeFullEqual;",
+		"glyph": "\u2247"
+	},
+	{
+		"reference": "&NotTildeTilde;",
+		"glyph": "\u2249"
+	},
+	{
+		"reference": "&NotVerticalBar;",
+		"glyph": "\u2224"
+	},
+	{
+		"reference": "&npar;",
+		"glyph": "\u2226"
+	},
+	{
+		"reference": "&nparallel;",
+		"glyph": "\u2226"
+	},
+	{
+		"reference": "&nparsl;",
+		"glyph": "\u2afd\u20e5"
+	},
+	{
+		"reference": "&npart;",
+		"glyph": "\u2202\u0338"
+	},
+	{
+		"reference": "&npolint;",
+		"glyph": "\u2a14"
+	},
+	{
+		"reference": "&npr;",
+		"glyph": "\u2280"
+	},
+	{
+		"reference": "&nprcue;",
+		"glyph": "\u22e0"
+	},
+	{
+		"reference": "&npre;",
+		"glyph": "\u2aaf\u0338"
+	},
+	{
+		"reference": "&nprec;",
+		"glyph": "\u2280"
+	},
+	{
+		"reference": "&npreceq;",
+		"glyph": "\u2aaf\u0338"
+	},
+	{
+		"reference": "&nrArr;",
+		"glyph": "\u21cf"
+	},
+	{
+		"reference": "&nrarr;",
+		"glyph": "\u219b"
+	},
+	{
+		"reference": "&nrarrc;",
+		"glyph": "\u2933\u0338"
+	},
+	{
+		"reference": "&nrarrw;",
+		"glyph": "\u219d\u0338"
+	},
+	{
+		"reference": "&nRightarrow;",
+		"glyph": "\u21cf"
+	},
+	{
+		"reference": "&nrightarrow;",
+		"glyph": "\u219b"
+	},
+	{
+		"reference": "&nrtri;",
+		"glyph": "\u22eb"
+	},
+	{
+		"reference": "&nrtrie;",
+		"glyph": "\u22ed"
+	},
+	{
+		"reference": "&nsc;",
+		"glyph": "\u2281"
+	},
+	{
+		"reference": "&nsccue;",
+		"glyph": "\u22e1"
+	},
+	{
+		"reference": "&nsce;",
+		"glyph": "\u2ab0\u0338"
+	},
+	{
+		"reference": "&Nscr;",
+		"glyph": "\ud835\udca9"
+	},
+	{
+		"reference": "&nscr;",
+		"glyph": "\ud835\udcc3"
+	},
+	{
+		"reference": "&nshortmid;",
+		"glyph": "\u2224"
+	},
+	{
+		"reference": "&nshortparallel;",
+		"glyph": "\u2226"
+	},
+	{
+		"reference": "&nsim;",
+		"glyph": "\u2241"
+	},
+	{
+		"reference": "&nsime;",
+		"glyph": "\u2244"
+	},
+	{
+		"reference": "&nsimeq;",
+		"glyph": "\u2244"
+	},
+	{
+		"reference": "&nsmid;",
+		"glyph": "\u2224"
+	},
+	{
+		"reference": "&nspar;",
+		"glyph": "\u2226"
+	},
+	{
+		"reference": "&nsqsube;",
+		"glyph": "\u22e2"
+	},
+	{
+		"reference": "&nsqsupe;",
+		"glyph": "\u22e3"
+	},
+	{
+		"reference": "&nsub;",
+		"glyph": "\u2284"
+	},
+	{
+		"reference": "&nsubE;",
+		"glyph": "\u2ac5\u0338"
+	},
+	{
+		"reference": "&nsube;",
+		"glyph": "\u2288"
+	},
+	{
+		"reference": "&nsubset;",
+		"glyph": "\u2282\u20d2"
+	},
+	{
+		"reference": "&nsubseteq;",
+		"glyph": "\u2288"
+	},
+	{
+		"reference": "&nsubseteqq;",
+		"glyph": "\u2ac5\u0338"
+	},
+	{
+		"reference": "&nsucc;",
+		"glyph": "\u2281"
+	},
+	{
+		"reference": "&nsucceq;",
+		"glyph": "\u2ab0\u0338"
+	},
+	{
+		"reference": "&nsup;",
+		"glyph": "\u2285"
+	},
+	{
+		"reference": "&nsupE;",
+		"glyph": "\u2ac6\u0338"
+	},
+	{
+		"reference": "&nsupe;",
+		"glyph": "\u2289"
+	},
+	{
+		"reference": "&nsupset;",
+		"glyph": "\u2283\u20d2"
+	},
+	{
+		"reference": "&nsupseteq;",
+		"glyph": "\u2289"
+	},
+	{
+		"reference": "&nsupseteqq;",
+		"glyph": "\u2ac6\u0338"
+	},
+	{
+		"reference": "&ntgl;",
+		"glyph": "\u2279"
+	},
+	{
+		"reference": "&Ntilde;",
+		"glyph": "\u00d1"
+	},
+	{
+		"reference": "&Ntilde",
+		"glyph": "\u00d1"
+	},
+	{
+		"reference": "&ntilde;",
+		"glyph": "\u00f1"
+	},
+	{
+		"reference": "&ntilde",
+		"glyph": "\u00f1"
+	},
+	{
+		"reference": "&ntlg;",
+		"glyph": "\u2278"
+	},
+	{
+		"reference": "&ntriangleleft;",
+		"glyph": "\u22ea"
+	},
+	{
+		"reference": "&ntrianglelefteq;",
+		"glyph": "\u22ec"
+	},
+	{
+		"reference": "&ntriangleright;",
+		"glyph": "\u22eb"
+	},
+	{
+		"reference": "&ntrianglerighteq;",
+		"glyph": "\u22ed"
+	},
+	{
+		"reference": "&Nu;",
+		"glyph": "\u039d"
+	},
+	{
+		"reference": "&nu;",
+		"glyph": "\u03bd"
+	},
+	{
+		"reference": "&num;",
+		"glyph": "#"
+	},
+	{
+		"reference": "&numero;",
+		"glyph": "\u2116"
+	},
+	{
+		"reference": "&numsp;",
+		"glyph": "\u2007"
+	},
+	{
+		"reference": "&nvap;",
+		"glyph": "\u224d\u20d2"
+	},
+	{
+		"reference": "&nVDash;",
+		"glyph": "\u22af"
+	},
+	{
+		"reference": "&nVdash;",
+		"glyph": "\u22ae"
+	},
+	{
+		"reference": "&nvDash;",
+		"glyph": "\u22ad"
+	},
+	{
+		"reference": "&nvdash;",
+		"glyph": "\u22ac"
+	},
+	{
+		"reference": "&nvge;",
+		"glyph": "\u2265\u20d2"
+	},
+	{
+		"reference": "&nvgt;",
+		"glyph": ">\u20d2"
+	},
+	{
+		"reference": "&nvHarr;",
+		"glyph": "\u2904"
+	},
+	{
+		"reference": "&nvinfin;",
+		"glyph": "\u29de"
+	},
+	{
+		"reference": "&nvlArr;",
+		"glyph": "\u2902"
+	},
+	{
+		"reference": "&nvle;",
+		"glyph": "\u2264\u20d2"
+	},
+	{
+		"reference": "&nvlt;",
+		"glyph": "<\u20d2"
+	},
+	{
+		"reference": "&nvltrie;",
+		"glyph": "\u22b4\u20d2"
+	},
+	{
+		"reference": "&nvrArr;",
+		"glyph": "\u2903"
+	},
+	{
+		"reference": "&nvrtrie;",
+		"glyph": "\u22b5\u20d2"
+	},
+	{
+		"reference": "&nvsim;",
+		"glyph": "\u223c\u20d2"
+	},
+	{
+		"reference": "&nwarhk;",
+		"glyph": "\u2923"
+	},
+	{
+		"reference": "&nwArr;",
+		"glyph": "\u21d6"
+	},
+	{
+		"reference": "&nwarr;",
+		"glyph": "\u2196"
+	},
+	{
+		"reference": "&nwarrow;",
+		"glyph": "\u2196"
+	},
+	{
+		"reference": "&nwnear;",
+		"glyph": "\u2927"
+	},
+	{
+		"reference": "&Oacute;",
+		"glyph": "\u00d3"
+	},
+	{
+		"reference": "&Oacute",
+		"glyph": "\u00d3"
+	},
+	{
+		"reference": "&oacute;",
+		"glyph": "\u00f3"
+	},
+	{
+		"reference": "&oacute",
+		"glyph": "\u00f3"
+	},
+	{
+		"reference": "&oast;",
+		"glyph": "\u229b"
+	},
+	{
+		"reference": "&ocir;",
+		"glyph": "\u229a"
+	},
+	{
+		"reference": "&Ocirc;",
+		"glyph": "\u00d4"
+	},
+	{
+		"reference": "&Ocirc",
+		"glyph": "\u00d4"
+	},
+	{
+		"reference": "&ocirc;",
+		"glyph": "\u00f4"
+	},
+	{
+		"reference": "&ocirc",
+		"glyph": "\u00f4"
+	},
+	{
+		"reference": "&Ocy;",
+		"glyph": "\u041e"
+	},
+	{
+		"reference": "&ocy;",
+		"glyph": "\u043e"
+	},
+	{
+		"reference": "&odash;",
+		"glyph": "\u229d"
+	},
+	{
+		"reference": "&Odblac;",
+		"glyph": "\u0150"
+	},
+	{
+		"reference": "&odblac;",
+		"glyph": "\u0151"
+	},
+	{
+		"reference": "&odiv;",
+		"glyph": "\u2a38"
+	},
+	{
+		"reference": "&odot;",
+		"glyph": "\u2299"
+	},
+	{
+		"reference": "&odsold;",
+		"glyph": "\u29bc"
+	},
+	{
+		"reference": "&OElig;",
+		"glyph": "\u0152"
+	},
+	{
+		"reference": "&oelig;",
+		"glyph": "\u0153"
+	},
+	{
+		"reference": "&ofcir;",
+		"glyph": "\u29bf"
+	},
+	{
+		"reference": "&Ofr;",
+		"glyph": "\ud835\udd12"
+	},
+	{
+		"reference": "&ofr;",
+		"glyph": "\ud835\udd2c"
+	},
+	{
+		"reference": "&ogon;",
+		"glyph": "\u02db"
+	},
+	{
+		"reference": "&Ograve;",
+		"glyph": "\u00d2"
+	},
+	{
+		"reference": "&Ograve",
+		"glyph": "\u00d2"
+	},
+	{
+		"reference": "&ograve;",
+		"glyph": "\u00f2"
+	},
+	{
+		"reference": "&ograve",
+		"glyph": "\u00f2"
+	},
+	{
+		"reference": "&ogt;",
+		"glyph": "\u29c1"
+	},
+	{
+		"reference": "&ohbar;",
+		"glyph": "\u29b5"
+	},
+	{
+		"reference": "&ohm;",
+		"glyph": "\u03a9"
+	},
+	{
+		"reference": "&oint;",
+		"glyph": "\u222e"
+	},
+	{
+		"reference": "&olarr;",
+		"glyph": "\u21ba"
+	},
+	{
+		"reference": "&olcir;",
+		"glyph": "\u29be"
+	},
+	{
+		"reference": "&olcross;",
+		"glyph": "\u29bb"
+	},
+	{
+		"reference": "&oline;",
+		"glyph": "\u203e"
+	},
+	{
+		"reference": "&olt;",
+		"glyph": "\u29c0"
+	},
+	{
+		"reference": "&Omacr;",
+		"glyph": "\u014c"
+	},
+	{
+		"reference": "&omacr;",
+		"glyph": "\u014d"
+	},
+	{
+		"reference": "&Omega;",
+		"glyph": "\u03a9"
+	},
+	{
+		"reference": "&omega;",
+		"glyph": "\u03c9"
+	},
+	{
+		"reference": "&Omicron;",
+		"glyph": "\u039f"
+	},
+	{
+		"reference": "&omicron;",
+		"glyph": "\u03bf"
+	},
+	{
+		"reference": "&omid;",
+		"glyph": "\u29b6"
+	},
+	{
+		"reference": "&ominus;",
+		"glyph": "\u2296"
+	},
+	{
+		"reference": "&Oopf;",
+		"glyph": "\ud835\udd46"
+	},
+	{
+		"reference": "&oopf;",
+		"glyph": "\ud835\udd60"
+	},
+	{
+		"reference": "&opar;",
+		"glyph": "\u29b7"
+	},
+	{
+		"reference": "&OpenCurlyDoubleQuote;",
+		"glyph": "\u201c"
+	},
+	{
+		"reference": "&OpenCurlyQuote;",
+		"glyph": "\u2018"
+	},
+	{
+		"reference": "&operp;",
+		"glyph": "\u29b9"
+	},
+	{
+		"reference": "&oplus;",
+		"glyph": "\u2295"
+	},
+	{
+		"reference": "&Or;",
+		"glyph": "\u2a54"
+	},
+	{
+		"reference": "&or;",
+		"glyph": "\u2228"
+	},
+	{
+		"reference": "&orarr;",
+		"glyph": "\u21bb"
+	},
+	{
+		"reference": "&ord;",
+		"glyph": "\u2a5d"
+	},
+	{
+		"reference": "&order;",
+		"glyph": "\u2134"
+	},
+	{
+		"reference": "&orderof;",
+		"glyph": "\u2134"
+	},
+	{
+		"reference": "&ordf;",
+		"glyph": "\u00aa"
+	},
+	{
+		"reference": "&ordf",
+		"glyph": "\u00aa"
+	},
+	{
+		"reference": "&ordm;",
+		"glyph": "\u00ba"
+	},
+	{
+		"reference": "&ordm",
+		"glyph": "\u00ba"
+	},
+	{
+		"reference": "&origof;",
+		"glyph": "\u22b6"
+	},
+	{
+		"reference": "&oror;",
+		"glyph": "\u2a56"
+	},
+	{
+		"reference": "&orslope;",
+		"glyph": "\u2a57"
+	},
+	{
+		"reference": "&orv;",
+		"glyph": "\u2a5b"
+	},
+	{
+		"reference": "&oS;",
+		"glyph": "\u24c8"
+	},
+	{
+		"reference": "&Oscr;",
+		"glyph": "\ud835\udcaa"
+	},
+	{
+		"reference": "&oscr;",
+		"glyph": "\u2134"
+	},
+	{
+		"reference": "&Oslash;",
+		"glyph": "\u00d8"
+	},
+	{
+		"reference": "&Oslash",
+		"glyph": "\u00d8"
+	},
+	{
+		"reference": "&oslash;",
+		"glyph": "\u00f8"
+	},
+	{
+		"reference": "&oslash",
+		"glyph": "\u00f8"
+	},
+	{
+		"reference": "&osol;",
+		"glyph": "\u2298"
+	},
+	{
+		"reference": "&Otilde;",
+		"glyph": "\u00d5"
+	},
+	{
+		"reference": "&Otilde",
+		"glyph": "\u00d5"
+	},
+	{
+		"reference": "&otilde;",
+		"glyph": "\u00f5"
+	},
+	{
+		"reference": "&otilde",
+		"glyph": "\u00f5"
+	},
+	{
+		"reference": "&Otimes;",
+		"glyph": "\u2a37"
+	},
+	{
+		"reference": "&otimes;",
+		"glyph": "\u2297"
+	},
+	{
+		"reference": "&otimesas;",
+		"glyph": "\u2a36"
+	},
+	{
+		"reference": "&Ouml;",
+		"glyph": "\u00d6"
+	},
+	{
+		"reference": "&Ouml",
+		"glyph": "\u00d6"
+	},
+	{
+		"reference": "&ouml;",
+		"glyph": "\u00f6"
+	},
+	{
+		"reference": "&ouml",
+		"glyph": "\u00f6"
+	},
+	{
+		"reference": "&ovbar;",
+		"glyph": "\u233d"
+	},
+	{
+		"reference": "&OverBar;",
+		"glyph": "\u203e"
+	},
+	{
+		"reference": "&OverBrace;",
+		"glyph": "\u23de"
+	},
+	{
+		"reference": "&OverBracket;",
+		"glyph": "\u23b4"
+	},
+	{
+		"reference": "&OverParenthesis;",
+		"glyph": "\u23dc"
+	},
+	{
+		"reference": "&par;",
+		"glyph": "\u2225"
+	},
+	{
+		"reference": "&para;",
+		"glyph": "\u00b6"
+	},
+	{
+		"reference": "&para",
+		"glyph": "\u00b6"
+	},
+	{
+		"reference": "&parallel;",
+		"glyph": "\u2225"
+	},
+	{
+		"reference": "&parsim;",
+		"glyph": "\u2af3"
+	},
+	{
+		"reference": "&parsl;",
+		"glyph": "\u2afd"
+	},
+	{
+		"reference": "&part;",
+		"glyph": "\u2202"
+	},
+	{
+		"reference": "&PartialD;",
+		"glyph": "\u2202"
+	},
+	{
+		"reference": "&Pcy;",
+		"glyph": "\u041f"
+	},
+	{
+		"reference": "&pcy;",
+		"glyph": "\u043f"
+	},
+	{
+		"reference": "&percnt;",
+		"glyph": "%"
+	},
+	{
+		"reference": "&period;",
+		"glyph": "."
+	},
+	{
+		"reference": "&permil;",
+		"glyph": "\u2030"
+	},
+	{
+		"reference": "&perp;",
+		"glyph": "\u22a5"
+	},
+	{
+		"reference": "&pertenk;",
+		"glyph": "\u2031"
+	},
+	{
+		"reference": "&Pfr;",
+		"glyph": "\ud835\udd13"
+	},
+	{
+		"reference": "&pfr;",
+		"glyph": "\ud835\udd2d"
+	},
+	{
+		"reference": "&Phi;",
+		"glyph": "\u03a6"
+	},
+	{
+		"reference": "&phi;",
+		"glyph": "\u03c6"
+	},
+	{
+		"reference": "&phiv;",
+		"glyph": "\u03d5"
+	},
+	{
+		"reference": "&phmmat;",
+		"glyph": "\u2133"
+	},
+	{
+		"reference": "&phone;",
+		"glyph": "\u260e"
+	},
+	{
+		"reference": "&Pi;",
+		"glyph": "\u03a0"
+	},
+	{
+		"reference": "&pi;",
+		"glyph": "\u03c0"
+	},
+	{
+		"reference": "&pitchfork;",
+		"glyph": "\u22d4"
+	},
+	{
+		"reference": "&piv;",
+		"glyph": "\u03d6"
+	},
+	{
+		"reference": "&planck;",
+		"glyph": "\u210f"
+	},
+	{
+		"reference": "&planckh;",
+		"glyph": "\u210e"
+	},
+	{
+		"reference": "&plankv;",
+		"glyph": "\u210f"
+	},
+	{
+		"reference": "&plus;",
+		"glyph": "+"
+	},
+	{
+		"reference": "&plusacir;",
+		"glyph": "\u2a23"
+	},
+	{
+		"reference": "&plusb;",
+		"glyph": "\u229e"
+	},
+	{
+		"reference": "&pluscir;",
+		"glyph": "\u2a22"
+	},
+	{
+		"reference": "&plusdo;",
+		"glyph": "\u2214"
+	},
+	{
+		"reference": "&plusdu;",
+		"glyph": "\u2a25"
+	},
+	{
+		"reference": "&pluse;",
+		"glyph": "\u2a72"
+	},
+	{
+		"reference": "&PlusMinus;",
+		"glyph": "\u00b1"
+	},
+	{
+		"reference": "&plusmn;",
+		"glyph": "\u00b1"
+	},
+	{
+		"reference": "&plusmn",
+		"glyph": "\u00b1"
+	},
+	{
+		"reference": "&plussim;",
+		"glyph": "\u2a26"
+	},
+	{
+		"reference": "&plustwo;",
+		"glyph": "\u2a27"
+	},
+	{
+		"reference": "&pm;",
+		"glyph": "\u00b1"
+	},
+	{
+		"reference": "&Poincareplane;",
+		"glyph": "\u210c"
+	},
+	{
+		"reference": "&pointint;",
+		"glyph": "\u2a15"
+	},
+	{
+		"reference": "&Popf;",
+		"glyph": "\u2119"
+	},
+	{
+		"reference": "&popf;",
+		"glyph": "\ud835\udd61"
+	},
+	{
+		"reference": "&pound;",
+		"glyph": "\u00a3"
+	},
+	{
+		"reference": "&pound",
+		"glyph": "\u00a3"
+	},
+	{
+		"reference": "&Pr;",
+		"glyph": "\u2abb"
+	},
+	{
+		"reference": "&pr;",
+		"glyph": "\u227a"
+	},
+	{
+		"reference": "&prap;",
+		"glyph": "\u2ab7"
+	},
+	{
+		"reference": "&prcue;",
+		"glyph": "\u227c"
+	},
+	{
+		"reference": "&prE;",
+		"glyph": "\u2ab3"
+	},
+	{
+		"reference": "&pre;",
+		"glyph": "\u2aaf"
+	},
+	{
+		"reference": "&prec;",
+		"glyph": "\u227a"
+	},
+	{
+		"reference": "&precapprox;",
+		"glyph": "\u2ab7"
+	},
+	{
+		"reference": "&preccurlyeq;",
+		"glyph": "\u227c"
+	},
+	{
+		"reference": "&Precedes;",
+		"glyph": "\u227a"
+	},
+	{
+		"reference": "&PrecedesEqual;",
+		"glyph": "\u2aaf"
+	},
+	{
+		"reference": "&PrecedesSlantEqual;",
+		"glyph": "\u227c"
+	},
+	{
+		"reference": "&PrecedesTilde;",
+		"glyph": "\u227e"
+	},
+	{
+		"reference": "&preceq;",
+		"glyph": "\u2aaf"
+	},
+	{
+		"reference": "&precnapprox;",
+		"glyph": "\u2ab9"
+	},
+	{
+		"reference": "&precneqq;",
+		"glyph": "\u2ab5"
+	},
+	{
+		"reference": "&precnsim;",
+		"glyph": "\u22e8"
+	},
+	{
+		"reference": "&precsim;",
+		"glyph": "\u227e"
+	},
+	{
+		"reference": "&Prime;",
+		"glyph": "\u2033"
+	},
+	{
+		"reference": "&prime;",
+		"glyph": "\u2032"
+	},
+	{
+		"reference": "&primes;",
+		"glyph": "\u2119"
+	},
+	{
+		"reference": "&prnap;",
+		"glyph": "\u2ab9"
+	},
+	{
+		"reference": "&prnE;",
+		"glyph": "\u2ab5"
+	},
+	{
+		"reference": "&prnsim;",
+		"glyph": "\u22e8"
+	},
+	{
+		"reference": "&prod;",
+		"glyph": "\u220f"
+	},
+	{
+		"reference": "&Product;",
+		"glyph": "\u220f"
+	},
+	{
+		"reference": "&profalar;",
+		"glyph": "\u232e"
+	},
+	{
+		"reference": "&profline;",
+		"glyph": "\u2312"
+	},
+	{
+		"reference": "&profsurf;",
+		"glyph": "\u2313"
+	},
+	{
+		"reference": "&prop;",
+		"glyph": "\u221d"
+	},
+	{
+		"reference": "&Proportion;",
+		"glyph": "\u2237"
+	},
+	{
+		"reference": "&Proportional;",
+		"glyph": "\u221d"
+	},
+	{
+		"reference": "&propto;",
+		"glyph": "\u221d"
+	},
+	{
+		"reference": "&prsim;",
+		"glyph": "\u227e"
+	},
+	{
+		"reference": "&prurel;",
+		"glyph": "\u22b0"
+	},
+	{
+		"reference": "&Pscr;",
+		"glyph": "\ud835\udcab"
+	},
+	{
+		"reference": "&pscr;",
+		"glyph": "\ud835\udcc5"
+	},
+	{
+		"reference": "&Psi;",
+		"glyph": "\u03a8"
+	},
+	{
+		"reference": "&psi;",
+		"glyph": "\u03c8"
+	},
+	{
+		"reference": "&puncsp;",
+		"glyph": "\u2008"
+	},
+	{
+		"reference": "&Qfr;",
+		"glyph": "\ud835\udd14"
+	},
+	{
+		"reference": "&qfr;",
+		"glyph": "\ud835\udd2e"
+	},
+	{
+		"reference": "&qint;",
+		"glyph": "\u2a0c"
+	},
+	{
+		"reference": "&Qopf;",
+		"glyph": "\u211a"
+	},
+	{
+		"reference": "&qopf;",
+		"glyph": "\ud835\udd62"
+	},
+	{
+		"reference": "&qprime;",
+		"glyph": "\u2057"
+	},
+	{
+		"reference": "&Qscr;",
+		"glyph": "\ud835\udcac"
+	},
+	{
+		"reference": "&qscr;",
+		"glyph": "\ud835\udcc6"
+	},
+	{
+		"reference": "&quaternions;",
+		"glyph": "\u210d"
+	},
+	{
+		"reference": "&quatint;",
+		"glyph": "\u2a16"
+	},
+	{
+		"reference": "&quest;",
+		"glyph": "?"
+	},
+	{
+		"reference": "&questeq;",
+		"glyph": "\u225f"
+	},
+	{
+		"reference": "&QUOT;",
+		"glyph": "\""
+	},
+	{
+		"reference": "&QUOT",
+		"glyph": "\""
+	},
+	{
+		"reference": "&quot;",
+		"glyph": "\""
+	},
+	{
+		"reference": "&quot",
+		"glyph": "\""
+	},
+	{
+		"reference": "&rAarr;",
+		"glyph": "\u21db"
+	},
+	{
+		"reference": "&race;",
+		"glyph": "\u223d\u0331"
+	},
+	{
+		"reference": "&Racute;",
+		"glyph": "\u0154"
+	},
+	{
+		"reference": "&racute;",
+		"glyph": "\u0155"
+	},
+	{
+		"reference": "&radic;",
+		"glyph": "\u221a"
+	},
+	{
+		"reference": "&raemptyv;",
+		"glyph": "\u29b3"
+	},
+	{
+		"reference": "&Rang;",
+		"glyph": "\u27eb"
+	},
+	{
+		"reference": "&rang;",
+		"glyph": "\u27e9"
+	},
+	{
+		"reference": "&rangd;",
+		"glyph": "\u2992"
+	},
+	{
+		"reference": "&range;",
+		"glyph": "\u29a5"
+	},
+	{
+		"reference": "&rangle;",
+		"glyph": "\u27e9"
+	},
+	{
+		"reference": "&raquo;",
+		"glyph": "\u00bb"
+	},
+	{
+		"reference": "&raquo",
+		"glyph": "\u00bb"
+	},
+	{
+		"reference": "&Rarr;",
+		"glyph": "\u21a0"
+	},
+	{
+		"reference": "&rArr;",
+		"glyph": "\u21d2"
+	},
+	{
+		"reference": "&rarr;",
+		"glyph": "\u2192"
+	},
+	{
+		"reference": "&rarrap;",
+		"glyph": "\u2975"
+	},
+	{
+		"reference": "&rarrb;",
+		"glyph": "\u21e5"
+	},
+	{
+		"reference": "&rarrbfs;",
+		"glyph": "\u2920"
+	},
+	{
+		"reference": "&rarrc;",
+		"glyph": "\u2933"
+	},
+	{
+		"reference": "&rarrfs;",
+		"glyph": "\u291e"
+	},
+	{
+		"reference": "&rarrhk;",
+		"glyph": "\u21aa"
+	},
+	{
+		"reference": "&rarrlp;",
+		"glyph": "\u21ac"
+	},
+	{
+		"reference": "&rarrpl;",
+		"glyph": "\u2945"
+	},
+	{
+		"reference": "&rarrsim;",
+		"glyph": "\u2974"
+	},
+	{
+		"reference": "&Rarrtl;",
+		"glyph": "\u2916"
+	},
+	{
+		"reference": "&rarrtl;",
+		"glyph": "\u21a3"
+	},
+	{
+		"reference": "&rarrw;",
+		"glyph": "\u219d"
+	},
+	{
+		"reference": "&rAtail;",
+		"glyph": "\u291c"
+	},
+	{
+		"reference": "&ratail;",
+		"glyph": "\u291a"
+	},
+	{
+		"reference": "&ratio;",
+		"glyph": "\u2236"
+	},
+	{
+		"reference": "&rationals;",
+		"glyph": "\u211a"
+	},
+	{
+		"reference": "&RBarr;",
+		"glyph": "\u2910"
+	},
+	{
+		"reference": "&rBarr;",
+		"glyph": "\u290f"
+	},
+	{
+		"reference": "&rbarr;",
+		"glyph": "\u290d"
+	},
+	{
+		"reference": "&rbbrk;",
+		"glyph": "\u2773"
+	},
+	{
+		"reference": "&rbrace;",
+		"glyph": "}"
+	},
+	{
+		"reference": "&rbrack;",
+		"glyph": "]"
+	},
+	{
+		"reference": "&rbrke;",
+		"glyph": "\u298c"
+	},
+	{
+		"reference": "&rbrksld;",
+		"glyph": "\u298e"
+	},
+	{
+		"reference": "&rbrkslu;",
+		"glyph": "\u2990"
+	},
+	{
+		"reference": "&Rcaron;",
+		"glyph": "\u0158"
+	},
+	{
+		"reference": "&rcaron;",
+		"glyph": "\u0159"
+	},
+	{
+		"reference": "&Rcedil;",
+		"glyph": "\u0156"
+	},
+	{
+		"reference": "&rcedil;",
+		"glyph": "\u0157"
+	},
+	{
+		"reference": "&rceil;",
+		"glyph": "\u2309"
+	},
+	{
+		"reference": "&rcub;",
+		"glyph": "}"
+	},
+	{
+		"reference": "&Rcy;",
+		"glyph": "\u0420"
+	},
+	{
+		"reference": "&rcy;",
+		"glyph": "\u0440"
+	},
+	{
+		"reference": "&rdca;",
+		"glyph": "\u2937"
+	},
+	{
+		"reference": "&rdldhar;",
+		"glyph": "\u2969"
+	},
+	{
+		"reference": "&rdquo;",
+		"glyph": "\u201d"
+	},
+	{
+		"reference": "&rdquor;",
+		"glyph": "\u201d"
+	},
+	{
+		"reference": "&rdsh;",
+		"glyph": "\u21b3"
+	},
+	{
+		"reference": "&Re;",
+		"glyph": "\u211c"
+	},
+	{
+		"reference": "&real;",
+		"glyph": "\u211c"
+	},
+	{
+		"reference": "&realine;",
+		"glyph": "\u211b"
+	},
+	{
+		"reference": "&realpart;",
+		"glyph": "\u211c"
+	},
+	{
+		"reference": "&reals;",
+		"glyph": "\u211d"
+	},
+	{
+		"reference": "&rect;",
+		"glyph": "\u25ad"
+	},
+	{
+		"reference": "&REG;",
+		"glyph": "\u00ae"
+	},
+	{
+		"reference": "&REG",
+		"glyph": "\u00ae"
+	},
+	{
+		"reference": "&reg;",
+		"glyph": "\u00ae"
+	},
+	{
+		"reference": "&reg",
+		"glyph": "\u00ae"
+	},
+	{
+		"reference": "&ReverseElement;",
+		"glyph": "\u220b"
+	},
+	{
+		"reference": "&ReverseEquilibrium;",
+		"glyph": "\u21cb"
+	},
+	{
+		"reference": "&ReverseUpEquilibrium;",
+		"glyph": "\u296f"
+	},
+	{
+		"reference": "&rfisht;",
+		"glyph": "\u297d"
+	},
+	{
+		"reference": "&rfloor;",
+		"glyph": "\u230b"
+	},
+	{
+		"reference": "&Rfr;",
+		"glyph": "\u211c"
+	},
+	{
+		"reference": "&rfr;",
+		"glyph": "\ud835\udd2f"
+	},
+	{
+		"reference": "&rHar;",
+		"glyph": "\u2964"
+	},
+	{
+		"reference": "&rhard;",
+		"glyph": "\u21c1"
+	},
+	{
+		"reference": "&rharu;",
+		"glyph": "\u21c0"
+	},
+	{
+		"reference": "&rharul;",
+		"glyph": "\u296c"
+	},
+	{
+		"reference": "&Rho;",
+		"glyph": "\u03a1"
+	},
+	{
+		"reference": "&rho;",
+		"glyph": "\u03c1"
+	},
+	{
+		"reference": "&rhov;",
+		"glyph": "\u03f1"
+	},
+	{
+		"reference": "&RightAngleBracket;",
+		"glyph": "\u27e9"
+	},
+	{
+		"reference": "&RightArrow;",
+		"glyph": "\u2192"
+	},
+	{
+		"reference": "&Rightarrow;",
+		"glyph": "\u21d2"
+	},
+	{
+		"reference": "&rightarrow;",
+		"glyph": "\u2192"
+	},
+	{
+		"reference": "&RightArrowBar;",
+		"glyph": "\u21e5"
+	},
+	{
+		"reference": "&RightArrowLeftArrow;",
+		"glyph": "\u21c4"
+	},
+	{
+		"reference": "&rightarrowtail;",
+		"glyph": "\u21a3"
+	},
+	{
+		"reference": "&RightCeiling;",
+		"glyph": "\u2309"
+	},
+	{
+		"reference": "&RightDoubleBracket;",
+		"glyph": "\u27e7"
+	},
+	{
+		"reference": "&RightDownTeeVector;",
+		"glyph": "\u295d"
+	},
+	{
+		"reference": "&RightDownVector;",
+		"glyph": "\u21c2"
+	},
+	{
+		"reference": "&RightDownVectorBar;",
+		"glyph": "\u2955"
+	},
+	{
+		"reference": "&RightFloor;",
+		"glyph": "\u230b"
+	},
+	{
+		"reference": "&rightharpoondown;",
+		"glyph": "\u21c1"
+	},
+	{
+		"reference": "&rightharpoonup;",
+		"glyph": "\u21c0"
+	},
+	{
+		"reference": "&rightleftarrows;",
+		"glyph": "\u21c4"
+	},
+	{
+		"reference": "&rightleftharpoons;",
+		"glyph": "\u21cc"
+	},
+	{
+		"reference": "&rightrightarrows;",
+		"glyph": "\u21c9"
+	},
+	{
+		"reference": "&rightsquigarrow;",
+		"glyph": "\u219d"
+	},
+	{
+		"reference": "&RightTee;",
+		"glyph": "\u22a2"
+	},
+	{
+		"reference": "&RightTeeArrow;",
+		"glyph": "\u21a6"
+	},
+	{
+		"reference": "&RightTeeVector;",
+		"glyph": "\u295b"
+	},
+	{
+		"reference": "&rightthreetimes;",
+		"glyph": "\u22cc"
+	},
+	{
+		"reference": "&RightTriangle;",
+		"glyph": "\u22b3"
+	},
+	{
+		"reference": "&RightTriangleBar;",
+		"glyph": "\u29d0"
+	},
+	{
+		"reference": "&RightTriangleEqual;",
+		"glyph": "\u22b5"
+	},
+	{
+		"reference": "&RightUpDownVector;",
+		"glyph": "\u294f"
+	},
+	{
+		"reference": "&RightUpTeeVector;",
+		"glyph": "\u295c"
+	},
+	{
+		"reference": "&RightUpVector;",
+		"glyph": "\u21be"
+	},
+	{
+		"reference": "&RightUpVectorBar;",
+		"glyph": "\u2954"
+	},
+	{
+		"reference": "&RightVector;",
+		"glyph": "\u21c0"
+	},
+	{
+		"reference": "&RightVectorBar;",
+		"glyph": "\u2953"
+	},
+	{
+		"reference": "&ring;",
+		"glyph": "\u02da"
+	},
+	{
+		"reference": "&risingdotseq;",
+		"glyph": "\u2253"
+	},
+	{
+		"reference": "&rlarr;",
+		"glyph": "\u21c4"
+	},
+	{
+		"reference": "&rlhar;",
+		"glyph": "\u21cc"
+	},
+	{
+		"reference": "&rlm;",
+		"glyph": "\u200f"
+	},
+	{
+		"reference": "&rmoust;",
+		"glyph": "\u23b1"
+	},
+	{
+		"reference": "&rmoustache;",
+		"glyph": "\u23b1"
+	},
+	{
+		"reference": "&rnmid;",
+		"glyph": "\u2aee"
+	},
+	{
+		"reference": "&roang;",
+		"glyph": "\u27ed"
+	},
+	{
+		"reference": "&roarr;",
+		"glyph": "\u21fe"
+	},
+	{
+		"reference": "&robrk;",
+		"glyph": "\u27e7"
+	},
+	{
+		"reference": "&ropar;",
+		"glyph": "\u2986"
+	},
+	{
+		"reference": "&Ropf;",
+		"glyph": "\u211d"
+	},
+	{
+		"reference": "&ropf;",
+		"glyph": "\ud835\udd63"
+	},
+	{
+		"reference": "&roplus;",
+		"glyph": "\u2a2e"
+	},
+	{
+		"reference": "&rotimes;",
+		"glyph": "\u2a35"
+	},
+	{
+		"reference": "&RoundImplies;",
+		"glyph": "\u2970"
+	},
+	{
+		"reference": "&rpar;",
+		"glyph": ")"
+	},
+	{
+		"reference": "&rpargt;",
+		"glyph": "\u2994"
+	},
+	{
+		"reference": "&rppolint;",
+		"glyph": "\u2a12"
+	},
+	{
+		"reference": "&rrarr;",
+		"glyph": "\u21c9"
+	},
+	{
+		"reference": "&Rrightarrow;",
+		"glyph": "\u21db"
+	},
+	{
+		"reference": "&rsaquo;",
+		"glyph": "\u203a"
+	},
+	{
+		"reference": "&Rscr;",
+		"glyph": "\u211b"
+	},
+	{
+		"reference": "&rscr;",
+		"glyph": "\ud835\udcc7"
+	},
+	{
+		"reference": "&Rsh;",
+		"glyph": "\u21b1"
+	},
+	{
+		"reference": "&rsh;",
+		"glyph": "\u21b1"
+	},
+	{
+		"reference": "&rsqb;",
+		"glyph": "]"
+	},
+	{
+		"reference": "&rsquo;",
+		"glyph": "\u2019"
+	},
+	{
+		"reference": "&rsquor;",
+		"glyph": "\u2019"
+	},
+	{
+		"reference": "&rthree;",
+		"glyph": "\u22cc"
+	},
+	{
+		"reference": "&rtimes;",
+		"glyph": "\u22ca"
+	},
+	{
+		"reference": "&rtri;",
+		"glyph": "\u25b9"
+	},
+	{
+		"reference": "&rtrie;",
+		"glyph": "\u22b5"
+	},
+	{
+		"reference": "&rtrif;",
+		"glyph": "\u25b8"
+	},
+	{
+		"reference": "&rtriltri;",
+		"glyph": "\u29ce"
+	},
+	{
+		"reference": "&RuleDelayed;",
+		"glyph": "\u29f4"
+	},
+	{
+		"reference": "&ruluhar;",
+		"glyph": "\u2968"
+	},
+	{
+		"reference": "&rx;",
+		"glyph": "\u211e"
+	},
+	{
+		"reference": "&Sacute;",
+		"glyph": "\u015a"
+	},
+	{
+		"reference": "&sacute;",
+		"glyph": "\u015b"
+	},
+	{
+		"reference": "&sbquo;",
+		"glyph": "\u201a"
+	},
+	{
+		"reference": "&Sc;",
+		"glyph": "\u2abc"
+	},
+	{
+		"reference": "&sc;",
+		"glyph": "\u227b"
+	},
+	{
+		"reference": "&scap;",
+		"glyph": "\u2ab8"
+	},
+	{
+		"reference": "&Scaron;",
+		"glyph": "\u0160"
+	},
+	{
+		"reference": "&scaron;",
+		"glyph": "\u0161"
+	},
+	{
+		"reference": "&sccue;",
+		"glyph": "\u227d"
+	},
+	{
+		"reference": "&scE;",
+		"glyph": "\u2ab4"
+	},
+	{
+		"reference": "&sce;",
+		"glyph": "\u2ab0"
+	},
+	{
+		"reference": "&Scedil;",
+		"glyph": "\u015e"
+	},
+	{
+		"reference": "&scedil;",
+		"glyph": "\u015f"
+	},
+	{
+		"reference": "&Scirc;",
+		"glyph": "\u015c"
+	},
+	{
+		"reference": "&scirc;",
+		"glyph": "\u015d"
+	},
+	{
+		"reference": "&scnap;",
+		"glyph": "\u2aba"
+	},
+	{
+		"reference": "&scnE;",
+		"glyph": "\u2ab6"
+	},
+	{
+		"reference": "&scnsim;",
+		"glyph": "\u22e9"
+	},
+	{
+		"reference": "&scpolint;",
+		"glyph": "\u2a13"
+	},
+	{
+		"reference": "&scsim;",
+		"glyph": "\u227f"
+	},
+	{
+		"reference": "&Scy;",
+		"glyph": "\u0421"
+	},
+	{
+		"reference": "&scy;",
+		"glyph": "\u0441"
+	},
+	{
+		"reference": "&sdot;",
+		"glyph": "\u22c5"
+	},
+	{
+		"reference": "&sdotb;",
+		"glyph": "\u22a1"
+	},
+	{
+		"reference": "&sdote;",
+		"glyph": "\u2a66"
+	},
+	{
+		"reference": "&searhk;",
+		"glyph": "\u2925"
+	},
+	{
+		"reference": "&seArr;",
+		"glyph": "\u21d8"
+	},
+	{
+		"reference": "&searr;",
+		"glyph": "\u2198"
+	},
+	{
+		"reference": "&searrow;",
+		"glyph": "\u2198"
+	},
+	{
+		"reference": "&sect;",
+		"glyph": "\u00a7"
+	},
+	{
+		"reference": "&sect",
+		"glyph": "\u00a7"
+	},
+	{
+		"reference": "&semi;",
+		"glyph": ";"
+	},
+	{
+		"reference": "&seswar;",
+		"glyph": "\u2929"
+	},
+	{
+		"reference": "&setminus;",
+		"glyph": "\u2216"
+	},
+	{
+		"reference": "&setmn;",
+		"glyph": "\u2216"
+	},
+	{
+		"reference": "&sext;",
+		"glyph": "\u2736"
+	},
+	{
+		"reference": "&Sfr;",
+		"glyph": "\ud835\udd16"
+	},
+	{
+		"reference": "&sfr;",
+		"glyph": "\ud835\udd30"
+	},
+	{
+		"reference": "&sfrown;",
+		"glyph": "\u2322"
+	},
+	{
+		"reference": "&sharp;",
+		"glyph": "\u266f"
+	},
+	{
+		"reference": "&SHCHcy;",
+		"glyph": "\u0429"
+	},
+	{
+		"reference": "&shchcy;",
+		"glyph": "\u0449"
+	},
+	{
+		"reference": "&SHcy;",
+		"glyph": "\u0428"
+	},
+	{
+		"reference": "&shcy;",
+		"glyph": "\u0448"
+	},
+	{
+		"reference": "&ShortDownArrow;",
+		"glyph": "\u2193"
+	},
+	{
+		"reference": "&ShortLeftArrow;",
+		"glyph": "\u2190"
+	},
+	{
+		"reference": "&shortmid;",
+		"glyph": "\u2223"
+	},
+	{
+		"reference": "&shortparallel;",
+		"glyph": "\u2225"
+	},
+	{
+		"reference": "&ShortRightArrow;",
+		"glyph": "\u2192"
+	},
+	{
+		"reference": "&ShortUpArrow;",
+		"glyph": "\u2191"
+	},
+	{
+		"reference": "&shy;",
+		"glyph": "\u00ad"
+	},
+	{
+		"reference": "&shy",
+		"glyph": "\u00ad"
+	},
+	{
+		"reference": "&Sigma;",
+		"glyph": "\u03a3"
+	},
+	{
+		"reference": "&sigma;",
+		"glyph": "\u03c3"
+	},
+	{
+		"reference": "&sigmaf;",
+		"glyph": "\u03c2"
+	},
+	{
+		"reference": "&sigmav;",
+		"glyph": "\u03c2"
+	},
+	{
+		"reference": "&sim;",
+		"glyph": "\u223c"
+	},
+	{
+		"reference": "&simdot;",
+		"glyph": "\u2a6a"
+	},
+	{
+		"reference": "&sime;",
+		"glyph": "\u2243"
+	},
+	{
+		"reference": "&simeq;",
+		"glyph": "\u2243"
+	},
+	{
+		"reference": "&simg;",
+		"glyph": "\u2a9e"
+	},
+	{
+		"reference": "&simgE;",
+		"glyph": "\u2aa0"
+	},
+	{
+		"reference": "&siml;",
+		"glyph": "\u2a9d"
+	},
+	{
+		"reference": "&simlE;",
+		"glyph": "\u2a9f"
+	},
+	{
+		"reference": "&simne;",
+		"glyph": "\u2246"
+	},
+	{
+		"reference": "&simplus;",
+		"glyph": "\u2a24"
+	},
+	{
+		"reference": "&simrarr;",
+		"glyph": "\u2972"
+	},
+	{
+		"reference": "&slarr;",
+		"glyph": "\u2190"
+	},
+	{
+		"reference": "&SmallCircle;",
+		"glyph": "\u2218"
+	},
+	{
+		"reference": "&smallsetminus;",
+		"glyph": "\u2216"
+	},
+	{
+		"reference": "&smashp;",
+		"glyph": "\u2a33"
+	},
+	{
+		"reference": "&smeparsl;",
+		"glyph": "\u29e4"
+	},
+	{
+		"reference": "&smid;",
+		"glyph": "\u2223"
+	},
+	{
+		"reference": "&smile;",
+		"glyph": "\u2323"
+	},
+	{
+		"reference": "&smt;",
+		"glyph": "\u2aaa"
+	},
+	{
+		"reference": "&smte;",
+		"glyph": "\u2aac"
+	},
+	{
+		"reference": "&smtes;",
+		"glyph": "\u2aac\ufe00"
+	},
+	{
+		"reference": "&SOFTcy;",
+		"glyph": "\u042c"
+	},
+	{
+		"reference": "&softcy;",
+		"glyph": "\u044c"
+	},
+	{
+		"reference": "&sol;",
+		"glyph": "/"
+	},
+	{
+		"reference": "&solb;",
+		"glyph": "\u29c4"
+	},
+	{
+		"reference": "&solbar;",
+		"glyph": "\u233f"
+	},
+	{
+		"reference": "&Sopf;",
+		"glyph": "\ud835\udd4a"
+	},
+	{
+		"reference": "&sopf;",
+		"glyph": "\ud835\udd64"
+	},
+	{
+		"reference": "&spades;",
+		"glyph": "\u2660"
+	},
+	{
+		"reference": "&spadesuit;",
+		"glyph": "\u2660"
+	},
+	{
+		"reference": "&spar;",
+		"glyph": "\u2225"
+	},
+	{
+		"reference": "&sqcap;",
+		"glyph": "\u2293"
+	},
+	{
+		"reference": "&sqcaps;",
+		"glyph": "\u2293\ufe00"
+	},
+	{
+		"reference": "&sqcup;",
+		"glyph": "\u2294"
+	},
+	{
+		"reference": "&sqcups;",
+		"glyph": "\u2294\ufe00"
+	},
+	{
+		"reference": "&Sqrt;",
+		"glyph": "\u221a"
+	},
+	{
+		"reference": "&sqsub;",
+		"glyph": "\u228f"
+	},
+	{
+		"reference": "&sqsube;",
+		"glyph": "\u2291"
+	},
+	{
+		"reference": "&sqsubset;",
+		"glyph": "\u228f"
+	},
+	{
+		"reference": "&sqsubseteq;",
+		"glyph": "\u2291"
+	},
+	{
+		"reference": "&sqsup;",
+		"glyph": "\u2290"
+	},
+	{
+		"reference": "&sqsupe;",
+		"glyph": "\u2292"
+	},
+	{
+		"reference": "&sqsupset;",
+		"glyph": "\u2290"
+	},
+	{
+		"reference": "&sqsupseteq;",
+		"glyph": "\u2292"
+	},
+	{
+		"reference": "&squ;",
+		"glyph": "\u25a1"
+	},
+	{
+		"reference": "&Square;",
+		"glyph": "\u25a1"
+	},
+	{
+		"reference": "&square;",
+		"glyph": "\u25a1"
+	},
+	{
+		"reference": "&SquareIntersection;",
+		"glyph": "\u2293"
+	},
+	{
+		"reference": "&SquareSubset;",
+		"glyph": "\u228f"
+	},
+	{
+		"reference": "&SquareSubsetEqual;",
+		"glyph": "\u2291"
+	},
+	{
+		"reference": "&SquareSuperset;",
+		"glyph": "\u2290"
+	},
+	{
+		"reference": "&SquareSupersetEqual;",
+		"glyph": "\u2292"
+	},
+	{
+		"reference": "&SquareUnion;",
+		"glyph": "\u2294"
+	},
+	{
+		"reference": "&squarf;",
+		"glyph": "\u25aa"
+	},
+	{
+		"reference": "&squf;",
+		"glyph": "\u25aa"
+	},
+	{
+		"reference": "&srarr;",
+		"glyph": "\u2192"
+	},
+	{
+		"reference": "&Sscr;",
+		"glyph": "\ud835\udcae"
+	},
+	{
+		"reference": "&sscr;",
+		"glyph": "\ud835\udcc8"
+	},
+	{
+		"reference": "&ssetmn;",
+		"glyph": "\u2216"
+	},
+	{
+		"reference": "&ssmile;",
+		"glyph": "\u2323"
+	},
+	{
+		"reference": "&sstarf;",
+		"glyph": "\u22c6"
+	},
+	{
+		"reference": "&Star;",
+		"glyph": "\u22c6"
+	},
+	{
+		"reference": "&star;",
+		"glyph": "\u2606"
+	},
+	{
+		"reference": "&starf;",
+		"glyph": "\u2605"
+	},
+	{
+		"reference": "&straightepsilon;",
+		"glyph": "\u03f5"
+	},
+	{
+		"reference": "&straightphi;",
+		"glyph": "\u03d5"
+	},
+	{
+		"reference": "&strns;",
+		"glyph": "\u00af"
+	},
+	{
+		"reference": "&Sub;",
+		"glyph": "\u22d0"
+	},
+	{
+		"reference": "&sub;",
+		"glyph": "\u2282"
+	},
+	{
+		"reference": "&subdot;",
+		"glyph": "\u2abd"
+	},
+	{
+		"reference": "&subE;",
+		"glyph": "\u2ac5"
+	},
+	{
+		"reference": "&sube;",
+		"glyph": "\u2286"
+	},
+	{
+		"reference": "&subedot;",
+		"glyph": "\u2ac3"
+	},
+	{
+		"reference": "&submult;",
+		"glyph": "\u2ac1"
+	},
+	{
+		"reference": "&subnE;",
+		"glyph": "\u2acb"
+	},
+	{
+		"reference": "&subne;",
+		"glyph": "\u228a"
+	},
+	{
+		"reference": "&subplus;",
+		"glyph": "\u2abf"
+	},
+	{
+		"reference": "&subrarr;",
+		"glyph": "\u2979"
+	},
+	{
+		"reference": "&Subset;",
+		"glyph": "\u22d0"
+	},
+	{
+		"reference": "&subset;",
+		"glyph": "\u2282"
+	},
+	{
+		"reference": "&subseteq;",
+		"glyph": "\u2286"
+	},
+	{
+		"reference": "&subseteqq;",
+		"glyph": "\u2ac5"
+	},
+	{
+		"reference": "&SubsetEqual;",
+		"glyph": "\u2286"
+	},
+	{
+		"reference": "&subsetneq;",
+		"glyph": "\u228a"
+	},
+	{
+		"reference": "&subsetneqq;",
+		"glyph": "\u2acb"
+	},
+	{
+		"reference": "&subsim;",
+		"glyph": "\u2ac7"
+	},
+	{
+		"reference": "&subsub;",
+		"glyph": "\u2ad5"
+	},
+	{
+		"reference": "&subsup;",
+		"glyph": "\u2ad3"
+	},
+	{
+		"reference": "&succ;",
+		"glyph": "\u227b"
+	},
+	{
+		"reference": "&succapprox;",
+		"glyph": "\u2ab8"
+	},
+	{
+		"reference": "&succcurlyeq;",
+		"glyph": "\u227d"
+	},
+	{
+		"reference": "&Succeeds;",
+		"glyph": "\u227b"
+	},
+	{
+		"reference": "&SucceedsEqual;",
+		"glyph": "\u2ab0"
+	},
+	{
+		"reference": "&SucceedsSlantEqual;",
+		"glyph": "\u227d"
+	},
+	{
+		"reference": "&SucceedsTilde;",
+		"glyph": "\u227f"
+	},
+	{
+		"reference": "&succeq;",
+		"glyph": "\u2ab0"
+	},
+	{
+		"reference": "&succnapprox;",
+		"glyph": "\u2aba"
+	},
+	{
+		"reference": "&succneqq;",
+		"glyph": "\u2ab6"
+	},
+	{
+		"reference": "&succnsim;",
+		"glyph": "\u22e9"
+	},
+	{
+		"reference": "&succsim;",
+		"glyph": "\u227f"
+	},
+	{
+		"reference": "&SuchThat;",
+		"glyph": "\u220b"
+	},
+	{
+		"reference": "&Sum;",
+		"glyph": "\u2211"
+	},
+	{
+		"reference": "&sum;",
+		"glyph": "\u2211"
+	},
+	{
+		"reference": "&sung;",
+		"glyph": "\u266a"
+	},
+	{
+		"reference": "&Sup;",
+		"glyph": "\u22d1"
+	},
+	{
+		"reference": "&sup;",
+		"glyph": "\u2283"
+	},
+	{
+		"reference": "&sup1;",
+		"glyph": "\u00b9"
+	},
+	{
+		"reference": "&sup1",
+		"glyph": "\u00b9"
+	},
+	{
+		"reference": "&sup2;",
+		"glyph": "\u00b2"
+	},
+	{
+		"reference": "&sup2",
+		"glyph": "\u00b2"
+	},
+	{
+		"reference": "&sup3;",
+		"glyph": "\u00b3"
+	},
+	{
+		"reference": "&sup3",
+		"glyph": "\u00b3"
+	},
+	{
+		"reference": "&supdot;",
+		"glyph": "\u2abe"
+	},
+	{
+		"reference": "&supdsub;",
+		"glyph": "\u2ad8"
+	},
+	{
+		"reference": "&supE;",
+		"glyph": "\u2ac6"
+	},
+	{
+		"reference": "&supe;",
+		"glyph": "\u2287"
+	},
+	{
+		"reference": "&supedot;",
+		"glyph": "\u2ac4"
+	},
+	{
+		"reference": "&Superset;",
+		"glyph": "\u2283"
+	},
+	{
+		"reference": "&SupersetEqual;",
+		"glyph": "\u2287"
+	},
+	{
+		"reference": "&suphsol;",
+		"glyph": "\u27c9"
+	},
+	{
+		"reference": "&suphsub;",
+		"glyph": "\u2ad7"
+	},
+	{
+		"reference": "&suplarr;",
+		"glyph": "\u297b"
+	},
+	{
+		"reference": "&supmult;",
+		"glyph": "\u2ac2"
+	},
+	{
+		"reference": "&supnE;",
+		"glyph": "\u2acc"
+	},
+	{
+		"reference": "&supne;",
+		"glyph": "\u228b"
+	},
+	{
+		"reference": "&supplus;",
+		"glyph": "\u2ac0"
+	},
+	{
+		"reference": "&Supset;",
+		"glyph": "\u22d1"
+	},
+	{
+		"reference": "&supset;",
+		"glyph": "\u2283"
+	},
+	{
+		"reference": "&supseteq;",
+		"glyph": "\u2287"
+	},
+	{
+		"reference": "&supseteqq;",
+		"glyph": "\u2ac6"
+	},
+	{
+		"reference": "&supsetneq;",
+		"glyph": "\u228b"
+	},
+	{
+		"reference": "&supsetneqq;",
+		"glyph": "\u2acc"
+	},
+	{
+		"reference": "&supsim;",
+		"glyph": "\u2ac8"
+	},
+	{
+		"reference": "&supsub;",
+		"glyph": "\u2ad4"
+	},
+	{
+		"reference": "&supsup;",
+		"glyph": "\u2ad6"
+	},
+	{
+		"reference": "&swarhk;",
+		"glyph": "\u2926"
+	},
+	{
+		"reference": "&swArr;",
+		"glyph": "\u21d9"
+	},
+	{
+		"reference": "&swarr;",
+		"glyph": "\u2199"
+	},
+	{
+		"reference": "&swarrow;",
+		"glyph": "\u2199"
+	},
+	{
+		"reference": "&swnwar;",
+		"glyph": "\u292a"
+	},
+	{
+		"reference": "&szlig;",
+		"glyph": "\u00df"
+	},
+	{
+		"reference": "&szlig",
+		"glyph": "\u00df"
+	},
+	{
+		"reference": "&Tab;",
+		"glyph": "\u0009"
+	},
+	{
+		"reference": "&target;",
+		"glyph": "\u2316"
+	},
+	{
+		"reference": "&Tau;",
+		"glyph": "\u03a4"
+	},
+	{
+		"reference": "&tau;",
+		"glyph": "\u03c4"
+	},
+	{
+		"reference": "&tbrk;",
+		"glyph": "\u23b4"
+	},
+	{
+		"reference": "&Tcaron;",
+		"glyph": "\u0164"
+	},
+	{
+		"reference": "&tcaron;",
+		"glyph": "\u0165"
+	},
+	{
+		"reference": "&Tcedil;",
+		"glyph": "\u0162"
+	},
+	{
+		"reference": "&tcedil;",
+		"glyph": "\u0163"
+	},
+	{
+		"reference": "&Tcy;",
+		"glyph": "\u0422"
+	},
+	{
+		"reference": "&tcy;",
+		"glyph": "\u0442"
+	},
+	{
+		"reference": "&tdot;",
+		"glyph": "\u20db"
+	},
+	{
+		"reference": "&telrec;",
+		"glyph": "\u2315"
+	},
+	{
+		"reference": "&Tfr;",
+		"glyph": "\ud835\udd17"
+	},
+	{
+		"reference": "&tfr;",
+		"glyph": "\ud835\udd31"
+	},
+	{
+		"reference": "&there4;",
+		"glyph": "\u2234"
+	},
+	{
+		"reference": "&Therefore;",
+		"glyph": "\u2234"
+	},
+	{
+		"reference": "&therefore;",
+		"glyph": "\u2234"
+	},
+	{
+		"reference": "&Theta;",
+		"glyph": "\u0398"
+	},
+	{
+		"reference": "&theta;",
+		"glyph": "\u03b8"
+	},
+	{
+		"reference": "&thetasym;",
+		"glyph": "\u03d1"
+	},
+	{
+		"reference": "&thetav;",
+		"glyph": "\u03d1"
+	},
+	{
+		"reference": "&thickapprox;",
+		"glyph": "\u2248"
+	},
+	{
+		"reference": "&thicksim;",
+		"glyph": "\u223c"
+	},
+	{
+		"reference": "&ThickSpace;",
+		"glyph": "\u205f\u200a"
+	},
+	{
+		"reference": "&thinsp;",
+		"glyph": "\u2009"
+	},
+	{
+		"reference": "&ThinSpace;",
+		"glyph": "\u2009"
+	},
+	{
+		"reference": "&thkap;",
+		"glyph": "\u2248"
+	},
+	{
+		"reference": "&thksim;",
+		"glyph": "\u223c"
+	},
+	{
+		"reference": "&THORN;",
+		"glyph": "\u00de"
+	},
+	{
+		"reference": "&THORN",
+		"glyph": "\u00de"
+	},
+	{
+		"reference": "&thorn;",
+		"glyph": "\u00fe"
+	},
+	{
+		"reference": "&thorn",
+		"glyph": "\u00fe"
+	},
+	{
+		"reference": "&Tilde;",
+		"glyph": "\u223c"
+	},
+	{
+		"reference": "&tilde;",
+		"glyph": "\u02dc"
+	},
+	{
+		"reference": "&TildeEqual;",
+		"glyph": "\u2243"
+	},
+	{
+		"reference": "&TildeFullEqual;",
+		"glyph": "\u2245"
+	},
+	{
+		"reference": "&TildeTilde;",
+		"glyph": "\u2248"
+	},
+	{
+		"reference": "&times;",
+		"glyph": "\u00d7"
+	},
+	{
+		"reference": "&times",
+		"glyph": "\u00d7"
+	},
+	{
+		"reference": "&timesb;",
+		"glyph": "\u22a0"
+	},
+	{
+		"reference": "&timesbar;",
+		"glyph": "\u2a31"
+	},
+	{
+		"reference": "&timesd;",
+		"glyph": "\u2a30"
+	},
+	{
+		"reference": "&tint;",
+		"glyph": "\u222d"
+	},
+	{
+		"reference": "&toea;",
+		"glyph": "\u2928"
+	},
+	{
+		"reference": "&top;",
+		"glyph": "\u22a4"
+	},
+	{
+		"reference": "&topbot;",
+		"glyph": "\u2336"
+	},
+	{
+		"reference": "&topcir;",
+		"glyph": "\u2af1"
+	},
+	{
+		"reference": "&Topf;",
+		"glyph": "\ud835\udd4b"
+	},
+	{
+		"reference": "&topf;",
+		"glyph": "\ud835\udd65"
+	},
+	{
+		"reference": "&topfork;",
+		"glyph": "\u2ada"
+	},
+	{
+		"reference": "&tosa;",
+		"glyph": "\u2929"
+	},
+	{
+		"reference": "&tprime;",
+		"glyph": "\u2034"
+	},
+	{
+		"reference": "&TRADE;",
+		"glyph": "\u2122"
+	},
+	{
+		"reference": "&trade;",
+		"glyph": "\u2122"
+	},
+	{
+		"reference": "&triangle;",
+		"glyph": "\u25b5"
+	},
+	{
+		"reference": "&triangledown;",
+		"glyph": "\u25bf"
+	},
+	{
+		"reference": "&triangleleft;",
+		"glyph": "\u25c3"
+	},
+	{
+		"reference": "&trianglelefteq;",
+		"glyph": "\u22b4"
+	},
+	{
+		"reference": "&triangleq;",
+		"glyph": "\u225c"
+	},
+	{
+		"reference": "&triangleright;",
+		"glyph": "\u25b9"
+	},
+	{
+		"reference": "&trianglerighteq;",
+		"glyph": "\u22b5"
+	},
+	{
+		"reference": "&tridot;",
+		"glyph": "\u25ec"
+	},
+	{
+		"reference": "&trie;",
+		"glyph": "\u225c"
+	},
+	{
+		"reference": "&triminus;",
+		"glyph": "\u2a3a"
+	},
+	{
+		"reference": "&TripleDot;",
+		"glyph": "\u20db"
+	},
+	{
+		"reference": "&triplus;",
+		"glyph": "\u2a39"
+	},
+	{
+		"reference": "&trisb;",
+		"glyph": "\u29cd"
+	},
+	{
+		"reference": "&tritime;",
+		"glyph": "\u2a3b"
+	},
+	{
+		"reference": "&trpezium;",
+		"glyph": "\u23e2"
+	},
+	{
+		"reference": "&Tscr;",
+		"glyph": "\ud835\udcaf"
+	},
+	{
+		"reference": "&tscr;",
+		"glyph": "\ud835\udcc9"
+	},
+	{
+		"reference": "&TScy;",
+		"glyph": "\u0426"
+	},
+	{
+		"reference": "&tscy;",
+		"glyph": "\u0446"
+	},
+	{
+		"reference": "&TSHcy;",
+		"glyph": "\u040b"
+	},
+	{
+		"reference": "&tshcy;",
+		"glyph": "\u045b"
+	},
+	{
+		"reference": "&Tstrok;",
+		"glyph": "\u0166"
+	},
+	{
+		"reference": "&tstrok;",
+		"glyph": "\u0167"
+	},
+	{
+		"reference": "&twixt;",
+		"glyph": "\u226c"
+	},
+	{
+		"reference": "&twoheadleftarrow;",
+		"glyph": "\u219e"
+	},
+	{
+		"reference": "&twoheadrightarrow;",
+		"glyph": "\u21a0"
+	},
+	{
+		"reference": "&Uacute;",
+		"glyph": "\u00da"
+	},
+	{
+		"reference": "&Uacute",
+		"glyph": "\u00da"
+	},
+	{
+		"reference": "&uacute;",
+		"glyph": "\u00fa"
+	},
+	{
+		"reference": "&uacute",
+		"glyph": "\u00fa"
+	},
+	{
+		"reference": "&Uarr;",
+		"glyph": "\u219f"
+	},
+	{
+		"reference": "&uArr;",
+		"glyph": "\u21d1"
+	},
+	{
+		"reference": "&uarr;",
+		"glyph": "\u2191"
+	},
+	{
+		"reference": "&Uarrocir;",
+		"glyph": "\u2949"
+	},
+	{
+		"reference": "&Ubrcy;",
+		"glyph": "\u040e"
+	},
+	{
+		"reference": "&ubrcy;",
+		"glyph": "\u045e"
+	},
+	{
+		"reference": "&Ubreve;",
+		"glyph": "\u016c"
+	},
+	{
+		"reference": "&ubreve;",
+		"glyph": "\u016d"
+	},
+	{
+		"reference": "&Ucirc;",
+		"glyph": "\u00db"
+	},
+	{
+		"reference": "&Ucirc",
+		"glyph": "\u00db"
+	},
+	{
+		"reference": "&ucirc;",
+		"glyph": "\u00fb"
+	},
+	{
+		"reference": "&ucirc",
+		"glyph": "\u00fb"
+	},
+	{
+		"reference": "&Ucy;",
+		"glyph": "\u0423"
+	},
+	{
+		"reference": "&ucy;",
+		"glyph": "\u0443"
+	},
+	{
+		"reference": "&udarr;",
+		"glyph": "\u21c5"
+	},
+	{
+		"reference": "&Udblac;",
+		"glyph": "\u0170"
+	},
+	{
+		"reference": "&udblac;",
+		"glyph": "\u0171"
+	},
+	{
+		"reference": "&udhar;",
+		"glyph": "\u296e"
+	},
+	{
+		"reference": "&ufisht;",
+		"glyph": "\u297e"
+	},
+	{
+		"reference": "&Ufr;",
+		"glyph": "\ud835\udd18"
+	},
+	{
+		"reference": "&ufr;",
+		"glyph": "\ud835\udd32"
+	},
+	{
+		"reference": "&Ugrave;",
+		"glyph": "\u00d9"
+	},
+	{
+		"reference": "&Ugrave",
+		"glyph": "\u00d9"
+	},
+	{
+		"reference": "&ugrave;",
+		"glyph": "\u00f9"
+	},
+	{
+		"reference": "&ugrave",
+		"glyph": "\u00f9"
+	},
+	{
+		"reference": "&uHar;",
+		"glyph": "\u2963"
+	},
+	{
+		"reference": "&uharl;",
+		"glyph": "\u21bf"
+	},
+	{
+		"reference": "&uharr;",
+		"glyph": "\u21be"
+	},
+	{
+		"reference": "&uhblk;",
+		"glyph": "\u2580"
+	},
+	{
+		"reference": "&ulcorn;",
+		"glyph": "\u231c"
+	},
+	{
+		"reference": "&ulcorner;",
+		"glyph": "\u231c"
+	},
+	{
+		"reference": "&ulcrop;",
+		"glyph": "\u230f"
+	},
+	{
+		"reference": "&ultri;",
+		"glyph": "\u25f8"
+	},
+	{
+		"reference": "&Umacr;",
+		"glyph": "\u016a"
+	},
+	{
+		"reference": "&umacr;",
+		"glyph": "\u016b"
+	},
+	{
+		"reference": "&uml;",
+		"glyph": "\u00a8"
+	},
+	{
+		"reference": "&uml",
+		"glyph": "\u00a8"
+	},
+	{
+		"reference": "&UnderBar;",
+		"glyph": "_"
+	},
+	{
+		"reference": "&UnderBrace;",
+		"glyph": "\u23df"
+	},
+	{
+		"reference": "&UnderBracket;",
+		"glyph": "\u23b5"
+	},
+	{
+		"reference": "&UnderParenthesis;",
+		"glyph": "\u23dd"
+	},
+	{
+		"reference": "&Union;",
+		"glyph": "\u22c3"
+	},
+	{
+		"reference": "&UnionPlus;",
+		"glyph": "\u228e"
+	},
+	{
+		"reference": "&Uogon;",
+		"glyph": "\u0172"
+	},
+	{
+		"reference": "&uogon;",
+		"glyph": "\u0173"
+	},
+	{
+		"reference": "&Uopf;",
+		"glyph": "\ud835\udd4c"
+	},
+	{
+		"reference": "&uopf;",
+		"glyph": "\ud835\udd66"
+	},
+	{
+		"reference": "&UpArrow;",
+		"glyph": "\u2191"
+	},
+	{
+		"reference": "&Uparrow;",
+		"glyph": "\u21d1"
+	},
+	{
+		"reference": "&uparrow;",
+		"glyph": "\u2191"
+	},
+	{
+		"reference": "&UpArrowBar;",
+		"glyph": "\u2912"
+	},
+	{
+		"reference": "&UpArrowDownArrow;",
+		"glyph": "\u21c5"
+	},
+	{
+		"reference": "&UpDownArrow;",
+		"glyph": "\u2195"
+	},
+	{
+		"reference": "&Updownarrow;",
+		"glyph": "\u21d5"
+	},
+	{
+		"reference": "&updownarrow;",
+		"glyph": "\u2195"
+	},
+	{
+		"reference": "&UpEquilibrium;",
+		"glyph": "\u296e"
+	},
+	{
+		"reference": "&upharpoonleft;",
+		"glyph": "\u21bf"
+	},
+	{
+		"reference": "&upharpoonright;",
+		"glyph": "\u21be"
+	},
+	{
+		"reference": "&uplus;",
+		"glyph": "\u228e"
+	},
+	{
+		"reference": "&UpperLeftArrow;",
+		"glyph": "\u2196"
+	},
+	{
+		"reference": "&UpperRightArrow;",
+		"glyph": "\u2197"
+	},
+	{
+		"reference": "&Upsi;",
+		"glyph": "\u03d2"
+	},
+	{
+		"reference": "&upsi;",
+		"glyph": "\u03c5"
+	},
+	{
+		"reference": "&upsih;",
+		"glyph": "\u03d2"
+	},
+	{
+		"reference": "&Upsilon;",
+		"glyph": "\u03a5"
+	},
+	{
+		"reference": "&upsilon;",
+		"glyph": "\u03c5"
+	},
+	{
+		"reference": "&UpTee;",
+		"glyph": "\u22a5"
+	},
+	{
+		"reference": "&UpTeeArrow;",
+		"glyph": "\u21a5"
+	},
+	{
+		"reference": "&upuparrows;",
+		"glyph": "\u21c8"
+	},
+	{
+		"reference": "&urcorn;",
+		"glyph": "\u231d"
+	},
+	{
+		"reference": "&urcorner;",
+		"glyph": "\u231d"
+	},
+	{
+		"reference": "&urcrop;",
+		"glyph": "\u230e"
+	},
+	{
+		"reference": "&Uring;",
+		"glyph": "\u016e"
+	},
+	{
+		"reference": "&uring;",
+		"glyph": "\u016f"
+	},
+	{
+		"reference": "&urtri;",
+		"glyph": "\u25f9"
+	},
+	{
+		"reference": "&Uscr;",
+		"glyph": "\ud835\udcb0"
+	},
+	{
+		"reference": "&uscr;",
+		"glyph": "\ud835\udcca"
+	},
+	{
+		"reference": "&utdot;",
+		"glyph": "\u22f0"
+	},
+	{
+		"reference": "&Utilde;",
+		"glyph": "\u0168"
+	},
+	{
+		"reference": "&utilde;",
+		"glyph": "\u0169"
+	},
+	{
+		"reference": "&utri;",
+		"glyph": "\u25b5"
+	},
+	{
+		"reference": "&utrif;",
+		"glyph": "\u25b4"
+	},
+	{
+		"reference": "&uuarr;",
+		"glyph": "\u21c8"
+	},
+	{
+		"reference": "&Uuml;",
+		"glyph": "\u00dc"
+	},
+	{
+		"reference": "&Uuml",
+		"glyph": "\u00dc"
+	},
+	{
+		"reference": "&uuml;",
+		"glyph": "\u00fc"
+	},
+	{
+		"reference": "&uuml",
+		"glyph": "\u00fc"
+	},
+	{
+		"reference": "&uwangle;",
+		"glyph": "\u29a7"
+	},
+	{
+		"reference": "&vangrt;",
+		"glyph": "\u299c"
+	},
+	{
+		"reference": "&varepsilon;",
+		"glyph": "\u03f5"
+	},
+	{
+		"reference": "&varkappa;",
+		"glyph": "\u03f0"
+	},
+	{
+		"reference": "&varnothing;",
+		"glyph": "\u2205"
+	},
+	{
+		"reference": "&varphi;",
+		"glyph": "\u03d5"
+	},
+	{
+		"reference": "&varpi;",
+		"glyph": "\u03d6"
+	},
+	{
+		"reference": "&varpropto;",
+		"glyph": "\u221d"
+	},
+	{
+		"reference": "&vArr;",
+		"glyph": "\u21d5"
+	},
+	{
+		"reference": "&varr;",
+		"glyph": "\u2195"
+	},
+	{
+		"reference": "&varrho;",
+		"glyph": "\u03f1"
+	},
+	{
+		"reference": "&varsigma;",
+		"glyph": "\u03c2"
+	},
+	{
+		"reference": "&varsubsetneq;",
+		"glyph": "\u228a\ufe00"
+	},
+	{
+		"reference": "&varsubsetneqq;",
+		"glyph": "\u2acb\ufe00"
+	},
+	{
+		"reference": "&varsupsetneq;",
+		"glyph": "\u228b\ufe00"
+	},
+	{
+		"reference": "&varsupsetneqq;",
+		"glyph": "\u2acc\ufe00"
+	},
+	{
+		"reference": "&vartheta;",
+		"glyph": "\u03d1"
+	},
+	{
+		"reference": "&vartriangleleft;",
+		"glyph": "\u22b2"
+	},
+	{
+		"reference": "&vartriangleright;",
+		"glyph": "\u22b3"
+	},
+	{
+		"reference": "&Vbar;",
+		"glyph": "\u2aeb"
+	},
+	{
+		"reference": "&vBar;",
+		"glyph": "\u2ae8"
+	},
+	{
+		"reference": "&vBarv;",
+		"glyph": "\u2ae9"
+	},
+	{
+		"reference": "&Vcy;",
+		"glyph": "\u0412"
+	},
+	{
+		"reference": "&vcy;",
+		"glyph": "\u0432"
+	},
+	{
+		"reference": "&VDash;",
+		"glyph": "\u22ab"
+	},
+	{
+		"reference": "&Vdash;",
+		"glyph": "\u22a9"
+	},
+	{
+		"reference": "&vDash;",
+		"glyph": "\u22a8"
+	},
+	{
+		"reference": "&vdash;",
+		"glyph": "\u22a2"
+	},
+	{
+		"reference": "&Vdashl;",
+		"glyph": "\u2ae6"
+	},
+	{
+		"reference": "&Vee;",
+		"glyph": "\u22c1"
+	},
+	{
+		"reference": "&vee;",
+		"glyph": "\u2228"
+	},
+	{
+		"reference": "&veebar;",
+		"glyph": "\u22bb"
+	},
+	{
+		"reference": "&veeeq;",
+		"glyph": "\u225a"
+	},
+	{
+		"reference": "&vellip;",
+		"glyph": "\u22ee"
+	},
+	{
+		"reference": "&Verbar;",
+		"glyph": "\u2016"
+	},
+	{
+		"reference": "&verbar;",
+		"glyph": "|"
+	},
+	{
+		"reference": "&Vert;",
+		"glyph": "\u2016"
+	},
+	{
+		"reference": "&vert;",
+		"glyph": "|"
+	},
+	{
+		"reference": "&VerticalBar;",
+		"glyph": "\u2223"
+	},
+	{
+		"reference": "&VerticalLine;",
+		"glyph": "|"
+	},
+	{
+		"reference": "&VerticalSeparator;",
+		"glyph": "\u2758"
+	},
+	{
+		"reference": "&VerticalTilde;",
+		"glyph": "\u2240"
+	},
+	{
+		"reference": "&VeryThinSpace;",
+		"glyph": "\u200a"
+	},
+	{
+		"reference": "&Vfr;",
+		"glyph": "\ud835\udd19"
+	},
+	{
+		"reference": "&vfr;",
+		"glyph": "\ud835\udd33"
+	},
+	{
+		"reference": "&vltri;",
+		"glyph": "\u22b2"
+	},
+	{
+		"reference": "&vnsub;",
+		"glyph": "\u2282\u20d2"
+	},
+	{
+		"reference": "&vnsup;",
+		"glyph": "\u2283\u20d2"
+	},
+	{
+		"reference": "&Vopf;",
+		"glyph": "\ud835\udd4d"
+	},
+	{
+		"reference": "&vopf;",
+		"glyph": "\ud835\udd67"
+	},
+	{
+		"reference": "&vprop;",
+		"glyph": "\u221d"
+	},
+	{
+		"reference": "&vrtri;",
+		"glyph": "\u22b3"
+	},
+	{
+		"reference": "&Vscr;",
+		"glyph": "\ud835\udcb1"
+	},
+	{
+		"reference": "&vscr;",
+		"glyph": "\ud835\udccb"
+	},
+	{
+		"reference": "&vsubnE;",
+		"glyph": "\u2acb\ufe00"
+	},
+	{
+		"reference": "&vsubne;",
+		"glyph": "\u228a\ufe00"
+	},
+	{
+		"reference": "&vsupnE;",
+		"glyph": "\u2acc\ufe00"
+	},
+	{
+		"reference": "&vsupne;",
+		"glyph": "\u228b\ufe00"
+	},
+	{
+		"reference": "&Vvdash;",
+		"glyph": "\u22aa"
+	},
+	{
+		"reference": "&vzigzag;",
+		"glyph": "\u299a"
+	},
+	{
+		"reference": "&Wcirc;",
+		"glyph": "\u0174"
+	},
+	{
+		"reference": "&wcirc;",
+		"glyph": "\u0175"
+	},
+	{
+		"reference": "&wedbar;",
+		"glyph": "\u2a5f"
+	},
+	{
+		"reference": "&Wedge;",
+		"glyph": "\u22c0"
+	},
+	{
+		"reference": "&wedge;",
+		"glyph": "\u2227"
+	},
+	{
+		"reference": "&wedgeq;",
+		"glyph": "\u2259"
+	},
+	{
+		"reference": "&weierp;",
+		"glyph": "\u2118"
+	},
+	{
+		"reference": "&Wfr;",
+		"glyph": "\ud835\udd1a"
+	},
+	{
+		"reference": "&wfr;",
+		"glyph": "\ud835\udd34"
+	},
+	{
+		"reference": "&Wopf;",
+		"glyph": "\ud835\udd4e"
+	},
+	{
+		"reference": "&wopf;",
+		"glyph": "\ud835\udd68"
+	},
+	{
+		"reference": "&wp;",
+		"glyph": "\u2118"
+	},
+	{
+		"reference": "&wr;",
+		"glyph": "\u2240"
+	},
+	{
+		"reference": "&wreath;",
+		"glyph": "\u2240"
+	},
+	{
+		"reference": "&Wscr;",
+		"glyph": "\ud835\udcb2"
+	},
+	{
+		"reference": "&wscr;",
+		"glyph": "\ud835\udccc"
+	},
+	{
+		"reference": "&xcap;",
+		"glyph": "\u22c2"
+	},
+	{
+		"reference": "&xcirc;",
+		"glyph": "\u25ef"
+	},
+	{
+		"reference": "&xcup;",
+		"glyph": "\u22c3"
+	},
+	{
+		"reference": "&xdtri;",
+		"glyph": "\u25bd"
+	},
+	{
+		"reference": "&Xfr;",
+		"glyph": "\ud835\udd1b"
+	},
+	{
+		"reference": "&xfr;",
+		"glyph": "\ud835\udd35"
+	},
+	{
+		"reference": "&xhArr;",
+		"glyph": "\u27fa"
+	},
+	{
+		"reference": "&xharr;",
+		"glyph": "\u27f7"
+	},
+	{
+		"reference": "&Xi;",
+		"glyph": "\u039e"
+	},
+	{
+		"reference": "&xi;",
+		"glyph": "\u03be"
+	},
+	{
+		"reference": "&xlArr;",
+		"glyph": "\u27f8"
+	},
+	{
+		"reference": "&xlarr;",
+		"glyph": "\u27f5"
+	},
+	{
+		"reference": "&xmap;",
+		"glyph": "\u27fc"
+	},
+	{
+		"reference": "&xnis;",
+		"glyph": "\u22fb"
+	},
+	{
+		"reference": "&xodot;",
+		"glyph": "\u2a00"
+	},
+	{
+		"reference": "&Xopf;",
+		"glyph": "\ud835\udd4f"
+	},
+	{
+		"reference": "&xopf;",
+		"glyph": "\ud835\udd69"
+	},
+	{
+		"reference": "&xoplus;",
+		"glyph": "\u2a01"
+	},
+	{
+		"reference": "&xotime;",
+		"glyph": "\u2a02"
+	},
+	{
+		"reference": "&xrArr;",
+		"glyph": "\u27f9"
+	},
+	{
+		"reference": "&xrarr;",
+		"glyph": "\u27f6"
+	},
+	{
+		"reference": "&Xscr;",
+		"glyph": "\ud835\udcb3"
+	},
+	{
+		"reference": "&xscr;",
+		"glyph": "\ud835\udccd"
+	},
+	{
+		"reference": "&xsqcup;",
+		"glyph": "\u2a06"
+	},
+	{
+		"reference": "&xuplus;",
+		"glyph": "\u2a04"
+	},
+	{
+		"reference": "&xutri;",
+		"glyph": "\u25b3"
+	},
+	{
+		"reference": "&xvee;",
+		"glyph": "\u22c1"
+	},
+	{
+		"reference": "&xwedge;",
+		"glyph": "\u22c0"
+	},
+	{
+		"reference": "&Yacute;",
+		"glyph": "\u00dd"
+	},
+	{
+		"reference": "&Yacute",
+		"glyph": "\u00dd"
+	},
+	{
+		"reference": "&yacute;",
+		"glyph": "\u00fd"
+	},
+	{
+		"reference": "&yacute",
+		"glyph": "\u00fd"
+	},
+	{
+		"reference": "&YAcy;",
+		"glyph": "\u042f"
+	},
+	{
+		"reference": "&yacy;",
+		"glyph": "\u044f"
+	},
+	{
+		"reference": "&Ycirc;",
+		"glyph": "\u0176"
+	},
+	{
+		"reference": "&ycirc;",
+		"glyph": "\u0177"
+	},
+	{
+		"reference": "&Ycy;",
+		"glyph": "\u042b"
+	},
+	{
+		"reference": "&ycy;",
+		"glyph": "\u044b"
+	},
+	{
+		"reference": "&yen;",
+		"glyph": "\u00a5"
+	},
+	{
+		"reference": "&yen",
+		"glyph": "\u00a5"
+	},
+	{
+		"reference": "&Yfr;",
+		"glyph": "\ud835\udd1c"
+	},
+	{
+		"reference": "&yfr;",
+		"glyph": "\ud835\udd36"
+	},
+	{
+		"reference": "&YIcy;",
+		"glyph": "\u0407"
+	},
+	{
+		"reference": "&yicy;",
+		"glyph": "\u0457"
+	},
+	{
+		"reference": "&Yopf;",
+		"glyph": "\ud835\udd50"
+	},
+	{
+		"reference": "&yopf;",
+		"glyph": "\ud835\udd6a"
+	},
+	{
+		"reference": "&Yscr;",
+		"glyph": "\ud835\udcb4"
+	},
+	{
+		"reference": "&yscr;",
+		"glyph": "\ud835\udcce"
+	},
+	{
+		"reference": "&YUcy;",
+		"glyph": "\u042e"
+	},
+	{
+		"reference": "&yucy;",
+		"glyph": "\u044e"
+	},
+	{
+		"reference": "&Yuml;",
+		"glyph": "\u0178"
+	},
+	{
+		"reference": "&yuml;",
+		"glyph": "\u00ff"
+	},
+	{
+		"reference": "&yuml",
+		"glyph": "\u00ff"
+	},
+	{
+		"reference": "&Zacute;",
+		"glyph": "\u0179"
+	},
+	{
+		"reference": "&zacute;",
+		"glyph": "\u017a"
+	},
+	{
+		"reference": "&Zcaron;",
+		"glyph": "\u017d"
+	},
+	{
+		"reference": "&zcaron;",
+		"glyph": "\u017e"
+	},
+	{
+		"reference": "&Zcy;",
+		"glyph": "\u0417"
+	},
+	{
+		"reference": "&zcy;",
+		"glyph": "\u0437"
+	},
+	{
+		"reference": "&Zdot;",
+		"glyph": "\u017b"
+	},
+	{
+		"reference": "&zdot;",
+		"glyph": "\u017c"
+	},
+	{
+		"reference": "&zeetrf;",
+		"glyph": "\u2128"
+	},
+	{
+		"reference": "&ZeroWidthSpace;",
+		"glyph": "\u200b"
+	},
+	{
+		"reference": "&Zeta;",
+		"glyph": "\u0396"
+	},
+	{
+		"reference": "&zeta;",
+		"glyph": "\u03b6"
+	},
+	{
+		"reference": "&Zfr;",
+		"glyph": "\u2128"
+	},
+	{
+		"reference": "&zfr;",
+		"glyph": "\ud835\udd37"
+	},
+	{
+		"reference": "&ZHcy;",
+		"glyph": "\u0416"
+	},
+	{
+		"reference": "&zhcy;",
+		"glyph": "\u0436"
+	},
+	{
+		"reference": "&zigrarr;",
+		"glyph": "\u21dd"
+	},
+	{
+		"reference": "&Zopf;",
+		"glyph": "\u2124"
+	},
+	{
+		"reference": "&zopf;",
+		"glyph": "\ud835\udd6b"
+	},
+	{
+		"reference": "&Zscr;",
+		"glyph": "\ud835\udcb5"
+	},
+	{
+		"reference": "&zscr;",
+		"glyph": "\ud835\udccf"
+	},
+	{
+		"reference": "&zwj;",
+		"glyph": "\u200d"
+	},
+	{
+		"reference": "&zwnj;",
+		"glyph": "\u200c"
+	}
+]
