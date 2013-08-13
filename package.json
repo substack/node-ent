@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "punycode": "~1.2.3"
-    }
+    },
     "devDependencies" : {
         "tap" : "~0.4.3",
         "tape" : "~1.0.4"
