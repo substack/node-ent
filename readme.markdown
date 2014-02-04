@@ -11,11 +11,13 @@ Encode and decode HTML entities
 ``` js
 var ent = require('ent');
 console.log(ent.encode('<span>©moo</span>'))
+console.log(ent.encode('<span>©moö</span>', { useNamedReferences: false }));
 console.log(ent.decode('&pi; &amp; &rho;'));
 ```
 
 ```
 &lt;span&gt;&copy;moo&lt;/span&gt;
+&lt;span&gt;&#169;mo&#246;&lt;/span&gt;
 π & ρ
 ```
 
@@ -23,9 +25,10 @@ console.log(ent.decode('&pi; &amp; &rho;'));
 
 # methods
 
-## encode(str)
+## encode(str, options)
 
-Escape unsafe characters in `str` with html entities.
+Escape unsafe characters in `str` with html entities. The `options` object can contain the following properties:
+* `useNamedReferences: false` to force encoding to use decimal entities instead of named ones. (default: *true*)
 
 ## decode(str)
 
