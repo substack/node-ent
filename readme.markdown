@@ -36,7 +36,7 @@ codes like `&pi;`.
 
 Convert html entities in `str` back to raw text.
 
-## gdecodeRecursively(obj)
+## decodeRecursively(obj)
 
 Decode recursively a mixed object.
 
