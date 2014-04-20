@@ -36,6 +36,10 @@ codes like `&pi;`.
 
 Convert html entities in `str` back to raw text.
 
+## gdecodeRecursively(obj)
+
+Decode recursively a mixed object.
+
 # credits
 
 HTML entity tables shamelessly lifted from perl's
