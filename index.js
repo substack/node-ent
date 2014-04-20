@@ -65,3 +65,27 @@ exports.decode = function (str) {
         })
     ;
 };
+
+exports.decodeRecursively = function(obj) {
+    var keys, self = this;
+    // is an object?
+    try {
+        keys = Object.keys(obj);
+    } catch(e) {
+        return self.decode(obj);
+    }
+    //
+    keys.forEach(function(key) {
+        var o = obj[key];
+        // Recursively iterate if object or array
+        if (o) {
+            if (typeof o === 'object' || Array.isArray(o)) {
+                obj[key] = self.decodeRecursively(o);
+            }
+            if (typeof o === 'string') {
+                obj[key] = self.decode(o)
+            }
+        }
+    })
+    return obj;
+}
