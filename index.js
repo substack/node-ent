@@ -3,6 +3,10 @@ var entities = require('./entities.json');
 var revEntities = require('./reversed.json');
 
 exports.encode = function (str, opts) {
+    if (typeof str == 'number') {
+        str = String(str);
+    }
+
     if (typeof str !== 'string') {
         throw new TypeError('Expected a String');
     }
