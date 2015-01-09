@@ -1,3 +1,4 @@
+var punycode = require('punycode');
 var revEntities = require('./reversed.json');
 
 module.exports = encode;
@@ -17,20 +18,24 @@ function encode (str, opts) {
     if (opts.named) numeric = false;
     if (opts.numeric !== undefined) numeric = opts.numeric;
 
-    return str.split('').map(function (c) {
-        var cc = c.charCodeAt(0);
+    var codePoints = punycode.ucs2.decode(str);
+    var chars = [];
+    for (var i = 0; i < codePoints.length; i++) {
+        var cc = codePoints[i];
+        var c = punycode.ucs2.encode([ cc ]);
         var e = revEntities[cc];
         if (e && (cc >= 127 || special[c]) && !numeric) {
-            return '&' + (e.match(/;$/) ? e : e + ';');
+            chars.push('&' + (e.match(/;$/) ? e : e + ';'));
         }
         else if (cc < 32 || cc >= 127 || special[c]) {
-            return '&#' + cc + ';';
+            chars.push('&#' + cc + ';');
         }
         else if (/\s/.test(c)) {
-            return c;
+            chars.push(c);
         }
         else {
-            return c;
+            chars.push(c);
         }
-    }).join('');
+    }
+    return chars.join('');
 }
