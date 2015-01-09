@@ -12,11 +12,11 @@ exports.encode = function (str, opts) {
         '&': true
     };
     if (!opts) opts = {};
-    
+
     var numeric = true;
     if (opts.named) numeric = false;
     if (opts.numeric !== undefined) numeric = opts.numeric;
-    
+
     return str.split('').map(function (c) {
         var cc = c.charCodeAt(0);
         var e = revEntities[cc];
@@ -39,7 +39,7 @@ exports.decode = function (str) {
     if (typeof str !== 'string') {
         throw new TypeError('Expected a String');
     }
-    
+
     return str
         .replace(/&#(\d+);?/g, function (_, code) {
             return punycode.ucs2.encode([code]);
@@ -52,7 +52,7 @@ exports.decode = function (str) {
             var target = entities[e]
                 || (e.match(/;$/) && entities[ee])
             ;
-            
+
             if (typeof target === 'number') {
                 return punycode.ucs2.encode([target]);
             }
