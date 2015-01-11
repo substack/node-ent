@@ -25,7 +25,7 @@ function decode (str) {
             } else if (typeof target === 'string') {
                 return target;
             } else {
-                return m;
+                return '$' + withoutSemi + ';';
             }
         }
     });
