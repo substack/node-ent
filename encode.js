@@ -25,7 +25,7 @@ function encode (str, opts) {
         var c = punycode.ucs2.encode([ cc ]);
         var e = revEntities[cc];
         if (e && (cc >= 127 || special[c]) && !numeric) {
-            chars.push('&' + (e.match(/;$/) ? e : e + ';'));
+            chars.push('&' + (/;$/.test(e) ? e : e + ';'));
         }
         else if (cc < 32 || cc >= 127 || special[c]) {
             chars.push('&#' + cc + ';');
