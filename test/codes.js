@@ -55,8 +55,11 @@ test('num', function (t) {
 
 test('astral num', function (t) {
     var a = punycode.ucs2.encode([0x1d306]);
-    var b = '&#x1d306;';
+    var b = '&#119558;';
+    t.equal(ent.encode(a), b);
     t.equal(ent.decode(b), a);
+
+    t.equal(ent.encode(a + a), b + b);
     t.equal(ent.decode(b + b), a + a);
     t.end();
 });
