@@ -9,27 +9,25 @@ function decode (str) {
     }
 
     return str
-        .replace(/&#(\d+);?/g, function (_, code) {
-            return punycode.ucs2.encode([code]);
-        })
-        .replace(/&#[xX]([A-Fa-f0-9]+);?/g, function (_, hex) {
-            return punycode.ucs2.encode([parseInt(hex, 16)]);
-        })
-        .replace(/&([^;\W]+;?)/g, function (m, e) {
-            var ee = e.replace(/;$/, '');
-            var target = entities[e]
-                || (e.match(/;$/) && entities[ee])
-            ;
+        .replace(/&(#?[^;\W]+;?)/g, function (_, match) {
+          var m;
+          if (m = /^#(\d+);?$/.exec(match)) {
+            return punycode.ucs2.encode([ parseInt(m[1], 10) ]);
+          } else if (m = /^#[Xx]([A-Fa-f0-9]+);?/.exec(match)) {
+            return punycode.ucs2.encode([ parseInt(m[1], 16) ]);
+          } else {
+            // named entity
+            var hasSemi = /;$/.test(match);
+            var withoutSemi = hasSemi ? match.replace(/;%/, '') : match;
+            var target = entities[withoutSemi] || (hasSemi && entities[match]);
 
             if (typeof target === 'number') {
-                return punycode.ucs2.encode([target]);
-            }
-            else if (typeof target === 'string') {
+                return punycode.ucs2.encode([ target ]);
+            } else if (typeof target === 'string') {
                 return target;
-            }
-            else {
+            } else {
                 return m;
             }
-        })
-    ;
+          }
+        });
 }

@@ -60,3 +60,11 @@ test('astral num', function (t) {
     t.equal(ent.decode(b + b), a + a);
     t.end();
 });
+
+test('nested escapes', function (t) {
+    var a = '&amp;';
+    var b = '&#x26;amp;';
+    t.equal(ent.decode(b), a);
+    t.equal(ent.decode(b + b), a + a);
+    t.end();
+});
