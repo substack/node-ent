@@ -47,7 +47,7 @@ test('num', function (t) {
     var b = '&#1337;';
     t.equal(ent.encode(a), b);
     t.equal(ent.decode(b), a);
-    
+
     t.equal(ent.encode(a + a), b + b);
     t.equal(ent.decode(b + b), a + a);
     t.end();
@@ -63,8 +63,11 @@ test('astral num', function (t) {
 
 test('nested escapes', function (t) {
     var a = '&amp;';
-    var b = '&#x26;amp;';
+    var b = '&#38;amp;';
+    t.equal(ent.encode(a), b);
     t.equal(ent.decode(b), a);
+
+    t.equal(ent.encode(a + a), b + b);
     t.equal(ent.decode(b + b), a + a);
     t.end();
 });
