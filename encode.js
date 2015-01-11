@@ -30,9 +30,6 @@ function encode (str, opts) {
         else if (cc < 32 || cc >= 127 || special[c]) {
             chars.push('&#' + cc + ';');
         }
-        else if (/\s/.test(c)) {
-            chars.push(c);
-        }
         else {
             chars.push(c);
         }
