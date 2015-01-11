@@ -8,14 +8,13 @@ function decode (str) {
         throw new TypeError('Expected a String');
     }
 
-    return str
-        .replace(/&(#?[^;\W]+;?)/g, function (_, match) {
-          var m;
-          if (m = /^#(\d+);?$/.exec(match)) {
+    return str.replace(/&(#?[^;\W]+;?)/g, function (_, match) {
+        var m;
+        if (m = /^#(\d+);?$/.exec(match)) {
             return punycode.ucs2.encode([ parseInt(m[1], 10) ]);
-          } else if (m = /^#[Xx]([A-Fa-f0-9]+);?/.exec(match)) {
+        } else if (m = /^#[Xx]([A-Fa-f0-9]+);?/.exec(match)) {
             return punycode.ucs2.encode([ parseInt(m[1], 16) ]);
-          } else {
+        } else {
             // named entity
             var hasSemi = /;$/.test(match);
             var withoutSemi = hasSemi ? match.replace(/;%/, '') : match;
@@ -28,6 +27,6 @@ function decode (str) {
             } else {
                 return m;
             }
-          }
-        });
+        }
+    });
 }
