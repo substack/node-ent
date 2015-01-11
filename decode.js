@@ -17,7 +17,7 @@ function decode (str) {
         } else {
             // named entity
             var hasSemi = /;$/.test(match);
-            var withoutSemi = hasSemi ? match.replace(/;%/, '') : match;
+            var withoutSemi = hasSemi ? match.replace(/;$/, '') : match;
             var target = entities[withoutSemi] || (hasSemi && entities[match]);
 
             if (typeof target === 'number') {
