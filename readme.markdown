@@ -9,7 +9,7 @@ Encode and decode HTML entities
 # example
 
 ``` js
-var ent = require('ent');
+const ent = require('ent');
 console.log(ent.encode('<span>©moo</span>'))
 console.log(ent.decode('&pi; &amp; &rho;'));
 ```
@@ -24,9 +24,9 @@ console.log(ent.decode('&pi; &amp; &rho;'));
 # methods
 
 ``` js
-var ent = require('ent');
-var encode = require('ent/encode');
-var decode = require('ent/decode');
+const ent = require('ent');
+const encode = require('ent/encode');
+const decode = require('ent/decode');
 ```
 
 ## encode(str, opts={})
